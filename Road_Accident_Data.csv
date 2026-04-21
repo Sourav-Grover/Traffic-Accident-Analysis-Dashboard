@@ -1,0 +1,1251 @@
+Accident_ID,Date,Year,Month,Month_Num,Day_of_Week,State,City,Accident_Severity,Number_of_Casualties,Weather_Condition,Road_Type,Vehicle_Type,Time_of_Day,Is_Fatal
+ACC0001,2023-08-02,2023,August,8,Wednesday,Maharashtra,Mumbai,Low,0,Hazy,State Highway,Tempo,Morning (6-10),0
+ACC0002,2023-10-17,2023,October,10,Tuesday,Telangana,Hyderabad,Medium,2,Stormy,National Highway,Truck,Afternoon (10-15),0
+ACC0003,2022-10-31,2022,October,10,Monday,Bihar,Patna,Medium,6,Stormy,Rural Road,Truck,Night (19-23),0
+ACC0004,2023-04-21,2023,April,4,Friday,Karnataka,Bengaluru,High,10,Rainy,Urban Road,Truck,Afternoon (10-15),1
+ACC0005,2021-11-20,2021,November,11,Saturday,Maharashtra,Mumbai,Low,1,Cloudy,Expressway,Two-Wheeler,Morning (6-10),0
+ACC0006,2022-07-29,2022,July,7,Friday,Telangana,Hyderabad,Low,1,Cloudy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC0007,2023-03-28,2023,March,3,Tuesday,Rajasthan,Jaipur,Medium,4,Clear,National Highway,SUV,Afternoon (10-15),0
+ACC0008,2020-07-25,2020,July,7,Saturday,Madhya Pradesh,Gwalior,Medium,4,Cloudy,State Highway,Two-Wheeler,Evening (15-19),0
+ACC0009,2021-03-05,2021,March,3,Friday,Karnataka,Bengaluru,High,13,Stormy,Service Road,Truck,Afternoon (10-15),1
+ACC0010,2022-08-04,2022,August,8,Thursday,Madhya Pradesh,Gwalior,High,8,Hazy,Service Road,Two-Wheeler,Morning (6-10),1
+ACC0011,2021-04-14,2021,April,4,Wednesday,Uttar Pradesh,Agra,Low,0,Cloudy,Expressway,Tempo,Evening (15-19),0
+ACC0012,2021-03-11,2021,March,3,Thursday,West Bengal,Siliguri,Medium,4,Hazy,State Highway,Truck,Late Night (23-6),0
+ACC0013,2023-01-08,2023,January,1,Sunday,Karnataka,Belagavi,High,11,Cloudy,Urban Road,Truck,Afternoon (10-15),1
+ACC0014,2022-11-09,2022,November,11,Wednesday,West Bengal,Kolkata,High,7,Clear,Service Road,Truck,Night (19-23),1
+ACC0015,2023-05-06,2023,May,5,Saturday,Maharashtra,Nashik,Medium,5,Cloudy,Expressway,Two-Wheeler,Late Night (23-6),0
+ACC0016,2020-01-24,2020,January,1,Friday,Maharashtra,Aurangabad,High,10,Foggy,National Highway,Two-Wheeler,Night (19-23),1
+ACC0017,2020-11-19,2020,November,11,Thursday,West Bengal,Kolkata,High,9,Hazy,Expressway,SUV,Afternoon (10-15),1
+ACC0018,2022-11-05,2022,November,11,Saturday,Maharashtra,Nagpur,Medium,3,Hazy,State Highway,Two-Wheeler,Afternoon (10-15),0
+ACC0019,2023-01-09,2023,January,1,Monday,Telangana,Hyderabad,Medium,2,Stormy,National Highway,Two-Wheeler,Evening (15-19),0
+ACC0020,2021-05-05,2021,May,5,Wednesday,Uttar Pradesh,Kanpur,High,6,Stormy,Service Road,Bus,Morning (6-10),1
+ACC0021,2022-12-26,2022,December,12,Monday,Tamil Nadu,Coimbatore,Medium,6,Hazy,State Highway,Two-Wheeler,Late Night (23-6),0
+ACC0022,2023-05-27,2023,May,5,Saturday,Madhya Pradesh,Indore,High,8,Stormy,Service Road,Two-Wheeler,Night (19-23),1
+ACC0023,2023-10-07,2023,October,10,Saturday,Gujarat,Rajkot,Medium,3,Stormy,State Highway,Car,Evening (15-19),0
+ACC0024,2020-02-13,2020,February,2,Thursday,Bihar,Darbhanga,Medium,2,Rainy,National Highway,Tempo,Morning (6-10),0
+ACC0025,2021-04-13,2021,April,4,Tuesday,Maharashtra,Mumbai,Low,0,Foggy,Urban Road,Tempo,Night (19-23),0
+ACC0026,2021-03-14,2021,March,3,Sunday,Telangana,Warangal,High,14,Hazy,Expressway,Bus,Afternoon (10-15),1
+ACC0027,2022-08-26,2022,August,8,Friday,Madhya Pradesh,Indore,Low,1,Clear,Urban Road,Bus,Night (19-23),0
+ACC0028,2022-08-14,2022,August,8,Sunday,Uttar Pradesh,Lucknow,Low,1,Clear,National Highway,Truck,Afternoon (10-15),0
+ACC0029,2021-01-24,2021,January,1,Sunday,Telangana,Karimnagar,Medium,4,Rainy,Rural Road,Truck,Morning (6-10),0
+ACC0030,2022-06-26,2022,June,6,Sunday,Telangana,Hyderabad,Medium,6,Clear,National Highway,Car,Afternoon (10-15),0
+ACC0031,2020-12-06,2020,December,12,Sunday,Madhya Pradesh,Jabalpur,Low,1,Cloudy,National Highway,Truck,Night (19-23),0
+ACC0032,2020-01-05,2020,January,1,Sunday,Madhya Pradesh,Gwalior,Low,2,Cloudy,Service Road,SUV,Late Night (23-6),0
+ACC0033,2023-09-17,2023,September,9,Sunday,West Bengal,Howrah,Low,0,Rainy,Expressway,Tempo,Late Night (23-6),0
+ACC0034,2020-05-04,2020,May,5,Monday,Gujarat,Ahmedabad,Medium,6,Clear,Expressway,Truck,Morning (6-10),0
+ACC0035,2022-11-06,2022,November,11,Sunday,Maharashtra,Pune,Medium,3,Clear,Rural Road,Car,Late Night (23-6),0
+ACC0036,2021-05-19,2021,May,5,Wednesday,Bihar,Darbhanga,Medium,5,Clear,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0037,2022-12-06,2022,December,12,Tuesday,Gujarat,Vadodara,Medium,4,Rainy,State Highway,Two-Wheeler,Night (19-23),0
+ACC0038,2020-09-25,2020,September,9,Friday,Karnataka,Mangaluru,High,6,Foggy,National Highway,Bus,Late Night (23-6),1
+ACC0039,2023-02-27,2023,February,2,Monday,Maharashtra,Mumbai,Medium,4,Stormy,State Highway,Two-Wheeler,Morning (6-10),0
+ACC0040,2021-05-15,2021,May,5,Saturday,Gujarat,Vadodara,Medium,6,Rainy,Service Road,Two-Wheeler,Late Night (23-6),0
+ACC0041,2023-09-01,2023,September,9,Friday,Telangana,Hyderabad,High,9,Hazy,Service Road,Car,Afternoon (10-15),1
+ACC0042,2021-06-25,2021,June,6,Friday,Maharashtra,Mumbai,Medium,4,Hazy,Urban Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0043,2021-12-03,2021,December,12,Friday,Rajasthan,Udaipur,Medium,2,Stormy,National Highway,Tempo,Night (19-23),0
+ACC0044,2021-07-20,2021,July,7,Tuesday,Uttar Pradesh,Lucknow,High,15,Foggy,Urban Road,Truck,Night (19-23),1
+ACC0045,2023-02-03,2023,February,2,Friday,Madhya Pradesh,Ujjain,Low,2,Clear,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0046,2022-01-26,2022,January,1,Wednesday,Bihar,Darbhanga,Medium,2,Rainy,Urban Road,Two-Wheeler,Morning (6-10),0
+ACC0047,2022-01-02,2022,January,1,Sunday,Rajasthan,Jodhpur,Low,2,Hazy,Rural Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0048,2021-04-29,2021,April,4,Thursday,Tamil Nadu,Coimbatore,Low,2,Cloudy,Urban Road,SUV,Night (19-23),0
+ACC0049,2023-10-03,2023,October,10,Tuesday,Rajasthan,Udaipur,High,6,Rainy,Rural Road,SUV,Morning (6-10),1
+ACC0050,2022-08-21,2022,August,8,Sunday,Rajasthan,Jodhpur,Low,0,Cloudy,State Highway,Car,Afternoon (10-15),0
+ACC0051,2022-03-27,2022,March,3,Sunday,Gujarat,Vadodara,High,9,Clear,Urban Road,Tempo,Late Night (23-6),1
+ACC0052,2022-03-29,2022,March,3,Tuesday,Telangana,Nizamabad,Low,1,Clear,State Highway,Auto-Rickshaw,Evening (15-19),0
+ACC0053,2020-03-19,2020,March,3,Thursday,Maharashtra,Aurangabad,Low,1,Cloudy,Rural Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0054,2020-08-24,2020,August,8,Monday,Madhya Pradesh,Ujjain,Low,2,Rainy,Rural Road,Car,Late Night (23-6),0
+ACC0055,2023-01-07,2023,January,1,Saturday,Rajasthan,Udaipur,Low,2,Cloudy,Urban Road,Auto-Rickshaw,Evening (15-19),0
+ACC0056,2023-09-20,2023,September,9,Wednesday,Maharashtra,Nagpur,Medium,5,Stormy,Urban Road,Bus,Evening (15-19),0
+ACC0057,2023-02-09,2023,February,2,Thursday,Tamil Nadu,Coimbatore,Medium,5,Cloudy,Service Road,Tempo,Afternoon (10-15),0
+ACC0058,2023-06-14,2023,June,6,Wednesday,Bihar,Bhagalpur,Medium,2,Cloudy,Urban Road,Two-Wheeler,Afternoon (10-15),0
+ACC0059,2022-05-30,2022,May,5,Monday,Bihar,Darbhanga,Medium,5,Hazy,Rural Road,Tempo,Afternoon (10-15),0
+ACC0060,2022-11-12,2022,November,11,Saturday,West Bengal,Howrah,Low,2,Hazy,Service Road,Tempo,Late Night (23-6),0
+ACC0061,2021-11-17,2021,November,11,Wednesday,Maharashtra,Pune,Medium,3,Hazy,State Highway,Car,Morning (6-10),0
+ACC0062,2021-05-16,2021,May,5,Sunday,West Bengal,Durgapur,Medium,6,Clear,State Highway,Tempo,Night (19-23),0
+ACC0063,2022-10-09,2022,October,10,Sunday,Madhya Pradesh,Indore,Medium,2,Rainy,National Highway,SUV,Night (19-23),0
+ACC0064,2021-03-24,2021,March,3,Wednesday,Tamil Nadu,Tiruchirappalli,Low,0,Cloudy,National Highway,Bus,Afternoon (10-15),0
+ACC0065,2022-08-09,2022,August,8,Tuesday,Telangana,Khammam,Medium,5,Stormy,Expressway,SUV,Late Night (23-6),0
+ACC0066,2022-05-23,2022,May,5,Monday,Telangana,Karimnagar,High,12,Rainy,Rural Road,Two-Wheeler,Afternoon (10-15),1
+ACC0067,2023-07-29,2023,July,7,Saturday,Karnataka,Belagavi,Medium,4,Cloudy,Rural Road,Car,Evening (15-19),0
+ACC0068,2021-04-25,2021,April,4,Sunday,Karnataka,Hubli,High,6,Foggy,State Highway,Truck,Afternoon (10-15),1
+ACC0069,2022-02-23,2022,February,2,Wednesday,Tamil Nadu,Coimbatore,Low,1,Clear,Expressway,Bus,Night (19-23),0
+ACC0070,2020-05-07,2020,May,5,Thursday,Rajasthan,Kota,High,14,Cloudy,Service Road,Car,Late Night (23-6),1
+ACC0071,2022-02-18,2022,February,2,Friday,West Bengal,Kolkata,Medium,5,Foggy,Rural Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0072,2023-05-20,2023,May,5,Saturday,Rajasthan,Kota,Low,1,Rainy,National Highway,Bus,Evening (15-19),0
+ACC0073,2023-10-01,2023,October,10,Sunday,Madhya Pradesh,Indore,High,14,Cloudy,Expressway,Car,Night (19-23),1
+ACC0074,2023-04-27,2023,April,4,Thursday,Bihar,Patna,Medium,3,Clear,Rural Road,Truck,Morning (6-10),0
+ACC0075,2021-06-16,2021,June,6,Wednesday,Madhya Pradesh,Gwalior,Medium,4,Rainy,Rural Road,Two-Wheeler,Night (19-23),0
+ACC0076,2021-05-31,2021,May,5,Monday,Maharashtra,Nashik,Medium,2,Clear,Urban Road,Truck,Morning (6-10),0
+ACC0077,2023-08-27,2023,August,8,Sunday,Uttar Pradesh,Lucknow,Low,0,Rainy,Expressway,Truck,Afternoon (10-15),0
+ACC0078,2020-09-15,2020,September,9,Tuesday,West Bengal,Kolkata,High,12,Stormy,Service Road,Two-Wheeler,Evening (15-19),1
+ACC0079,2020-12-09,2020,December,12,Wednesday,Bihar,Darbhanga,High,7,Hazy,Urban Road,Car,Late Night (23-6),1
+ACC0080,2020-02-22,2020,February,2,Saturday,Karnataka,Belagavi,High,11,Hazy,Rural Road,Tempo,Afternoon (10-15),1
+ACC0081,2020-06-04,2020,June,6,Thursday,Bihar,Gaya,Medium,4,Clear,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC0082,2023-03-05,2023,March,3,Sunday,Uttar Pradesh,Agra,Medium,4,Stormy,National Highway,Auto-Rickshaw,Evening (15-19),0
+ACC0083,2020-01-26,2020,January,1,Sunday,Madhya Pradesh,Jabalpur,Low,1,Clear,Service Road,SUV,Night (19-23),0
+ACC0084,2023-12-19,2023,December,12,Tuesday,Tamil Nadu,Salem,High,15,Rainy,Urban Road,Auto-Rickshaw,Late Night (23-6),1
+ACC0085,2022-09-17,2022,September,9,Saturday,West Bengal,Siliguri,Medium,4,Hazy,State Highway,SUV,Morning (6-10),0
+ACC0086,2021-07-25,2021,July,7,Sunday,West Bengal,Howrah,Medium,5,Cloudy,Urban Road,Car,Night (19-23),0
+ACC0087,2021-10-27,2021,October,10,Wednesday,Tamil Nadu,Salem,Medium,4,Rainy,Urban Road,Two-Wheeler,Late Night (23-6),0
+ACC0088,2023-12-07,2023,December,12,Thursday,Karnataka,Belagavi,Medium,3,Clear,National Highway,Truck,Night (19-23),0
+ACC0089,2022-09-27,2022,September,9,Tuesday,Telangana,Warangal,Medium,5,Hazy,Rural Road,SUV,Morning (6-10),0
+ACC0090,2020-07-09,2020,July,7,Thursday,Karnataka,Mysuru,Medium,4,Cloudy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC0091,2022-08-27,2022,August,8,Saturday,Telangana,Khammam,Medium,6,Foggy,Urban Road,Two-Wheeler,Night (19-23),0
+ACC0092,2021-07-08,2021,July,7,Thursday,Karnataka,Hubli,Low,0,Rainy,Urban Road,Car,Late Night (23-6),0
+ACC0093,2023-11-14,2023,November,11,Tuesday,Tamil Nadu,Coimbatore,High,9,Rainy,Service Road,Auto-Rickshaw,Late Night (23-6),1
+ACC0094,2023-05-07,2023,May,5,Sunday,Karnataka,Bengaluru,Low,1,Rainy,State Highway,Two-Wheeler,Morning (6-10),0
+ACC0095,2023-12-21,2023,December,12,Thursday,Telangana,Warangal,Low,0,Foggy,Expressway,Two-Wheeler,Afternoon (10-15),0
+ACC0096,2023-07-30,2023,July,7,Sunday,West Bengal,Kolkata,Medium,5,Clear,Rural Road,Bus,Evening (15-19),0
+ACC0097,2021-01-12,2021,January,1,Tuesday,Uttar Pradesh,Agra,Low,0,Cloudy,Rural Road,Bus,Morning (6-10),0
+ACC0098,2023-03-27,2023,March,3,Monday,Uttar Pradesh,Kanpur,High,9,Rainy,National Highway,Truck,Morning (6-10),1
+ACC0099,2023-02-16,2023,February,2,Thursday,Madhya Pradesh,Ujjain,High,8,Stormy,Expressway,Bus,Night (19-23),1
+ACC0100,2022-06-25,2022,June,6,Saturday,Karnataka,Belagavi,Low,2,Cloudy,National Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0101,2021-03-01,2021,March,3,Monday,Rajasthan,Udaipur,Low,0,Hazy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0102,2020-11-16,2020,November,11,Monday,Uttar Pradesh,Varanasi,Medium,5,Cloudy,Urban Road,Car,Afternoon (10-15),0
+ACC0103,2021-08-13,2021,August,8,Friday,Karnataka,Mangaluru,Medium,4,Clear,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0104,2022-05-20,2022,May,5,Friday,Maharashtra,Aurangabad,Medium,4,Rainy,State Highway,Car,Morning (6-10),0
+ACC0105,2020-12-05,2020,December,12,Saturday,Karnataka,Belagavi,High,9,Hazy,Rural Road,Car,Night (19-23),1
+ACC0106,2023-11-11,2023,November,11,Saturday,Karnataka,Mangaluru,Medium,5,Foggy,Rural Road,Car,Late Night (23-6),0
+ACC0107,2020-03-22,2020,March,3,Sunday,Madhya Pradesh,Gwalior,Medium,2,Stormy,State Highway,Tempo,Late Night (23-6),0
+ACC0108,2023-04-17,2023,April,4,Monday,Uttar Pradesh,Agra,Low,0,Stormy,Rural Road,Auto-Rickshaw,Night (19-23),0
+ACC0109,2021-07-23,2021,July,7,Friday,Tamil Nadu,Tiruchirappalli,Medium,5,Cloudy,National Highway,Bus,Evening (15-19),0
+ACC0110,2022-04-16,2022,April,4,Saturday,Gujarat,Vadodara,Low,0,Hazy,Urban Road,Bus,Night (19-23),0
+ACC0111,2021-08-13,2021,August,8,Friday,Madhya Pradesh,Ujjain,Medium,4,Clear,Urban Road,Two-Wheeler,Morning (6-10),0
+ACC0112,2022-04-07,2022,April,4,Thursday,Telangana,Hyderabad,High,12,Hazy,Rural Road,Car,Afternoon (10-15),1
+ACC0113,2022-11-27,2022,November,11,Sunday,Gujarat,Gandhinagar,Medium,2,Cloudy,State Highway,Two-Wheeler,Late Night (23-6),0
+ACC0114,2020-09-25,2020,September,9,Friday,Karnataka,Mangaluru,Medium,2,Hazy,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0115,2023-12-24,2023,December,12,Sunday,Tamil Nadu,Madurai,Low,1,Stormy,National Highway,Truck,Morning (6-10),0
+ACC0116,2022-08-03,2022,August,8,Wednesday,Maharashtra,Pune,High,9,Cloudy,Expressway,Tempo,Evening (15-19),1
+ACC0117,2022-04-30,2022,April,4,Saturday,West Bengal,Siliguri,Medium,3,Rainy,Rural Road,Truck,Late Night (23-6),0
+ACC0118,2022-11-06,2022,November,11,Sunday,Tamil Nadu,Chennai,High,11,Foggy,Urban Road,SUV,Late Night (23-6),1
+ACC0119,2021-07-01,2021,July,7,Thursday,Uttar Pradesh,Agra,Medium,6,Hazy,Expressway,Tempo,Night (19-23),0
+ACC0120,2020-10-31,2020,October,10,Saturday,West Bengal,Durgapur,Low,2,Cloudy,Expressway,Bus,Night (19-23),0
+ACC0121,2021-10-21,2021,October,10,Thursday,Rajasthan,Jodhpur,Medium,5,Stormy,National Highway,Two-Wheeler,Night (19-23),0
+ACC0122,2023-12-15,2023,December,12,Friday,Madhya Pradesh,Jabalpur,High,15,Hazy,State Highway,Bus,Morning (6-10),1
+ACC0123,2020-09-15,2020,September,9,Tuesday,Telangana,Khammam,High,12,Foggy,National Highway,Auto-Rickshaw,Night (19-23),1
+ACC0124,2020-02-01,2020,February,2,Saturday,Tamil Nadu,Salem,High,6,Hazy,Rural Road,SUV,Evening (15-19),1
+ACC0125,2021-11-24,2021,November,11,Wednesday,Bihar,Muzaffarpur,Low,1,Hazy,Service Road,SUV,Late Night (23-6),0
+ACC0126,2022-02-17,2022,February,2,Thursday,Gujarat,Rajkot,Low,0,Stormy,State Highway,Tempo,Evening (15-19),0
+ACC0127,2021-04-10,2021,April,4,Saturday,Maharashtra,Nashik,Medium,2,Clear,Rural Road,Truck,Evening (15-19),0
+ACC0128,2020-02-29,2020,February,2,Saturday,Uttar Pradesh,Agra,Low,1,Clear,Rural Road,Truck,Afternoon (10-15),0
+ACC0129,2022-12-23,2022,December,12,Friday,Madhya Pradesh,Ujjain,High,7,Hazy,State Highway,Car,Late Night (23-6),1
+ACC0130,2022-02-22,2022,February,2,Tuesday,Bihar,Gaya,High,7,Cloudy,State Highway,Bus,Evening (15-19),1
+ACC0131,2022-07-30,2022,July,7,Saturday,Karnataka,Bengaluru,High,15,Cloudy,Expressway,Truck,Morning (6-10),1
+ACC0132,2022-06-23,2022,June,6,Thursday,Gujarat,Gandhinagar,High,11,Foggy,Service Road,Two-Wheeler,Night (19-23),1
+ACC0133,2021-09-10,2021,September,9,Friday,Rajasthan,Kota,Low,1,Cloudy,Expressway,Two-Wheeler,Late Night (23-6),0
+ACC0134,2021-08-28,2021,August,8,Saturday,Karnataka,Bengaluru,Medium,2,Hazy,Expressway,SUV,Morning (6-10),0
+ACC0135,2023-05-26,2023,May,5,Friday,West Bengal,Asansol,Medium,4,Rainy,State Highway,Tempo,Afternoon (10-15),0
+ACC0136,2023-06-25,2023,June,6,Sunday,Karnataka,Mysuru,Low,2,Hazy,Service Road,Car,Evening (15-19),0
+ACC0137,2022-06-21,2022,June,6,Tuesday,Uttar Pradesh,Noida,High,6,Foggy,Urban Road,Two-Wheeler,Night (19-23),1
+ACC0138,2020-12-25,2020,December,12,Friday,Rajasthan,Jodhpur,High,10,Stormy,Expressway,Auto-Rickshaw,Evening (15-19),1
+ACC0139,2020-12-02,2020,December,12,Wednesday,Karnataka,Mangaluru,High,10,Foggy,National Highway,Bus,Morning (6-10),1
+ACC0140,2020-10-15,2020,October,10,Thursday,Rajasthan,Kota,Medium,5,Stormy,National Highway,Two-Wheeler,Late Night (23-6),0
+ACC0141,2020-09-10,2020,September,9,Thursday,West Bengal,Asansol,High,9,Hazy,Expressway,Bus,Evening (15-19),1
+ACC0142,2020-08-09,2020,August,8,Sunday,Rajasthan,Kota,Medium,6,Clear,Urban Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0143,2023-08-19,2023,August,8,Saturday,Maharashtra,Nashik,Medium,5,Hazy,National Highway,Truck,Morning (6-10),0
+ACC0144,2020-03-17,2020,March,3,Tuesday,Karnataka,Mangaluru,Low,2,Clear,State Highway,Bus,Night (19-23),0
+ACC0145,2022-01-29,2022,January,1,Saturday,Telangana,Karimnagar,High,7,Stormy,Rural Road,Tempo,Morning (6-10),1
+ACC0146,2022-09-29,2022,September,9,Thursday,Bihar,Muzaffarpur,Low,1,Foggy,State Highway,Bus,Night (19-23),0
+ACC0147,2021-04-28,2021,April,4,Wednesday,Gujarat,Ahmedabad,Medium,4,Hazy,National Highway,Bus,Evening (15-19),0
+ACC0148,2021-01-23,2021,January,1,Saturday,Maharashtra,Nashik,Medium,6,Clear,National Highway,Car,Evening (15-19),0
+ACC0149,2021-05-13,2021,May,5,Thursday,Tamil Nadu,Tiruchirappalli,Low,2,Rainy,State Highway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0150,2021-04-22,2021,April,4,Thursday,Gujarat,Surat,Low,0,Stormy,State Highway,Auto-Rickshaw,Evening (15-19),0
+ACC0151,2020-12-23,2020,December,12,Wednesday,Maharashtra,Mumbai,Low,0,Rainy,Expressway,Two-Wheeler,Morning (6-10),0
+ACC0152,2020-12-22,2020,December,12,Tuesday,Karnataka,Bengaluru,High,13,Rainy,National Highway,Tempo,Morning (6-10),1
+ACC0153,2022-09-02,2022,September,9,Friday,West Bengal,Asansol,High,12,Stormy,Expressway,Truck,Late Night (23-6),1
+ACC0154,2020-03-29,2020,March,3,Sunday,Telangana,Nizamabad,Medium,2,Cloudy,National Highway,Bus,Night (19-23),0
+ACC0155,2022-05-23,2022,May,5,Monday,Maharashtra,Nashik,High,6,Hazy,National Highway,Two-Wheeler,Late Night (23-6),1
+ACC0156,2020-10-30,2020,October,10,Friday,Maharashtra,Pune,High,14,Foggy,Expressway,Tempo,Evening (15-19),1
+ACC0157,2022-02-19,2022,February,2,Saturday,Bihar,Darbhanga,Medium,6,Foggy,Rural Road,Car,Morning (6-10),0
+ACC0158,2023-09-02,2023,September,9,Saturday,Telangana,Warangal,Medium,3,Cloudy,Rural Road,Two-Wheeler,Night (19-23),0
+ACC0159,2022-03-27,2022,March,3,Sunday,Madhya Pradesh,Bhopal,Medium,4,Foggy,Urban Road,Truck,Night (19-23),0
+ACC0160,2020-05-17,2020,May,5,Sunday,Maharashtra,Mumbai,Low,2,Clear,Service Road,Two-Wheeler,Afternoon (10-15),0
+ACC0161,2023-02-13,2023,February,2,Monday,Uttar Pradesh,Noida,High,15,Stormy,National Highway,Bus,Evening (15-19),1
+ACC0162,2023-09-24,2023,September,9,Sunday,Madhya Pradesh,Bhopal,High,10,Foggy,National Highway,Auto-Rickshaw,Late Night (23-6),1
+ACC0163,2021-03-11,2021,March,3,Thursday,Tamil Nadu,Salem,High,10,Rainy,Expressway,Two-Wheeler,Morning (6-10),1
+ACC0164,2021-07-24,2021,July,7,Saturday,Bihar,Gaya,High,14,Cloudy,Expressway,Tempo,Late Night (23-6),1
+ACC0165,2020-02-23,2020,February,2,Sunday,Bihar,Bhagalpur,Low,2,Clear,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC0166,2020-01-13,2020,January,1,Monday,Tamil Nadu,Coimbatore,High,6,Stormy,State Highway,Tempo,Morning (6-10),1
+ACC0167,2020-07-06,2020,July,7,Monday,Telangana,Warangal,Medium,4,Cloudy,State Highway,Two-Wheeler,Evening (15-19),0
+ACC0168,2021-10-26,2021,October,10,Tuesday,Bihar,Darbhanga,High,7,Clear,State Highway,SUV,Late Night (23-6),1
+ACC0169,2020-04-11,2020,April,4,Saturday,Maharashtra,Nagpur,Medium,5,Cloudy,Expressway,Bus,Night (19-23),0
+ACC0170,2021-07-13,2021,July,7,Tuesday,Rajasthan,Ajmer,Low,0,Clear,Urban Road,Tempo,Late Night (23-6),0
+ACC0171,2022-09-23,2022,September,9,Friday,Telangana,Nizamabad,Low,2,Clear,National Highway,Car,Afternoon (10-15),0
+ACC0172,2021-09-09,2021,September,9,Thursday,Rajasthan,Jodhpur,Medium,2,Foggy,National Highway,Bus,Night (19-23),0
+ACC0173,2020-12-25,2020,December,12,Friday,Tamil Nadu,Salem,High,13,Stormy,Expressway,SUV,Evening (15-19),1
+ACC0174,2020-05-27,2020,May,5,Wednesday,Madhya Pradesh,Bhopal,Low,0,Cloudy,Urban Road,Auto-Rickshaw,Night (19-23),0
+ACC0175,2023-03-20,2023,March,3,Monday,Madhya Pradesh,Jabalpur,Low,0,Foggy,Urban Road,Truck,Late Night (23-6),0
+ACC0176,2022-07-31,2022,July,7,Sunday,Gujarat,Ahmedabad,High,8,Cloudy,Rural Road,Auto-Rickshaw,Night (19-23),1
+ACC0177,2022-12-09,2022,December,12,Friday,Maharashtra,Nashik,High,8,Foggy,Urban Road,SUV,Afternoon (10-15),1
+ACC0178,2020-06-05,2020,June,6,Friday,Telangana,Hyderabad,High,10,Stormy,Urban Road,Tempo,Afternoon (10-15),1
+ACC0179,2021-04-28,2021,April,4,Wednesday,Maharashtra,Pune,Low,2,Foggy,State Highway,SUV,Morning (6-10),0
+ACC0180,2020-12-28,2020,December,12,Monday,West Bengal,Siliguri,High,12,Stormy,Service Road,Auto-Rickshaw,Late Night (23-6),1
+ACC0181,2021-10-23,2021,October,10,Saturday,Gujarat,Surat,Low,1,Cloudy,Service Road,Two-Wheeler,Evening (15-19),0
+ACC0182,2023-04-26,2023,April,4,Wednesday,Uttar Pradesh,Agra,Low,1,Stormy,Rural Road,Car,Morning (6-10),0
+ACC0183,2022-01-25,2022,January,1,Tuesday,Karnataka,Bengaluru,High,6,Hazy,Expressway,Auto-Rickshaw,Late Night (23-6),1
+ACC0184,2022-02-26,2022,February,2,Saturday,West Bengal,Durgapur,High,5,Stormy,Rural Road,SUV,Late Night (23-6),1
+ACC0185,2023-08-27,2023,August,8,Sunday,Rajasthan,Udaipur,Medium,3,Stormy,National Highway,Bus,Morning (6-10),0
+ACC0186,2021-12-04,2021,December,12,Saturday,Maharashtra,Aurangabad,Low,0,Hazy,Service Road,Bus,Night (19-23),0
+ACC0187,2022-12-09,2022,December,12,Friday,Telangana,Khammam,Medium,4,Rainy,Rural Road,Bus,Evening (15-19),0
+ACC0188,2023-10-22,2023,October,10,Sunday,Bihar,Patna,Medium,2,Hazy,Urban Road,Car,Late Night (23-6),0
+ACC0189,2023-10-21,2023,October,10,Saturday,Madhya Pradesh,Gwalior,High,15,Foggy,Expressway,SUV,Afternoon (10-15),1
+ACC0190,2021-11-13,2021,November,11,Saturday,Maharashtra,Aurangabad,Low,1,Hazy,Urban Road,Tempo,Night (19-23),0
+ACC0191,2020-09-21,2020,September,9,Monday,Bihar,Patna,High,15,Foggy,Urban Road,SUV,Afternoon (10-15),1
+ACC0192,2023-10-04,2023,October,10,Wednesday,Telangana,Hyderabad,Medium,6,Hazy,Urban Road,Car,Evening (15-19),0
+ACC0193,2021-09-24,2021,September,9,Friday,Tamil Nadu,Coimbatore,High,12,Foggy,State Highway,Truck,Afternoon (10-15),1
+ACC0194,2020-11-13,2020,November,11,Friday,Maharashtra,Nagpur,Medium,6,Clear,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC0195,2023-09-17,2023,September,9,Sunday,Gujarat,Gandhinagar,Medium,3,Rainy,State Highway,Truck,Late Night (23-6),0
+ACC0196,2020-12-05,2020,December,12,Saturday,West Bengal,Kolkata,Low,2,Cloudy,State Highway,Bus,Late Night (23-6),0
+ACC0197,2021-08-06,2021,August,8,Friday,West Bengal,Howrah,Medium,5,Stormy,State Highway,Two-Wheeler,Late Night (23-6),0
+ACC0198,2022-06-21,2022,June,6,Tuesday,West Bengal,Asansol,Medium,5,Cloudy,State Highway,SUV,Afternoon (10-15),0
+ACC0199,2023-05-23,2023,May,5,Tuesday,Tamil Nadu,Madurai,Medium,4,Clear,Expressway,Car,Late Night (23-6),0
+ACC0200,2020-09-12,2020,September,9,Saturday,Karnataka,Bengaluru,Low,2,Rainy,State Highway,SUV,Night (19-23),0
+ACC0201,2020-07-06,2020,July,7,Monday,Rajasthan,Kota,High,11,Foggy,National Highway,Bus,Late Night (23-6),1
+ACC0202,2022-02-04,2022,February,2,Friday,Rajasthan,Kota,Low,0,Clear,Urban Road,Car,Evening (15-19),0
+ACC0203,2020-10-26,2020,October,10,Monday,Tamil Nadu,Chennai,High,12,Foggy,Service Road,SUV,Afternoon (10-15),1
+ACC0204,2023-12-15,2023,December,12,Friday,West Bengal,Siliguri,Low,0,Stormy,National Highway,Two-Wheeler,Afternoon (10-15),0
+ACC0205,2020-11-02,2020,November,11,Monday,Telangana,Khammam,Medium,4,Stormy,State Highway,Two-Wheeler,Morning (6-10),0
+ACC0206,2020-04-07,2020,April,4,Tuesday,Rajasthan,Kota,High,12,Hazy,National Highway,Car,Night (19-23),1
+ACC0207,2023-05-07,2023,May,5,Sunday,Telangana,Hyderabad,Medium,3,Hazy,Service Road,Truck,Evening (15-19),0
+ACC0208,2022-05-29,2022,May,5,Sunday,Uttar Pradesh,Noida,Medium,5,Foggy,State Highway,Tempo,Morning (6-10),0
+ACC0209,2022-12-08,2022,December,12,Thursday,Gujarat,Ahmedabad,High,13,Stormy,Expressway,Car,Night (19-23),1
+ACC0210,2022-08-20,2022,August,8,Saturday,Uttar Pradesh,Varanasi,Medium,2,Foggy,Urban Road,SUV,Morning (6-10),0
+ACC0211,2021-12-07,2021,December,12,Tuesday,Rajasthan,Jaipur,High,10,Stormy,State Highway,Car,Evening (15-19),1
+ACC0212,2023-01-23,2023,January,1,Monday,Gujarat,Surat,Medium,5,Hazy,Service Road,Truck,Afternoon (10-15),0
+ACC0213,2020-05-09,2020,May,5,Saturday,West Bengal,Kolkata,Medium,3,Foggy,National Highway,Two-Wheeler,Evening (15-19),0
+ACC0214,2022-11-21,2022,November,11,Monday,Madhya Pradesh,Ujjain,Low,2,Cloudy,State Highway,Two-Wheeler,Evening (15-19),0
+ACC0215,2020-04-07,2020,April,4,Tuesday,Gujarat,Vadodara,Medium,5,Clear,Rural Road,Tempo,Night (19-23),0
+ACC0216,2022-03-02,2022,March,3,Wednesday,Gujarat,Surat,Medium,4,Cloudy,Expressway,Two-Wheeler,Morning (6-10),0
+ACC0217,2022-05-19,2022,May,5,Thursday,Maharashtra,Nashik,High,7,Stormy,Expressway,Two-Wheeler,Evening (15-19),1
+ACC0218,2020-07-29,2020,July,7,Wednesday,Maharashtra,Nagpur,Medium,5,Hazy,Expressway,Tempo,Night (19-23),0
+ACC0219,2020-12-07,2020,December,12,Monday,West Bengal,Asansol,Low,1,Cloudy,Expressway,Bus,Evening (15-19),0
+ACC0220,2023-08-02,2023,August,8,Wednesday,Uttar Pradesh,Lucknow,Medium,4,Hazy,Expressway,SUV,Afternoon (10-15),0
+ACC0221,2020-03-04,2020,March,3,Wednesday,Tamil Nadu,Tiruchirappalli,High,5,Hazy,State Highway,Car,Afternoon (10-15),1
+ACC0222,2023-08-14,2023,August,8,Monday,Gujarat,Vadodara,High,5,Cloudy,Expressway,Truck,Night (19-23),1
+ACC0223,2022-01-29,2022,January,1,Saturday,Gujarat,Rajkot,Medium,6,Clear,Urban Road,Bus,Evening (15-19),0
+ACC0224,2023-08-23,2023,August,8,Wednesday,Karnataka,Mysuru,Low,0,Clear,Rural Road,Auto-Rickshaw,Night (19-23),0
+ACC0225,2023-02-24,2023,February,2,Friday,Maharashtra,Nagpur,High,8,Foggy,Expressway,Two-Wheeler,Night (19-23),1
+ACC0226,2021-02-13,2021,February,2,Saturday,Maharashtra,Pune,Medium,5,Clear,National Highway,SUV,Evening (15-19),0
+ACC0227,2023-09-29,2023,September,9,Friday,Gujarat,Ahmedabad,High,9,Stormy,State Highway,Tempo,Afternoon (10-15),1
+ACC0228,2022-01-10,2022,January,1,Monday,Telangana,Warangal,High,7,Clear,State Highway,SUV,Night (19-23),1
+ACC0229,2020-02-23,2020,February,2,Sunday,Gujarat,Gandhinagar,Medium,6,Stormy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0230,2020-05-14,2020,May,5,Thursday,Karnataka,Mangaluru,High,13,Hazy,Rural Road,SUV,Night (19-23),1
+ACC0231,2023-03-23,2023,March,3,Thursday,Maharashtra,Pune,High,12,Foggy,Rural Road,Tempo,Late Night (23-6),1
+ACC0232,2021-12-06,2021,December,12,Monday,Tamil Nadu,Tiruchirappalli,Medium,3,Hazy,Rural Road,Auto-Rickshaw,Morning (6-10),0
+ACC0233,2020-09-11,2020,September,9,Friday,Telangana,Warangal,Low,1,Foggy,Service Road,Truck,Evening (15-19),0
+ACC0234,2022-11-28,2022,November,11,Monday,Karnataka,Bengaluru,Low,2,Foggy,Urban Road,Truck,Evening (15-19),0
+ACC0235,2023-06-12,2023,June,6,Monday,Telangana,Hyderabad,High,14,Stormy,Expressway,Truck,Afternoon (10-15),1
+ACC0236,2023-09-11,2023,September,9,Monday,Bihar,Darbhanga,High,14,Foggy,National Highway,SUV,Morning (6-10),1
+ACC0237,2020-06-15,2020,June,6,Monday,Uttar Pradesh,Noida,High,14,Foggy,Rural Road,Auto-Rickshaw,Morning (6-10),1
+ACC0238,2022-10-16,2022,October,10,Sunday,Telangana,Nizamabad,High,12,Hazy,State Highway,SUV,Night (19-23),1
+ACC0239,2021-09-01,2021,September,9,Wednesday,West Bengal,Kolkata,Low,1,Hazy,Rural Road,Bus,Night (19-23),0
+ACC0240,2021-02-21,2021,February,2,Sunday,Gujarat,Gandhinagar,Medium,4,Rainy,Service Road,SUV,Evening (15-19),0
+ACC0241,2022-03-27,2022,March,3,Sunday,Tamil Nadu,Madurai,High,10,Stormy,State Highway,Bus,Morning (6-10),1
+ACC0242,2021-07-01,2021,July,7,Thursday,West Bengal,Howrah,Low,1,Rainy,Rural Road,SUV,Late Night (23-6),0
+ACC0243,2022-05-06,2022,May,5,Friday,Rajasthan,Jodhpur,High,10,Foggy,State Highway,SUV,Afternoon (10-15),1
+ACC0244,2022-10-17,2022,October,10,Monday,Telangana,Karimnagar,High,12,Cloudy,National Highway,Car,Night (19-23),1
+ACC0245,2022-11-01,2022,November,11,Tuesday,West Bengal,Howrah,Medium,2,Rainy,National Highway,Two-Wheeler,Night (19-23),0
+ACC0246,2023-05-08,2023,May,5,Monday,West Bengal,Asansol,Low,0,Stormy,Rural Road,Truck,Evening (15-19),0
+ACC0247,2022-01-19,2022,January,1,Wednesday,Madhya Pradesh,Gwalior,Low,2,Clear,Expressway,Truck,Evening (15-19),0
+ACC0248,2023-02-07,2023,February,2,Tuesday,Karnataka,Bengaluru,Medium,6,Cloudy,Urban Road,SUV,Late Night (23-6),0
+ACC0249,2023-10-25,2023,October,10,Wednesday,Bihar,Patna,High,11,Rainy,Urban Road,SUV,Evening (15-19),1
+ACC0250,2023-02-16,2023,February,2,Thursday,Gujarat,Surat,Medium,5,Rainy,Expressway,Car,Morning (6-10),0
+ACC0251,2020-03-20,2020,March,3,Friday,Tamil Nadu,Madurai,Medium,3,Cloudy,Expressway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0252,2021-11-02,2021,November,11,Tuesday,Bihar,Bhagalpur,Medium,6,Rainy,Service Road,SUV,Evening (15-19),0
+ACC0253,2023-04-30,2023,April,4,Sunday,Gujarat,Gandhinagar,High,14,Stormy,Urban Road,Bus,Morning (6-10),1
+ACC0254,2022-01-24,2022,January,1,Monday,Gujarat,Ahmedabad,Medium,2,Cloudy,Expressway,Bus,Evening (15-19),0
+ACC0255,2023-09-04,2023,September,9,Monday,Bihar,Darbhanga,High,14,Rainy,Rural Road,Truck,Late Night (23-6),1
+ACC0256,2023-07-12,2023,July,7,Wednesday,Bihar,Muzaffarpur,High,8,Rainy,National Highway,Auto-Rickshaw,Morning (6-10),1
+ACC0257,2021-01-25,2021,January,1,Monday,Uttar Pradesh,Varanasi,Medium,5,Foggy,Service Road,Truck,Night (19-23),0
+ACC0258,2022-10-24,2022,October,10,Monday,Bihar,Muzaffarpur,High,7,Hazy,Expressway,Truck,Late Night (23-6),1
+ACC0259,2021-10-27,2021,October,10,Wednesday,West Bengal,Durgapur,Low,0,Cloudy,Rural Road,Auto-Rickshaw,Evening (15-19),0
+ACC0260,2023-01-23,2023,January,1,Monday,Gujarat,Vadodara,Medium,3,Stormy,Urban Road,Auto-Rickshaw,Evening (15-19),0
+ACC0261,2021-04-05,2021,April,4,Monday,Karnataka,Hubli,Low,2,Hazy,Rural Road,Two-Wheeler,Night (19-23),0
+ACC0262,2021-12-15,2021,December,12,Wednesday,Telangana,Nizamabad,Low,2,Foggy,Expressway,Bus,Night (19-23),0
+ACC0263,2021-12-07,2021,December,12,Tuesday,Tamil Nadu,Madurai,Low,2,Clear,National Highway,Two-Wheeler,Night (19-23),0
+ACC0264,2023-09-05,2023,September,9,Tuesday,Karnataka,Mangaluru,Low,2,Rainy,Urban Road,Auto-Rickshaw,Evening (15-19),0
+ACC0265,2020-10-08,2020,October,10,Thursday,Maharashtra,Aurangabad,Medium,3,Hazy,National Highway,Tempo,Late Night (23-6),0
+ACC0266,2021-04-07,2021,April,4,Wednesday,Rajasthan,Jaipur,Low,2,Clear,Rural Road,Car,Afternoon (10-15),0
+ACC0267,2020-01-11,2020,January,1,Saturday,Telangana,Warangal,Medium,5,Cloudy,Rural Road,Tempo,Afternoon (10-15),0
+ACC0268,2021-08-11,2021,August,8,Wednesday,Gujarat,Vadodara,Low,0,Hazy,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0269,2022-12-31,2022,December,12,Saturday,Uttar Pradesh,Kanpur,High,7,Cloudy,National Highway,SUV,Night (19-23),1
+ACC0270,2022-10-11,2022,October,10,Tuesday,Tamil Nadu,Madurai,Low,2,Clear,Expressway,Car,Evening (15-19),0
+ACC0271,2021-08-05,2021,August,8,Thursday,West Bengal,Durgapur,Medium,3,Stormy,Expressway,Bus,Evening (15-19),0
+ACC0272,2021-01-29,2021,January,1,Friday,Maharashtra,Nagpur,High,15,Rainy,Urban Road,Tempo,Afternoon (10-15),1
+ACC0273,2020-01-29,2020,January,1,Wednesday,Gujarat,Vadodara,High,8,Stormy,State Highway,Auto-Rickshaw,Night (19-23),1
+ACC0274,2022-05-25,2022,May,5,Wednesday,Telangana,Nizamabad,Low,0,Clear,State Highway,Truck,Night (19-23),0
+ACC0275,2021-10-24,2021,October,10,Sunday,Rajasthan,Jaipur,Medium,5,Foggy,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC0276,2023-04-07,2023,April,4,Friday,Bihar,Patna,High,8,Foggy,National Highway,Tempo,Morning (6-10),1
+ACC0277,2022-08-11,2022,August,8,Thursday,Karnataka,Mysuru,Medium,4,Cloudy,Service Road,Car,Evening (15-19),0
+ACC0278,2022-01-22,2022,January,1,Saturday,Bihar,Gaya,High,12,Rainy,State Highway,Bus,Late Night (23-6),1
+ACC0279,2022-02-04,2022,February,2,Friday,Madhya Pradesh,Ujjain,Medium,3,Cloudy,State Highway,Tempo,Late Night (23-6),0
+ACC0280,2020-06-16,2020,June,6,Tuesday,Telangana,Karimnagar,High,6,Stormy,Expressway,Car,Morning (6-10),1
+ACC0281,2023-01-26,2023,January,1,Thursday,Telangana,Warangal,High,7,Stormy,Urban Road,SUV,Late Night (23-6),1
+ACC0282,2022-06-23,2022,June,6,Thursday,Maharashtra,Pune,Medium,2,Hazy,Expressway,Bus,Morning (6-10),0
+ACC0283,2022-07-17,2022,July,7,Sunday,Tamil Nadu,Tiruchirappalli,Medium,2,Cloudy,Expressway,Bus,Evening (15-19),0
+ACC0284,2020-02-14,2020,February,2,Friday,Madhya Pradesh,Gwalior,Medium,6,Clear,National Highway,Car,Night (19-23),0
+ACC0285,2021-12-06,2021,December,12,Monday,Maharashtra,Aurangabad,High,6,Clear,Rural Road,Car,Evening (15-19),1
+ACC0286,2022-04-17,2022,April,4,Sunday,Tamil Nadu,Coimbatore,High,15,Hazy,Rural Road,Two-Wheeler,Night (19-23),1
+ACC0287,2022-07-07,2022,July,7,Thursday,Madhya Pradesh,Jabalpur,Medium,6,Clear,State Highway,Tempo,Evening (15-19),0
+ACC0288,2020-08-30,2020,August,8,Sunday,Tamil Nadu,Tiruchirappalli,Medium,3,Cloudy,National Highway,SUV,Morning (6-10),0
+ACC0289,2021-09-03,2021,September,9,Friday,West Bengal,Durgapur,Medium,3,Cloudy,State Highway,Bus,Evening (15-19),0
+ACC0290,2020-11-13,2020,November,11,Friday,Karnataka,Mysuru,High,5,Hazy,Service Road,Bus,Late Night (23-6),1
+ACC0291,2020-02-02,2020,February,2,Sunday,Rajasthan,Jodhpur,Low,0,Clear,Rural Road,Auto-Rickshaw,Morning (6-10),0
+ACC0292,2021-05-16,2021,May,5,Sunday,Uttar Pradesh,Varanasi,Low,0,Cloudy,National Highway,Truck,Late Night (23-6),0
+ACC0293,2021-08-15,2021,August,8,Sunday,Rajasthan,Ajmer,High,15,Foggy,Urban Road,Truck,Evening (15-19),1
+ACC0294,2020-10-20,2020,October,10,Tuesday,Telangana,Warangal,Low,0,Cloudy,Expressway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0295,2023-07-06,2023,July,7,Thursday,Madhya Pradesh,Ujjain,Low,1,Cloudy,Service Road,Tempo,Night (19-23),0
+ACC0296,2022-12-10,2022,December,12,Saturday,Gujarat,Rajkot,Low,1,Cloudy,State Highway,SUV,Late Night (23-6),0
+ACC0297,2022-08-27,2022,August,8,Saturday,Rajasthan,Jodhpur,High,7,Foggy,Rural Road,Car,Late Night (23-6),1
+ACC0298,2022-04-25,2022,April,4,Monday,Madhya Pradesh,Ujjain,Low,0,Stormy,Urban Road,Truck,Evening (15-19),0
+ACC0299,2023-08-17,2023,August,8,Thursday,Maharashtra,Nashik,Low,2,Foggy,State Highway,Car,Evening (15-19),0
+ACC0300,2022-02-11,2022,February,2,Friday,Bihar,Darbhanga,High,8,Clear,Expressway,Tempo,Late Night (23-6),1
+ACC0301,2021-03-20,2021,March,3,Saturday,West Bengal,Howrah,Medium,2,Foggy,State Highway,Truck,Morning (6-10),0
+ACC0302,2022-09-07,2022,September,9,Wednesday,Rajasthan,Ajmer,Low,0,Hazy,Expressway,Two-Wheeler,Evening (15-19),0
+ACC0303,2022-02-18,2022,February,2,Friday,West Bengal,Durgapur,Medium,4,Hazy,Urban Road,Auto-Rickshaw,Night (19-23),0
+ACC0304,2022-08-12,2022,August,8,Friday,Maharashtra,Nashik,High,10,Foggy,Urban Road,Bus,Morning (6-10),1
+ACC0305,2023-02-26,2023,February,2,Sunday,Rajasthan,Jodhpur,Low,2,Clear,Expressway,Tempo,Night (19-23),0
+ACC0306,2021-08-27,2021,August,8,Friday,Tamil Nadu,Coimbatore,Medium,6,Foggy,State Highway,Bus,Late Night (23-6),0
+ACC0307,2023-09-02,2023,September,9,Saturday,Gujarat,Vadodara,High,15,Cloudy,Service Road,Bus,Night (19-23),1
+ACC0308,2020-12-10,2020,December,12,Thursday,Gujarat,Surat,High,12,Rainy,State Highway,Auto-Rickshaw,Morning (6-10),1
+ACC0309,2022-12-09,2022,December,12,Friday,Uttar Pradesh,Lucknow,Low,0,Hazy,Rural Road,Truck,Afternoon (10-15),0
+ACC0310,2020-05-19,2020,May,5,Tuesday,Tamil Nadu,Chennai,Medium,4,Rainy,National Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0311,2022-09-16,2022,September,9,Friday,West Bengal,Kolkata,Medium,5,Clear,National Highway,Car,Late Night (23-6),0
+ACC0312,2021-07-16,2021,July,7,Friday,Telangana,Nizamabad,Medium,5,Clear,State Highway,Car,Morning (6-10),0
+ACC0313,2022-12-09,2022,December,12,Friday,Tamil Nadu,Coimbatore,Medium,4,Rainy,Urban Road,Two-Wheeler,Night (19-23),0
+ACC0314,2020-06-10,2020,June,6,Wednesday,Gujarat,Rajkot,Medium,3,Cloudy,Urban Road,Tempo,Morning (6-10),0
+ACC0315,2023-08-31,2023,August,8,Thursday,Uttar Pradesh,Lucknow,Low,2,Cloudy,Rural Road,Car,Morning (6-10),0
+ACC0316,2023-12-10,2023,December,12,Sunday,Tamil Nadu,Chennai,High,15,Cloudy,Urban Road,Auto-Rickshaw,Morning (6-10),1
+ACC0317,2022-12-17,2022,December,12,Saturday,Uttar Pradesh,Kanpur,High,14,Rainy,Rural Road,Two-Wheeler,Morning (6-10),1
+ACC0318,2020-06-01,2020,June,6,Monday,Karnataka,Belagavi,High,7,Stormy,Urban Road,Car,Afternoon (10-15),1
+ACC0319,2023-04-17,2023,April,4,Monday,Tamil Nadu,Salem,Low,2,Clear,State Highway,Auto-Rickshaw,Night (19-23),0
+ACC0320,2023-10-18,2023,October,10,Wednesday,Telangana,Nizamabad,Medium,3,Cloudy,Service Road,Tempo,Morning (6-10),0
+ACC0321,2022-10-22,2022,October,10,Saturday,Gujarat,Ahmedabad,Low,0,Clear,Urban Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0322,2023-05-04,2023,May,5,Thursday,Madhya Pradesh,Gwalior,Medium,5,Clear,Rural Road,Truck,Evening (15-19),0
+ACC0323,2023-02-06,2023,February,2,Monday,Madhya Pradesh,Jabalpur,Medium,5,Rainy,National Highway,SUV,Late Night (23-6),0
+ACC0324,2021-08-27,2021,August,8,Friday,Rajasthan,Jaipur,Low,1,Clear,Service Road,SUV,Afternoon (10-15),0
+ACC0325,2022-03-08,2022,March,3,Tuesday,Gujarat,Vadodara,Low,1,Clear,Rural Road,Two-Wheeler,Evening (15-19),0
+ACC0326,2020-07-28,2020,July,7,Tuesday,Tamil Nadu,Chennai,Medium,6,Rainy,Expressway,Auto-Rickshaw,Night (19-23),0
+ACC0327,2020-07-30,2020,July,7,Thursday,Uttar Pradesh,Lucknow,High,14,Foggy,Expressway,SUV,Evening (15-19),1
+ACC0328,2022-02-27,2022,February,2,Sunday,Uttar Pradesh,Agra,Low,0,Cloudy,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0329,2023-03-17,2023,March,3,Friday,Telangana,Warangal,Medium,3,Hazy,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC0330,2022-10-06,2022,October,10,Thursday,Tamil Nadu,Chennai,Medium,5,Rainy,Urban Road,Bus,Morning (6-10),0
+ACC0331,2022-01-09,2022,January,1,Sunday,Karnataka,Mysuru,Medium,6,Hazy,Expressway,Truck,Night (19-23),0
+ACC0332,2020-08-07,2020,August,8,Friday,Tamil Nadu,Madurai,High,10,Clear,Expressway,Bus,Evening (15-19),1
+ACC0333,2022-06-20,2022,June,6,Monday,Gujarat,Rajkot,High,7,Hazy,Urban Road,Two-Wheeler,Late Night (23-6),1
+ACC0334,2023-11-24,2023,November,11,Friday,Rajasthan,Kota,Low,1,Foggy,Urban Road,Two-Wheeler,Night (19-23),0
+ACC0335,2023-03-25,2023,March,3,Saturday,Rajasthan,Udaipur,Low,1,Cloudy,Urban Road,Car,Late Night (23-6),0
+ACC0336,2021-02-13,2021,February,2,Saturday,Bihar,Darbhanga,High,13,Rainy,National Highway,Tempo,Night (19-23),1
+ACC0337,2023-12-21,2023,December,12,Thursday,Rajasthan,Kota,High,6,Foggy,Rural Road,Tempo,Night (19-23),1
+ACC0338,2020-10-12,2020,October,10,Monday,Karnataka,Mysuru,High,11,Foggy,Rural Road,Car,Night (19-23),1
+ACC0339,2023-05-09,2023,May,5,Tuesday,West Bengal,Durgapur,Medium,5,Cloudy,Expressway,Car,Evening (15-19),0
+ACC0340,2023-12-07,2023,December,12,Thursday,Telangana,Khammam,High,6,Hazy,State Highway,Tempo,Evening (15-19),1
+ACC0341,2020-12-06,2020,December,12,Sunday,Bihar,Patna,High,15,Stormy,Service Road,Bus,Evening (15-19),1
+ACC0342,2022-05-31,2022,May,5,Tuesday,Maharashtra,Mumbai,Low,2,Clear,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0343,2023-04-03,2023,April,4,Monday,Bihar,Gaya,Low,1,Cloudy,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0344,2020-11-04,2020,November,11,Wednesday,Gujarat,Ahmedabad,Low,1,Cloudy,National Highway,Car,Afternoon (10-15),0
+ACC0345,2021-12-14,2021,December,12,Tuesday,Karnataka,Hubli,High,13,Cloudy,Rural Road,Two-Wheeler,Night (19-23),1
+ACC0346,2020-07-18,2020,July,7,Saturday,West Bengal,Siliguri,Low,0,Foggy,Service Road,Car,Morning (6-10),0
+ACC0347,2021-12-03,2021,December,12,Friday,Maharashtra,Pune,Low,0,Hazy,Expressway,Truck,Evening (15-19),0
+ACC0348,2023-02-20,2023,February,2,Monday,Madhya Pradesh,Jabalpur,High,15,Rainy,State Highway,Truck,Night (19-23),1
+ACC0349,2022-03-21,2022,March,3,Monday,Uttar Pradesh,Noida,Medium,5,Rainy,Rural Road,Car,Afternoon (10-15),0
+ACC0350,2021-02-25,2021,February,2,Thursday,Karnataka,Bengaluru,Low,2,Stormy,State Highway,Two-Wheeler,Evening (15-19),0
+ACC0351,2021-02-07,2021,February,2,Sunday,West Bengal,Kolkata,High,12,Foggy,Expressway,Tempo,Evening (15-19),1
+ACC0352,2023-05-07,2023,May,5,Sunday,Madhya Pradesh,Ujjain,Medium,4,Cloudy,Urban Road,SUV,Night (19-23),0
+ACC0353,2023-06-18,2023,June,6,Sunday,Tamil Nadu,Madurai,High,15,Stormy,State Highway,Two-Wheeler,Morning (6-10),1
+ACC0354,2021-05-03,2021,May,5,Monday,Karnataka,Bengaluru,Medium,3,Rainy,Expressway,Bus,Night (19-23),0
+ACC0355,2023-05-06,2023,May,5,Saturday,Tamil Nadu,Tiruchirappalli,Medium,5,Cloudy,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0356,2023-02-10,2023,February,2,Friday,Tamil Nadu,Salem,Low,1,Foggy,Rural Road,Auto-Rickshaw,Morning (6-10),0
+ACC0357,2022-01-05,2022,January,1,Wednesday,Uttar Pradesh,Varanasi,Low,1,Rainy,Expressway,Auto-Rickshaw,Night (19-23),0
+ACC0358,2022-04-17,2022,April,4,Sunday,West Bengal,Siliguri,High,12,Hazy,State Highway,Car,Late Night (23-6),1
+ACC0359,2020-03-04,2020,March,3,Wednesday,Rajasthan,Udaipur,Low,2,Clear,Urban Road,Truck,Night (19-23),0
+ACC0360,2023-03-04,2023,March,3,Saturday,West Bengal,Durgapur,Low,0,Stormy,Urban Road,SUV,Late Night (23-6),0
+ACC0361,2022-01-21,2022,January,1,Friday,Telangana,Hyderabad,Medium,3,Hazy,Rural Road,Car,Afternoon (10-15),0
+ACC0362,2021-09-01,2021,September,9,Wednesday,Uttar Pradesh,Varanasi,Medium,2,Foggy,Rural Road,SUV,Morning (6-10),0
+ACC0363,2021-04-30,2021,April,4,Friday,Rajasthan,Ajmer,Medium,6,Hazy,Service Road,Bus,Afternoon (10-15),0
+ACC0364,2023-06-15,2023,June,6,Thursday,Tamil Nadu,Coimbatore,High,14,Rainy,Urban Road,Auto-Rickshaw,Evening (15-19),1
+ACC0365,2023-05-07,2023,May,5,Sunday,Telangana,Warangal,High,9,Foggy,Urban Road,Auto-Rickshaw,Evening (15-19),1
+ACC0366,2022-11-19,2022,November,11,Saturday,Maharashtra,Pune,High,9,Cloudy,Service Road,Truck,Afternoon (10-15),1
+ACC0367,2021-05-26,2021,May,5,Wednesday,Tamil Nadu,Madurai,High,15,Rainy,Rural Road,Bus,Afternoon (10-15),1
+ACC0368,2023-03-28,2023,March,3,Tuesday,Karnataka,Mangaluru,Medium,2,Cloudy,Rural Road,Auto-Rickshaw,Evening (15-19),0
+ACC0369,2023-11-23,2023,November,11,Thursday,Gujarat,Rajkot,Low,0,Cloudy,Service Road,Car,Night (19-23),0
+ACC0370,2023-07-24,2023,July,7,Monday,Gujarat,Ahmedabad,Medium,5,Stormy,State Highway,Bus,Evening (15-19),0
+ACC0371,2021-10-23,2021,October,10,Saturday,Karnataka,Hubli,High,14,Stormy,Rural Road,SUV,Evening (15-19),1
+ACC0372,2023-10-29,2023,October,10,Sunday,Uttar Pradesh,Lucknow,Medium,5,Clear,National Highway,Car,Afternoon (10-15),0
+ACC0373,2022-06-22,2022,June,6,Wednesday,West Bengal,Kolkata,Low,2,Cloudy,State Highway,Tempo,Evening (15-19),0
+ACC0374,2020-11-21,2020,November,11,Saturday,Karnataka,Bengaluru,Medium,2,Hazy,Urban Road,Tempo,Afternoon (10-15),0
+ACC0375,2020-04-16,2020,April,4,Thursday,Madhya Pradesh,Gwalior,High,8,Hazy,Rural Road,Tempo,Morning (6-10),1
+ACC0376,2023-12-12,2023,December,12,Tuesday,Maharashtra,Mumbai,Medium,3,Rainy,Expressway,Truck,Late Night (23-6),0
+ACC0377,2023-10-24,2023,October,10,Tuesday,West Bengal,Kolkata,Medium,2,Clear,Rural Road,Tempo,Afternoon (10-15),0
+ACC0378,2022-09-05,2022,September,9,Monday,Maharashtra,Pune,Low,0,Cloudy,National Highway,Two-Wheeler,Evening (15-19),0
+ACC0379,2021-09-04,2021,September,9,Saturday,Tamil Nadu,Salem,Medium,3,Rainy,National Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0380,2020-01-18,2020,January,1,Saturday,Bihar,Gaya,Low,0,Cloudy,Service Road,Tempo,Afternoon (10-15),0
+ACC0381,2022-04-23,2022,April,4,Saturday,Bihar,Muzaffarpur,Low,0,Rainy,State Highway,SUV,Morning (6-10),0
+ACC0382,2023-04-22,2023,April,4,Saturday,Madhya Pradesh,Gwalior,Low,0,Cloudy,State Highway,Two-Wheeler,Morning (6-10),0
+ACC0383,2021-05-23,2021,May,5,Sunday,Telangana,Khammam,High,9,Stormy,Service Road,Car,Evening (15-19),1
+ACC0384,2021-02-24,2021,February,2,Wednesday,Telangana,Khammam,Medium,5,Stormy,Urban Road,Tempo,Morning (6-10),0
+ACC0385,2021-05-05,2021,May,5,Wednesday,West Bengal,Siliguri,Low,2,Clear,Expressway,Car,Late Night (23-6),0
+ACC0386,2020-01-25,2020,January,1,Saturday,Gujarat,Vadodara,Medium,6,Rainy,Rural Road,Two-Wheeler,Late Night (23-6),0
+ACC0387,2023-10-30,2023,October,10,Monday,Tamil Nadu,Salem,Low,0,Clear,National Highway,Two-Wheeler,Afternoon (10-15),0
+ACC0388,2020-03-22,2020,March,3,Sunday,Uttar Pradesh,Varanasi,Medium,6,Stormy,Rural Road,Bus,Night (19-23),0
+ACC0389,2020-06-17,2020,June,6,Wednesday,Telangana,Khammam,Low,0,Stormy,Urban Road,Car,Late Night (23-6),0
+ACC0390,2021-02-20,2021,February,2,Saturday,Tamil Nadu,Tiruchirappalli,Medium,2,Foggy,Urban Road,Tempo,Night (19-23),0
+ACC0391,2021-05-03,2021,May,5,Monday,Uttar Pradesh,Kanpur,High,6,Clear,Rural Road,Auto-Rickshaw,Late Night (23-6),1
+ACC0392,2020-04-22,2020,April,4,Wednesday,Karnataka,Mysuru,Low,0,Clear,Service Road,Car,Afternoon (10-15),0
+ACC0393,2022-10-13,2022,October,10,Thursday,Gujarat,Gandhinagar,High,9,Stormy,State Highway,Two-Wheeler,Afternoon (10-15),1
+ACC0394,2021-07-04,2021,July,7,Sunday,Maharashtra,Mumbai,High,9,Foggy,Expressway,Car,Evening (15-19),1
+ACC0395,2023-12-29,2023,December,12,Friday,Bihar,Patna,Medium,4,Cloudy,National Highway,Bus,Late Night (23-6),0
+ACC0396,2020-12-07,2020,December,12,Monday,Gujarat,Surat,High,14,Foggy,Service Road,Tempo,Morning (6-10),1
+ACC0397,2021-04-12,2021,April,4,Monday,Telangana,Hyderabad,High,5,Clear,State Highway,Car,Night (19-23),1
+ACC0398,2022-01-15,2022,January,1,Saturday,Madhya Pradesh,Indore,High,5,Rainy,Expressway,SUV,Night (19-23),1
+ACC0399,2021-04-04,2021,April,4,Sunday,Gujarat,Surat,High,10,Cloudy,Urban Road,SUV,Morning (6-10),1
+ACC0400,2023-03-16,2023,March,3,Thursday,Gujarat,Ahmedabad,High,5,Stormy,State Highway,Truck,Late Night (23-6),1
+ACC0401,2020-04-04,2020,April,4,Saturday,Madhya Pradesh,Bhopal,High,9,Cloudy,Urban Road,Car,Late Night (23-6),1
+ACC0402,2022-07-24,2022,July,7,Sunday,Uttar Pradesh,Agra,Low,1,Rainy,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0403,2022-08-08,2022,August,8,Monday,Gujarat,Gandhinagar,High,8,Cloudy,Service Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC0404,2020-11-04,2020,November,11,Wednesday,Uttar Pradesh,Varanasi,Low,1,Clear,Service Road,SUV,Morning (6-10),0
+ACC0405,2021-11-17,2021,November,11,Wednesday,Uttar Pradesh,Varanasi,High,6,Hazy,State Highway,Auto-Rickshaw,Afternoon (10-15),1
+ACC0406,2022-05-09,2022,May,5,Monday,West Bengal,Kolkata,High,6,Rainy,National Highway,Truck,Late Night (23-6),1
+ACC0407,2022-04-25,2022,April,4,Monday,Gujarat,Rajkot,Low,0,Hazy,Expressway,Truck,Night (19-23),0
+ACC0408,2020-06-02,2020,June,6,Tuesday,Bihar,Darbhanga,Low,0,Clear,State Highway,Two-Wheeler,Evening (15-19),0
+ACC0409,2021-10-07,2021,October,10,Thursday,Madhya Pradesh,Gwalior,Medium,3,Foggy,National Highway,Truck,Afternoon (10-15),0
+ACC0410,2023-04-12,2023,April,4,Wednesday,Maharashtra,Pune,Low,1,Clear,Urban Road,Bus,Morning (6-10),0
+ACC0411,2023-01-02,2023,January,1,Monday,Gujarat,Surat,Low,1,Cloudy,National Highway,Car,Afternoon (10-15),0
+ACC0412,2023-11-06,2023,November,11,Monday,Karnataka,Belagavi,Low,1,Clear,State Highway,Car,Afternoon (10-15),0
+ACC0413,2021-12-29,2021,December,12,Wednesday,Madhya Pradesh,Ujjain,Medium,4,Clear,State Highway,Car,Night (19-23),0
+ACC0414,2022-07-15,2022,July,7,Friday,Telangana,Khammam,Low,0,Rainy,State Highway,Car,Morning (6-10),0
+ACC0415,2020-05-06,2020,May,5,Wednesday,Rajasthan,Jodhpur,High,10,Rainy,Service Road,Tempo,Morning (6-10),1
+ACC0416,2023-04-07,2023,April,4,Friday,Bihar,Bhagalpur,Low,0,Clear,State Highway,Tempo,Night (19-23),0
+ACC0417,2020-09-20,2020,September,9,Sunday,Maharashtra,Nagpur,Low,1,Clear,National Highway,Truck,Late Night (23-6),0
+ACC0418,2022-06-06,2022,June,6,Monday,Madhya Pradesh,Jabalpur,Low,1,Clear,State Highway,Two-Wheeler,Afternoon (10-15),0
+ACC0419,2021-01-18,2021,January,1,Monday,Karnataka,Hubli,High,5,Cloudy,Expressway,Auto-Rickshaw,Late Night (23-6),1
+ACC0420,2021-05-18,2021,May,5,Tuesday,Karnataka,Mangaluru,High,12,Cloudy,National Highway,Car,Evening (15-19),1
+ACC0421,2022-02-23,2022,February,2,Wednesday,Tamil Nadu,Salem,Medium,6,Rainy,State Highway,Tempo,Late Night (23-6),0
+ACC0422,2020-02-09,2020,February,2,Sunday,Madhya Pradesh,Gwalior,Medium,5,Cloudy,Urban Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0423,2021-10-20,2021,October,10,Wednesday,Madhya Pradesh,Gwalior,Low,2,Rainy,State Highway,Car,Evening (15-19),0
+ACC0424,2020-04-29,2020,April,4,Wednesday,West Bengal,Durgapur,High,8,Foggy,State Highway,Car,Afternoon (10-15),1
+ACC0425,2023-09-07,2023,September,9,Thursday,Rajasthan,Udaipur,High,5,Stormy,State Highway,Auto-Rickshaw,Night (19-23),1
+ACC0426,2021-12-27,2021,December,12,Monday,Tamil Nadu,Coimbatore,Medium,4,Rainy,Expressway,Car,Evening (15-19),0
+ACC0427,2023-03-08,2023,March,3,Wednesday,Bihar,Gaya,High,12,Stormy,Expressway,Two-Wheeler,Afternoon (10-15),1
+ACC0428,2022-10-01,2022,October,10,Saturday,Uttar Pradesh,Lucknow,Low,0,Clear,National Highway,Auto-Rickshaw,Night (19-23),0
+ACC0429,2020-01-02,2020,January,1,Thursday,Gujarat,Gandhinagar,High,10,Rainy,Service Road,Truck,Evening (15-19),1
+ACC0430,2020-05-01,2020,May,5,Friday,Uttar Pradesh,Kanpur,High,7,Stormy,National Highway,SUV,Late Night (23-6),1
+ACC0431,2022-01-17,2022,January,1,Monday,Maharashtra,Nagpur,High,11,Hazy,Expressway,Car,Evening (15-19),1
+ACC0432,2021-09-10,2021,September,9,Friday,Gujarat,Surat,High,11,Rainy,Service Road,Bus,Evening (15-19),1
+ACC0433,2020-12-22,2020,December,12,Tuesday,Telangana,Khammam,Medium,6,Foggy,State Highway,Bus,Evening (15-19),0
+ACC0434,2023-11-11,2023,November,11,Saturday,Karnataka,Mysuru,High,14,Rainy,Rural Road,SUV,Late Night (23-6),1
+ACC0435,2020-03-07,2020,March,3,Saturday,Tamil Nadu,Tiruchirappalli,High,14,Foggy,State Highway,Tempo,Late Night (23-6),1
+ACC0436,2020-08-01,2020,August,8,Saturday,West Bengal,Howrah,High,8,Foggy,Urban Road,Two-Wheeler,Afternoon (10-15),1
+ACC0437,2023-07-26,2023,July,7,Wednesday,Maharashtra,Nagpur,Low,0,Cloudy,State Highway,Tempo,Morning (6-10),0
+ACC0438,2021-12-18,2021,December,12,Saturday,Karnataka,Bengaluru,Low,1,Hazy,Rural Road,Tempo,Night (19-23),0
+ACC0439,2020-12-06,2020,December,12,Sunday,Madhya Pradesh,Jabalpur,Low,1,Cloudy,National Highway,SUV,Night (19-23),0
+ACC0440,2023-03-29,2023,March,3,Wednesday,Rajasthan,Jodhpur,Low,0,Cloudy,Urban Road,Car,Evening (15-19),0
+ACC0441,2021-06-18,2021,June,6,Friday,Maharashtra,Mumbai,Low,1,Foggy,State Highway,Tempo,Morning (6-10),0
+ACC0442,2023-01-25,2023,January,1,Wednesday,Maharashtra,Nagpur,High,12,Stormy,Service Road,Car,Night (19-23),1
+ACC0443,2023-08-31,2023,August,8,Thursday,Tamil Nadu,Tiruchirappalli,Low,0,Cloudy,Urban Road,Truck,Afternoon (10-15),0
+ACC0444,2022-04-18,2022,April,4,Monday,Telangana,Khammam,High,9,Foggy,State Highway,Car,Morning (6-10),1
+ACC0445,2022-03-15,2022,March,3,Tuesday,Bihar,Darbhanga,Low,1,Cloudy,National Highway,Bus,Morning (6-10),0
+ACC0446,2021-08-26,2021,August,8,Thursday,Bihar,Muzaffarpur,Low,0,Rainy,State Highway,Tempo,Evening (15-19),0
+ACC0447,2020-06-16,2020,June,6,Tuesday,West Bengal,Kolkata,High,12,Foggy,Rural Road,Tempo,Evening (15-19),1
+ACC0448,2020-07-05,2020,July,7,Sunday,Telangana,Karimnagar,Medium,5,Rainy,Urban Road,Truck,Night (19-23),0
+ACC0449,2020-04-01,2020,April,4,Wednesday,Karnataka,Mangaluru,Low,1,Cloudy,Expressway,Car,Afternoon (10-15),0
+ACC0450,2023-11-27,2023,November,11,Monday,Maharashtra,Mumbai,Medium,6,Hazy,Rural Road,SUV,Late Night (23-6),0
+ACC0451,2021-04-10,2021,April,4,Saturday,Telangana,Hyderabad,High,11,Cloudy,Expressway,Tempo,Night (19-23),1
+ACC0452,2023-03-18,2023,March,3,Saturday,Rajasthan,Kota,Low,2,Foggy,National Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0453,2022-11-24,2022,November,11,Thursday,Bihar,Darbhanga,Low,1,Rainy,State Highway,Truck,Afternoon (10-15),0
+ACC0454,2021-01-29,2021,January,1,Friday,Tamil Nadu,Chennai,Low,2,Cloudy,Rural Road,Truck,Afternoon (10-15),0
+ACC0455,2023-05-03,2023,May,5,Wednesday,Karnataka,Hubli,High,6,Hazy,National Highway,Bus,Late Night (23-6),1
+ACC0456,2022-03-24,2022,March,3,Thursday,Telangana,Nizamabad,Medium,2,Foggy,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0457,2022-12-06,2022,December,12,Tuesday,Madhya Pradesh,Bhopal,Low,2,Cloudy,Expressway,Auto-Rickshaw,Morning (6-10),0
+ACC0458,2020-08-04,2020,August,8,Tuesday,Bihar,Patna,High,10,Foggy,Rural Road,Two-Wheeler,Night (19-23),1
+ACC0459,2023-09-03,2023,September,9,Sunday,West Bengal,Durgapur,Medium,3,Stormy,Urban Road,Bus,Afternoon (10-15),0
+ACC0460,2023-06-20,2023,June,6,Tuesday,Bihar,Muzaffarpur,Low,1,Clear,Service Road,Truck,Morning (6-10),0
+ACC0461,2022-08-31,2022,August,8,Wednesday,Karnataka,Hubli,Low,1,Clear,Urban Road,Two-Wheeler,Night (19-23),0
+ACC0462,2023-11-26,2023,November,11,Sunday,Maharashtra,Pune,Medium,5,Rainy,Urban Road,Two-Wheeler,Night (19-23),0
+ACC0463,2023-05-23,2023,May,5,Tuesday,Maharashtra,Pune,Low,1,Cloudy,Service Road,Bus,Late Night (23-6),0
+ACC0464,2022-02-04,2022,February,2,Friday,Uttar Pradesh,Noida,Low,2,Rainy,Expressway,Bus,Afternoon (10-15),0
+ACC0465,2022-12-09,2022,December,12,Friday,Bihar,Patna,Low,0,Rainy,National Highway,Truck,Morning (6-10),0
+ACC0466,2022-07-23,2022,July,7,Saturday,Uttar Pradesh,Agra,Low,1,Hazy,Rural Road,Auto-Rickshaw,Night (19-23),0
+ACC0467,2023-07-25,2023,July,7,Tuesday,Maharashtra,Mumbai,Medium,6,Rainy,Rural Road,Truck,Night (19-23),0
+ACC0468,2023-04-16,2023,April,4,Sunday,Telangana,Nizamabad,Low,1,Foggy,Service Road,SUV,Morning (6-10),0
+ACC0469,2021-08-06,2021,August,8,Friday,Uttar Pradesh,Varanasi,Low,2,Clear,State Highway,SUV,Afternoon (10-15),0
+ACC0470,2023-08-18,2023,August,8,Friday,Rajasthan,Jodhpur,High,13,Foggy,National Highway,SUV,Morning (6-10),1
+ACC0471,2022-08-28,2022,August,8,Sunday,Tamil Nadu,Coimbatore,High,8,Stormy,Urban Road,Auto-Rickshaw,Evening (15-19),1
+ACC0472,2023-12-30,2023,December,12,Saturday,Karnataka,Mangaluru,High,12,Cloudy,Urban Road,Truck,Night (19-23),1
+ACC0473,2021-09-10,2021,September,9,Friday,Telangana,Khammam,Medium,2,Cloudy,Expressway,Tempo,Evening (15-19),0
+ACC0474,2023-02-23,2023,February,2,Thursday,Bihar,Darbhanga,Medium,2,Foggy,Rural Road,Car,Evening (15-19),0
+ACC0475,2021-07-20,2021,July,7,Tuesday,Gujarat,Vadodara,High,15,Foggy,Urban Road,Truck,Afternoon (10-15),1
+ACC0476,2022-11-25,2022,November,11,Friday,Rajasthan,Jaipur,Medium,4,Stormy,Service Road,Truck,Morning (6-10),0
+ACC0477,2023-09-04,2023,September,9,Monday,West Bengal,Asansol,High,11,Foggy,Rural Road,Tempo,Morning (6-10),1
+ACC0478,2023-04-09,2023,April,4,Sunday,Bihar,Gaya,High,8,Foggy,Service Road,Auto-Rickshaw,Night (19-23),1
+ACC0479,2023-10-07,2023,October,10,Saturday,Gujarat,Gandhinagar,High,15,Foggy,Expressway,Truck,Evening (15-19),1
+ACC0480,2020-07-18,2020,July,7,Saturday,West Bengal,Howrah,Low,2,Hazy,State Highway,Tempo,Evening (15-19),0
+ACC0481,2023-09-02,2023,September,9,Saturday,Maharashtra,Pune,Medium,4,Foggy,Rural Road,SUV,Evening (15-19),0
+ACC0482,2022-01-31,2022,January,1,Monday,Karnataka,Belagavi,Medium,2,Foggy,Rural Road,Car,Late Night (23-6),0
+ACC0483,2023-04-03,2023,April,4,Monday,Bihar,Patna,High,13,Cloudy,National Highway,SUV,Night (19-23),1
+ACC0484,2022-12-21,2022,December,12,Wednesday,Karnataka,Mangaluru,High,7,Clear,State Highway,Truck,Evening (15-19),1
+ACC0485,2022-04-18,2022,April,4,Monday,Bihar,Muzaffarpur,Medium,3,Rainy,National Highway,Bus,Evening (15-19),0
+ACC0486,2023-07-16,2023,July,7,Sunday,Tamil Nadu,Madurai,Low,1,Hazy,Urban Road,Truck,Afternoon (10-15),0
+ACC0487,2023-03-26,2023,March,3,Sunday,Tamil Nadu,Salem,Low,1,Clear,Service Road,Bus,Night (19-23),0
+ACC0488,2022-05-28,2022,May,5,Saturday,West Bengal,Siliguri,Low,0,Clear,Service Road,Two-Wheeler,Morning (6-10),0
+ACC0489,2021-10-21,2021,October,10,Thursday,Telangana,Warangal,Medium,3,Clear,State Highway,Tempo,Evening (15-19),0
+ACC0490,2021-10-01,2021,October,10,Friday,Tamil Nadu,Chennai,Medium,4,Cloudy,State Highway,Car,Morning (6-10),0
+ACC0491,2021-09-02,2021,September,9,Thursday,Karnataka,Mangaluru,Medium,6,Hazy,Urban Road,Bus,Afternoon (10-15),0
+ACC0492,2021-12-02,2021,December,12,Thursday,West Bengal,Asansol,Low,1,Rainy,National Highway,Truck,Afternoon (10-15),0
+ACC0493,2020-09-25,2020,September,9,Friday,Rajasthan,Jaipur,High,6,Stormy,Urban Road,Tempo,Morning (6-10),1
+ACC0494,2022-02-07,2022,February,2,Monday,Karnataka,Belagavi,Low,0,Stormy,Service Road,Car,Morning (6-10),0
+ACC0495,2020-04-08,2020,April,4,Wednesday,Maharashtra,Nashik,Low,2,Cloudy,Urban Road,Bus,Afternoon (10-15),0
+ACC0496,2021-02-24,2021,February,2,Wednesday,Uttar Pradesh,Agra,Medium,6,Cloudy,Urban Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0497,2023-12-06,2023,December,12,Wednesday,Tamil Nadu,Salem,Medium,6,Clear,National Highway,Two-Wheeler,Morning (6-10),0
+ACC0498,2020-08-05,2020,August,8,Wednesday,West Bengal,Howrah,Medium,4,Stormy,Expressway,Truck,Evening (15-19),0
+ACC0499,2023-12-11,2023,December,12,Monday,Madhya Pradesh,Gwalior,Low,1,Rainy,State Highway,Tempo,Night (19-23),0
+ACC0500,2021-11-08,2021,November,11,Monday,Rajasthan,Jaipur,Medium,2,Clear,Expressway,Tempo,Night (19-23),0
+ACC0501,2020-11-01,2020,November,11,Sunday,Maharashtra,Aurangabad,Medium,2,Clear,Urban Road,Tempo,Afternoon (10-15),0
+ACC0502,2022-07-24,2022,July,7,Sunday,Karnataka,Hubli,Low,0,Cloudy,National Highway,SUV,Evening (15-19),0
+ACC0503,2022-01-07,2022,January,1,Friday,Gujarat,Rajkot,Low,0,Hazy,National Highway,SUV,Afternoon (10-15),0
+ACC0504,2023-09-20,2023,September,9,Wednesday,Tamil Nadu,Madurai,High,14,Foggy,Urban Road,Tempo,Morning (6-10),1
+ACC0505,2022-02-02,2022,February,2,Wednesday,Gujarat,Surat,Low,1,Clear,Urban Road,SUV,Night (19-23),0
+ACC0506,2023-11-13,2023,November,11,Monday,West Bengal,Siliguri,High,7,Hazy,National Highway,Truck,Morning (6-10),1
+ACC0507,2020-11-22,2020,November,11,Sunday,Maharashtra,Nashik,Medium,6,Stormy,Service Road,Bus,Afternoon (10-15),0
+ACC0508,2023-06-05,2023,June,6,Monday,Madhya Pradesh,Gwalior,Low,2,Stormy,Service Road,Truck,Night (19-23),0
+ACC0509,2022-09-26,2022,September,9,Monday,Maharashtra,Nashik,Low,1,Cloudy,Service Road,Two-Wheeler,Morning (6-10),0
+ACC0510,2023-12-13,2023,December,12,Wednesday,Telangana,Khammam,Medium,4,Hazy,Expressway,Auto-Rickshaw,Late Night (23-6),0
+ACC0511,2020-07-14,2020,July,7,Tuesday,Madhya Pradesh,Indore,Low,2,Cloudy,Service Road,Bus,Afternoon (10-15),0
+ACC0512,2023-02-17,2023,February,2,Friday,Bihar,Patna,Medium,3,Clear,Expressway,SUV,Night (19-23),0
+ACC0513,2022-10-12,2022,October,10,Wednesday,Tamil Nadu,Chennai,Low,1,Cloudy,Urban Road,Car,Late Night (23-6),0
+ACC0514,2021-04-01,2021,April,4,Thursday,Telangana,Karimnagar,High,6,Cloudy,Rural Road,Bus,Late Night (23-6),1
+ACC0515,2022-07-06,2022,July,7,Wednesday,Maharashtra,Nashik,Low,1,Cloudy,Service Road,Tempo,Morning (6-10),0
+ACC0516,2020-07-29,2020,July,7,Wednesday,Madhya Pradesh,Jabalpur,Medium,2,Clear,National Highway,SUV,Late Night (23-6),0
+ACC0517,2023-06-21,2023,June,6,Wednesday,Karnataka,Belagavi,Medium,5,Stormy,Urban Road,Two-Wheeler,Morning (6-10),0
+ACC0518,2021-04-01,2021,April,4,Thursday,West Bengal,Asansol,High,14,Stormy,Rural Road,Tempo,Evening (15-19),1
+ACC0519,2022-07-15,2022,July,7,Friday,Maharashtra,Mumbai,Low,1,Hazy,Urban Road,SUV,Evening (15-19),0
+ACC0520,2023-01-26,2023,January,1,Thursday,Telangana,Nizamabad,Low,0,Hazy,Rural Road,Truck,Night (19-23),0
+ACC0521,2020-08-07,2020,August,8,Friday,Karnataka,Belagavi,Low,1,Rainy,State Highway,Bus,Afternoon (10-15),0
+ACC0522,2021-11-23,2021,November,11,Tuesday,Maharashtra,Nashik,High,15,Clear,Expressway,Car,Night (19-23),1
+ACC0523,2022-07-25,2022,July,7,Monday,Bihar,Darbhanga,High,5,Rainy,Expressway,Tempo,Morning (6-10),1
+ACC0524,2023-02-07,2023,February,2,Tuesday,Madhya Pradesh,Ujjain,High,7,Cloudy,Service Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC0525,2020-09-19,2020,September,9,Saturday,Maharashtra,Nashik,Medium,4,Hazy,Expressway,Bus,Night (19-23),0
+ACC0526,2023-06-01,2023,June,6,Thursday,Rajasthan,Udaipur,High,9,Cloudy,Rural Road,SUV,Afternoon (10-15),1
+ACC0527,2020-10-09,2020,October,10,Friday,Madhya Pradesh,Ujjain,High,13,Hazy,Urban Road,SUV,Late Night (23-6),1
+ACC0528,2021-10-04,2021,October,10,Monday,Telangana,Warangal,Low,2,Rainy,Urban Road,Tempo,Evening (15-19),0
+ACC0529,2023-10-09,2023,October,10,Monday,Tamil Nadu,Coimbatore,High,15,Stormy,Urban Road,Tempo,Morning (6-10),1
+ACC0530,2021-12-22,2021,December,12,Wednesday,Telangana,Karimnagar,High,15,Stormy,Service Road,Bus,Late Night (23-6),1
+ACC0531,2021-08-08,2021,August,8,Sunday,Madhya Pradesh,Bhopal,Low,1,Stormy,State Highway,Car,Morning (6-10),0
+ACC0532,2021-02-13,2021,February,2,Saturday,Karnataka,Mysuru,High,7,Foggy,National Highway,Tempo,Evening (15-19),1
+ACC0533,2021-02-21,2021,February,2,Sunday,Telangana,Hyderabad,High,6,Foggy,Expressway,SUV,Late Night (23-6),1
+ACC0534,2021-04-04,2021,April,4,Sunday,Telangana,Karimnagar,Medium,4,Rainy,Service Road,Tempo,Morning (6-10),0
+ACC0535,2022-02-20,2022,February,2,Sunday,Madhya Pradesh,Jabalpur,Medium,6,Hazy,National Highway,Car,Evening (15-19),0
+ACC0536,2021-02-19,2021,February,2,Friday,Bihar,Muzaffarpur,High,15,Rainy,Urban Road,SUV,Late Night (23-6),1
+ACC0537,2023-01-24,2023,January,1,Tuesday,Bihar,Gaya,High,9,Hazy,Rural Road,Truck,Morning (6-10),1
+ACC0538,2021-01-17,2021,January,1,Sunday,Tamil Nadu,Tiruchirappalli,Low,1,Clear,Urban Road,Auto-Rickshaw,Evening (15-19),0
+ACC0539,2020-09-23,2020,September,9,Wednesday,Tamil Nadu,Tiruchirappalli,Low,1,Foggy,Service Road,Truck,Morning (6-10),0
+ACC0540,2020-11-10,2020,November,11,Tuesday,Gujarat,Gandhinagar,Medium,6,Clear,Service Road,Two-Wheeler,Night (19-23),0
+ACC0541,2023-03-18,2023,March,3,Saturday,Telangana,Nizamabad,Medium,4,Clear,Expressway,Truck,Afternoon (10-15),0
+ACC0542,2022-12-02,2022,December,12,Friday,Maharashtra,Aurangabad,Medium,6,Rainy,Rural Road,Car,Evening (15-19),0
+ACC0543,2021-03-29,2021,March,3,Monday,Rajasthan,Udaipur,Medium,3,Foggy,Expressway,Auto-Rickshaw,Night (19-23),0
+ACC0544,2023-02-23,2023,February,2,Thursday,Uttar Pradesh,Lucknow,Medium,3,Hazy,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0545,2021-05-14,2021,May,5,Friday,Uttar Pradesh,Agra,High,6,Cloudy,Rural Road,Two-Wheeler,Late Night (23-6),1
+ACC0546,2021-08-02,2021,August,8,Monday,Uttar Pradesh,Noida,Medium,6,Foggy,Rural Road,Bus,Morning (6-10),0
+ACC0547,2021-08-30,2021,August,8,Monday,Rajasthan,Udaipur,Low,0,Stormy,State Highway,SUV,Late Night (23-6),0
+ACC0548,2022-12-28,2022,December,12,Wednesday,Uttar Pradesh,Lucknow,Medium,3,Rainy,Service Road,Bus,Morning (6-10),0
+ACC0549,2021-02-25,2021,February,2,Thursday,Telangana,Karimnagar,High,6,Hazy,Service Road,Tempo,Afternoon (10-15),1
+ACC0550,2020-02-18,2020,February,2,Tuesday,West Bengal,Asansol,Low,0,Clear,State Highway,SUV,Evening (15-19),0
+ACC0551,2023-02-16,2023,February,2,Thursday,Maharashtra,Aurangabad,High,11,Rainy,Rural Road,Bus,Night (19-23),1
+ACC0552,2022-06-05,2022,June,6,Sunday,Gujarat,Ahmedabad,Medium,6,Cloudy,National Highway,Tempo,Late Night (23-6),0
+ACC0553,2020-05-09,2020,May,5,Saturday,Bihar,Patna,High,10,Hazy,Expressway,Car,Evening (15-19),1
+ACC0554,2023-11-05,2023,November,11,Sunday,Karnataka,Belagavi,Low,1,Clear,Rural Road,Bus,Morning (6-10),0
+ACC0555,2022-08-28,2022,August,8,Sunday,Tamil Nadu,Tiruchirappalli,Low,1,Rainy,Expressway,Two-Wheeler,Afternoon (10-15),0
+ACC0556,2021-09-02,2021,September,9,Thursday,Gujarat,Ahmedabad,High,7,Stormy,National Highway,Car,Morning (6-10),1
+ACC0557,2023-03-18,2023,March,3,Saturday,Bihar,Muzaffarpur,High,6,Stormy,Urban Road,Truck,Evening (15-19),1
+ACC0558,2021-03-09,2021,March,3,Tuesday,Madhya Pradesh,Ujjain,Low,0,Rainy,Expressway,SUV,Evening (15-19),0
+ACC0559,2021-02-01,2021,February,2,Monday,Maharashtra,Pune,High,5,Hazy,Expressway,Bus,Late Night (23-6),1
+ACC0560,2020-05-29,2020,May,5,Friday,Karnataka,Bengaluru,Low,2,Foggy,Expressway,Bus,Evening (15-19),0
+ACC0561,2022-01-01,2022,January,1,Saturday,Tamil Nadu,Coimbatore,Low,0,Clear,State Highway,Two-Wheeler,Night (19-23),0
+ACC0562,2022-07-11,2022,July,7,Monday,Gujarat,Gandhinagar,Medium,6,Hazy,State Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0563,2022-01-16,2022,January,1,Sunday,Gujarat,Rajkot,Low,0,Rainy,State Highway,Tempo,Night (19-23),0
+ACC0564,2021-07-20,2021,July,7,Tuesday,Gujarat,Surat,High,12,Hazy,Rural Road,Bus,Evening (15-19),1
+ACC0565,2021-09-17,2021,September,9,Friday,West Bengal,Durgapur,Low,2,Clear,National Highway,SUV,Evening (15-19),0
+ACC0566,2020-10-13,2020,October,10,Tuesday,Telangana,Warangal,High,15,Foggy,National Highway,Tempo,Morning (6-10),1
+ACC0567,2020-02-08,2020,February,2,Saturday,Telangana,Hyderabad,High,14,Stormy,State Highway,Car,Late Night (23-6),1
+ACC0568,2021-06-17,2021,June,6,Thursday,Telangana,Khammam,Medium,3,Cloudy,Urban Road,Bus,Afternoon (10-15),0
+ACC0569,2023-04-22,2023,April,4,Saturday,Karnataka,Mysuru,Medium,2,Cloudy,Rural Road,Two-Wheeler,Late Night (23-6),0
+ACC0570,2020-01-22,2020,January,1,Wednesday,Rajasthan,Ajmer,Low,2,Hazy,State Highway,Bus,Afternoon (10-15),0
+ACC0571,2021-01-01,2021,January,1,Friday,Bihar,Darbhanga,High,7,Hazy,Service Road,Tempo,Night (19-23),1
+ACC0572,2022-01-04,2022,January,1,Tuesday,Uttar Pradesh,Kanpur,Low,1,Cloudy,Urban Road,Truck,Morning (6-10),0
+ACC0573,2023-10-01,2023,October,10,Sunday,Rajasthan,Ajmer,Medium,5,Foggy,National Highway,Car,Evening (15-19),0
+ACC0574,2020-07-30,2020,July,7,Thursday,Telangana,Nizamabad,Low,2,Hazy,Expressway,Truck,Night (19-23),0
+ACC0575,2023-08-31,2023,August,8,Thursday,Madhya Pradesh,Gwalior,High,6,Stormy,Expressway,Two-Wheeler,Night (19-23),1
+ACC0576,2021-04-01,2021,April,4,Thursday,Telangana,Karimnagar,High,10,Foggy,Rural Road,SUV,Night (19-23),1
+ACC0577,2023-05-22,2023,May,5,Monday,Uttar Pradesh,Noida,Medium,3,Rainy,National Highway,Auto-Rickshaw,Evening (15-19),0
+ACC0578,2021-03-09,2021,March,3,Tuesday,Tamil Nadu,Coimbatore,Medium,2,Rainy,Service Road,Truck,Night (19-23),0
+ACC0579,2021-11-07,2021,November,11,Sunday,Maharashtra,Nashik,Medium,3,Hazy,Expressway,Truck,Night (19-23),0
+ACC0580,2020-02-15,2020,February,2,Saturday,Rajasthan,Jaipur,Medium,3,Rainy,State Highway,Tempo,Late Night (23-6),0
+ACC0581,2020-03-21,2020,March,3,Saturday,Bihar,Gaya,Low,0,Clear,Expressway,Bus,Late Night (23-6),0
+ACC0582,2023-02-28,2023,February,2,Tuesday,Uttar Pradesh,Agra,Low,2,Clear,Rural Road,SUV,Night (19-23),0
+ACC0583,2020-12-15,2020,December,12,Tuesday,Rajasthan,Kota,Low,2,Stormy,State Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0584,2021-06-25,2021,June,6,Friday,Tamil Nadu,Madurai,Medium,2,Cloudy,State Highway,Bus,Night (19-23),0
+ACC0585,2020-09-27,2020,September,9,Sunday,Maharashtra,Mumbai,Medium,6,Rainy,Service Road,Bus,Afternoon (10-15),0
+ACC0586,2023-05-25,2023,May,5,Thursday,Maharashtra,Pune,High,14,Cloudy,National Highway,SUV,Late Night (23-6),1
+ACC0587,2022-10-27,2022,October,10,Thursday,Maharashtra,Mumbai,Medium,6,Cloudy,Expressway,SUV,Morning (6-10),0
+ACC0588,2023-10-21,2023,October,10,Saturday,Madhya Pradesh,Ujjain,Low,0,Cloudy,Service Road,Auto-Rickshaw,Night (19-23),0
+ACC0589,2021-04-14,2021,April,4,Wednesday,West Bengal,Siliguri,High,14,Foggy,National Highway,Bus,Afternoon (10-15),1
+ACC0590,2021-06-05,2021,June,6,Saturday,West Bengal,Howrah,Low,2,Clear,Rural Road,Two-Wheeler,Afternoon (10-15),0
+ACC0591,2020-01-12,2020,January,1,Sunday,Uttar Pradesh,Noida,Low,0,Stormy,Rural Road,Tempo,Afternoon (10-15),0
+ACC0592,2023-11-09,2023,November,11,Thursday,Gujarat,Rajkot,Low,1,Foggy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC0593,2021-06-19,2021,June,6,Saturday,Telangana,Karimnagar,Medium,4,Stormy,Service Road,Bus,Afternoon (10-15),0
+ACC0594,2022-04-26,2022,April,4,Tuesday,Telangana,Khammam,Low,2,Cloudy,Expressway,Bus,Evening (15-19),0
+ACC0595,2021-09-20,2021,September,9,Monday,Bihar,Bhagalpur,Medium,3,Hazy,Service Road,Car,Afternoon (10-15),0
+ACC0596,2022-07-03,2022,July,7,Sunday,Tamil Nadu,Chennai,Medium,4,Rainy,Expressway,Auto-Rickshaw,Morning (6-10),0
+ACC0597,2020-11-25,2020,November,11,Wednesday,Madhya Pradesh,Bhopal,High,12,Clear,Expressway,Bus,Morning (6-10),1
+ACC0598,2020-05-11,2020,May,5,Monday,Karnataka,Mysuru,Low,0,Foggy,Service Road,Bus,Night (19-23),0
+ACC0599,2023-06-11,2023,June,6,Sunday,Telangana,Nizamabad,High,5,Hazy,State Highway,Tempo,Night (19-23),1
+ACC0600,2022-06-18,2022,June,6,Saturday,Uttar Pradesh,Kanpur,High,13,Hazy,Urban Road,Truck,Morning (6-10),1
+ACC0601,2023-05-12,2023,May,5,Friday,Telangana,Khammam,Low,0,Hazy,Service Road,Car,Evening (15-19),0
+ACC0602,2021-05-04,2021,May,5,Tuesday,Uttar Pradesh,Kanpur,High,11,Clear,Urban Road,Tempo,Night (19-23),1
+ACC0603,2022-04-10,2022,April,4,Sunday,Bihar,Gaya,Low,2,Stormy,National Highway,Car,Late Night (23-6),0
+ACC0604,2021-08-05,2021,August,8,Thursday,Telangana,Khammam,Medium,4,Foggy,State Highway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0605,2022-07-20,2022,July,7,Wednesday,Madhya Pradesh,Ujjain,Low,1,Clear,Expressway,Car,Late Night (23-6),0
+ACC0606,2020-05-28,2020,May,5,Thursday,Telangana,Nizamabad,High,13,Foggy,Urban Road,Auto-Rickshaw,Late Night (23-6),1
+ACC0607,2021-05-27,2021,May,5,Thursday,West Bengal,Siliguri,Medium,3,Stormy,Urban Road,SUV,Night (19-23),0
+ACC0608,2023-10-27,2023,October,10,Friday,West Bengal,Durgapur,Medium,4,Clear,National Highway,Bus,Afternoon (10-15),0
+ACC0609,2023-10-18,2023,October,10,Wednesday,Rajasthan,Udaipur,High,13,Cloudy,Expressway,Car,Evening (15-19),1
+ACC0610,2021-05-23,2021,May,5,Sunday,Karnataka,Bengaluru,Medium,4,Cloudy,National Highway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0611,2022-09-02,2022,September,9,Friday,Gujarat,Vadodara,High,9,Rainy,State Highway,Tempo,Afternoon (10-15),1
+ACC0612,2022-10-18,2022,October,10,Tuesday,Rajasthan,Jodhpur,Low,1,Hazy,State Highway,Truck,Afternoon (10-15),0
+ACC0613,2021-05-26,2021,May,5,Wednesday,Bihar,Bhagalpur,High,6,Rainy,National Highway,Tempo,Night (19-23),1
+ACC0614,2023-06-11,2023,June,6,Sunday,Uttar Pradesh,Noida,High,10,Clear,Expressway,Two-Wheeler,Night (19-23),1
+ACC0615,2023-03-22,2023,March,3,Wednesday,Karnataka,Mangaluru,High,13,Rainy,Urban Road,Bus,Afternoon (10-15),1
+ACC0616,2023-03-27,2023,March,3,Monday,Tamil Nadu,Chennai,High,12,Stormy,Expressway,Car,Late Night (23-6),1
+ACC0617,2021-12-12,2021,December,12,Sunday,Madhya Pradesh,Indore,High,13,Cloudy,Rural Road,Two-Wheeler,Morning (6-10),1
+ACC0618,2020-01-25,2020,January,1,Saturday,Rajasthan,Kota,Low,1,Stormy,Expressway,SUV,Evening (15-19),0
+ACC0619,2021-01-18,2021,January,1,Monday,Telangana,Nizamabad,Low,2,Rainy,Urban Road,Two-Wheeler,Afternoon (10-15),0
+ACC0620,2022-10-18,2022,October,10,Tuesday,Madhya Pradesh,Indore,Medium,4,Cloudy,Urban Road,SUV,Night (19-23),0
+ACC0621,2021-07-26,2021,July,7,Monday,West Bengal,Howrah,Low,2,Stormy,Service Road,Truck,Morning (6-10),0
+ACC0622,2021-07-06,2021,July,7,Tuesday,Rajasthan,Ajmer,High,8,Cloudy,State Highway,SUV,Afternoon (10-15),1
+ACC0623,2022-08-26,2022,August,8,Friday,Uttar Pradesh,Kanpur,Medium,6,Cloudy,Expressway,Tempo,Evening (15-19),0
+ACC0624,2022-09-23,2022,September,9,Friday,Karnataka,Hubli,High,5,Stormy,Rural Road,Car,Afternoon (10-15),1
+ACC0625,2020-05-02,2020,May,5,Saturday,Rajasthan,Udaipur,High,6,Cloudy,Rural Road,Tempo,Evening (15-19),1
+ACC0626,2021-06-16,2021,June,6,Wednesday,Gujarat,Vadodara,High,9,Stormy,Urban Road,Car,Night (19-23),1
+ACC0627,2020-09-05,2020,September,9,Saturday,Gujarat,Gandhinagar,Medium,6,Rainy,State Highway,SUV,Evening (15-19),0
+ACC0628,2021-12-28,2021,December,12,Tuesday,Gujarat,Gandhinagar,Medium,5,Cloudy,National Highway,Bus,Late Night (23-6),0
+ACC0629,2021-08-09,2021,August,8,Monday,West Bengal,Howrah,Medium,4,Rainy,Rural Road,Tempo,Late Night (23-6),0
+ACC0630,2023-03-16,2023,March,3,Thursday,Madhya Pradesh,Bhopal,Low,0,Clear,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC0631,2023-12-25,2023,December,12,Monday,Karnataka,Belagavi,Medium,5,Hazy,Urban Road,Tempo,Late Night (23-6),0
+ACC0632,2022-12-02,2022,December,12,Friday,West Bengal,Siliguri,Low,0,Rainy,State Highway,Tempo,Afternoon (10-15),0
+ACC0633,2023-09-17,2023,September,9,Sunday,Karnataka,Bengaluru,Low,0,Rainy,National Highway,Car,Night (19-23),0
+ACC0634,2023-01-28,2023,January,1,Saturday,Uttar Pradesh,Lucknow,Medium,2,Cloudy,National Highway,Two-Wheeler,Late Night (23-6),0
+ACC0635,2020-11-14,2020,November,11,Saturday,Maharashtra,Nashik,Medium,4,Foggy,Rural Road,Tempo,Afternoon (10-15),0
+ACC0636,2020-09-25,2020,September,9,Friday,Telangana,Warangal,Low,1,Clear,Urban Road,SUV,Night (19-23),0
+ACC0637,2022-08-14,2022,August,8,Sunday,Telangana,Nizamabad,Medium,6,Stormy,State Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0638,2022-07-24,2022,July,7,Sunday,Bihar,Muzaffarpur,High,13,Stormy,Urban Road,Two-Wheeler,Night (19-23),1
+ACC0639,2023-01-10,2023,January,1,Tuesday,Rajasthan,Jaipur,Low,1,Cloudy,Urban Road,Truck,Evening (15-19),0
+ACC0640,2020-01-22,2020,January,1,Wednesday,Uttar Pradesh,Noida,Medium,5,Rainy,Expressway,Car,Night (19-23),0
+ACC0641,2022-09-04,2022,September,9,Sunday,Karnataka,Bengaluru,High,14,Cloudy,State Highway,SUV,Morning (6-10),1
+ACC0642,2023-01-27,2023,January,1,Friday,Gujarat,Surat,High,11,Cloudy,Rural Road,Truck,Afternoon (10-15),1
+ACC0643,2023-08-15,2023,August,8,Tuesday,Madhya Pradesh,Jabalpur,Low,1,Rainy,Service Road,Truck,Late Night (23-6),0
+ACC0644,2023-06-09,2023,June,6,Friday,Karnataka,Hubli,High,9,Hazy,Rural Road,Truck,Morning (6-10),1
+ACC0645,2021-01-08,2021,January,1,Friday,Tamil Nadu,Madurai,Medium,6,Clear,Rural Road,Two-Wheeler,Late Night (23-6),0
+ACC0646,2022-10-04,2022,October,10,Tuesday,Rajasthan,Udaipur,Low,2,Clear,National Highway,Truck,Morning (6-10),0
+ACC0647,2021-07-31,2021,July,7,Saturday,Karnataka,Mysuru,Medium,2,Hazy,State Highway,Car,Afternoon (10-15),0
+ACC0648,2020-01-31,2020,January,1,Friday,West Bengal,Howrah,Medium,5,Foggy,Urban Road,Bus,Morning (6-10),0
+ACC0649,2021-11-07,2021,November,11,Sunday,Maharashtra,Pune,Low,1,Clear,National Highway,Auto-Rickshaw,Night (19-23),0
+ACC0650,2021-01-06,2021,January,1,Wednesday,Rajasthan,Udaipur,High,6,Cloudy,Service Road,Truck,Night (19-23),1
+ACC0651,2022-06-26,2022,June,6,Sunday,Rajasthan,Jaipur,Medium,2,Rainy,Expressway,Tempo,Afternoon (10-15),0
+ACC0652,2022-08-26,2022,August,8,Friday,Madhya Pradesh,Gwalior,Low,2,Foggy,National Highway,Tempo,Late Night (23-6),0
+ACC0653,2022-12-02,2022,December,12,Friday,Maharashtra,Nagpur,Medium,3,Cloudy,Urban Road,Car,Afternoon (10-15),0
+ACC0654,2020-08-19,2020,August,8,Wednesday,Rajasthan,Kota,Low,1,Foggy,Expressway,Car,Night (19-23),0
+ACC0655,2021-05-12,2021,May,5,Wednesday,Uttar Pradesh,Lucknow,High,12,Stormy,Service Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC0656,2022-01-30,2022,January,1,Sunday,Maharashtra,Pune,Medium,6,Rainy,Urban Road,SUV,Morning (6-10),0
+ACC0657,2020-05-02,2020,May,5,Saturday,Gujarat,Surat,Medium,2,Hazy,State Highway,Bus,Afternoon (10-15),0
+ACC0658,2021-10-10,2021,October,10,Sunday,Telangana,Nizamabad,Medium,2,Cloudy,Service Road,Bus,Evening (15-19),0
+ACC0659,2020-10-02,2020,October,10,Friday,Karnataka,Bengaluru,Medium,6,Cloudy,Urban Road,Auto-Rickshaw,Night (19-23),0
+ACC0660,2021-01-23,2021,January,1,Saturday,Bihar,Gaya,Medium,5,Stormy,Urban Road,SUV,Late Night (23-6),0
+ACC0661,2023-02-09,2023,February,2,Thursday,Tamil Nadu,Chennai,Low,1,Stormy,Urban Road,Auto-Rickshaw,Evening (15-19),0
+ACC0662,2022-07-18,2022,July,7,Monday,Uttar Pradesh,Noida,Medium,2,Cloudy,Expressway,SUV,Evening (15-19),0
+ACC0663,2023-06-24,2023,June,6,Saturday,Rajasthan,Udaipur,Low,2,Hazy,Rural Road,Truck,Late Night (23-6),0
+ACC0664,2023-10-31,2023,October,10,Tuesday,West Bengal,Durgapur,Medium,4,Rainy,Rural Road,Tempo,Evening (15-19),0
+ACC0665,2020-08-14,2020,August,8,Friday,Maharashtra,Aurangabad,Low,0,Hazy,State Highway,SUV,Morning (6-10),0
+ACC0666,2021-02-17,2021,February,2,Wednesday,Maharashtra,Nashik,Low,2,Rainy,Service Road,SUV,Night (19-23),0
+ACC0667,2023-09-09,2023,September,9,Saturday,West Bengal,Durgapur,High,9,Stormy,National Highway,Two-Wheeler,Afternoon (10-15),1
+ACC0668,2023-05-25,2023,May,5,Thursday,Maharashtra,Mumbai,Medium,2,Rainy,Rural Road,SUV,Morning (6-10),0
+ACC0669,2022-01-09,2022,January,1,Sunday,Telangana,Karimnagar,High,5,Foggy,Expressway,Two-Wheeler,Late Night (23-6),1
+ACC0670,2020-03-24,2020,March,3,Tuesday,Maharashtra,Nagpur,High,13,Clear,National Highway,Car,Afternoon (10-15),1
+ACC0671,2022-12-24,2022,December,12,Saturday,Madhya Pradesh,Indore,Medium,3,Rainy,Expressway,Tempo,Afternoon (10-15),0
+ACC0672,2023-02-17,2023,February,2,Friday,Telangana,Karimnagar,Low,2,Hazy,Expressway,Two-Wheeler,Night (19-23),0
+ACC0673,2023-12-09,2023,December,12,Saturday,Madhya Pradesh,Bhopal,High,13,Rainy,Rural Road,Auto-Rickshaw,Evening (15-19),1
+ACC0674,2023-09-08,2023,September,9,Friday,Tamil Nadu,Tiruchirappalli,Medium,4,Stormy,Urban Road,Auto-Rickshaw,Evening (15-19),0
+ACC0675,2022-01-31,2022,January,1,Monday,Madhya Pradesh,Jabalpur,Medium,3,Hazy,Expressway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0676,2022-02-07,2022,February,2,Monday,Telangana,Nizamabad,High,12,Foggy,Rural Road,Car,Morning (6-10),1
+ACC0677,2021-08-05,2021,August,8,Thursday,Bihar,Patna,Low,1,Stormy,National Highway,Two-Wheeler,Afternoon (10-15),0
+ACC0678,2021-03-15,2021,March,3,Monday,Gujarat,Ahmedabad,High,13,Hazy,Expressway,Auto-Rickshaw,Late Night (23-6),1
+ACC0679,2023-03-16,2023,March,3,Thursday,Tamil Nadu,Chennai,Medium,3,Clear,State Highway,Two-Wheeler,Evening (15-19),0
+ACC0680,2023-04-07,2023,April,4,Friday,Rajasthan,Jodhpur,High,6,Foggy,Expressway,Bus,Late Night (23-6),1
+ACC0681,2021-03-21,2021,March,3,Sunday,Maharashtra,Nagpur,Low,2,Cloudy,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC0682,2023-05-04,2023,May,5,Thursday,Karnataka,Bengaluru,High,11,Hazy,National Highway,SUV,Morning (6-10),1
+ACC0683,2021-11-15,2021,November,11,Monday,Gujarat,Rajkot,High,6,Cloudy,State Highway,Tempo,Late Night (23-6),1
+ACC0684,2020-01-24,2020,January,1,Friday,Madhya Pradesh,Bhopal,Medium,4,Foggy,Expressway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0685,2021-10-31,2021,October,10,Sunday,Telangana,Warangal,Low,2,Rainy,Rural Road,Bus,Late Night (23-6),0
+ACC0686,2023-03-24,2023,March,3,Friday,Telangana,Hyderabad,Medium,5,Rainy,State Highway,Truck,Evening (15-19),0
+ACC0687,2020-06-18,2020,June,6,Thursday,West Bengal,Durgapur,Low,1,Hazy,Urban Road,Car,Night (19-23),0
+ACC0688,2022-10-24,2022,October,10,Monday,Madhya Pradesh,Indore,Medium,3,Rainy,Rural Road,Bus,Late Night (23-6),0
+ACC0689,2021-02-05,2021,February,2,Friday,Telangana,Khammam,Medium,3,Hazy,National Highway,Two-Wheeler,Night (19-23),0
+ACC0690,2021-10-24,2021,October,10,Sunday,Bihar,Patna,Medium,5,Clear,Urban Road,Two-Wheeler,Afternoon (10-15),0
+ACC0691,2021-10-18,2021,October,10,Monday,Gujarat,Gandhinagar,Low,1,Hazy,State Highway,Two-Wheeler,Late Night (23-6),0
+ACC0692,2022-06-24,2022,June,6,Friday,Bihar,Gaya,Low,0,Cloudy,State Highway,Tempo,Evening (15-19),0
+ACC0693,2020-11-15,2020,November,11,Sunday,Maharashtra,Mumbai,Low,2,Hazy,State Highway,SUV,Evening (15-19),0
+ACC0694,2020-01-29,2020,January,1,Wednesday,Gujarat,Ahmedabad,Medium,2,Foggy,Urban Road,Truck,Late Night (23-6),0
+ACC0695,2021-03-09,2021,March,3,Tuesday,Rajasthan,Ajmer,High,13,Stormy,Rural Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC0696,2023-11-24,2023,November,11,Friday,Uttar Pradesh,Varanasi,High,13,Stormy,National Highway,Two-Wheeler,Afternoon (10-15),1
+ACC0697,2020-05-03,2020,May,5,Sunday,Karnataka,Mysuru,Medium,2,Hazy,Rural Road,Tempo,Morning (6-10),0
+ACC0698,2020-05-16,2020,May,5,Saturday,Madhya Pradesh,Gwalior,High,15,Hazy,Urban Road,SUV,Morning (6-10),1
+ACC0699,2020-02-09,2020,February,2,Sunday,Karnataka,Mangaluru,High,13,Rainy,Service Road,Car,Evening (15-19),1
+ACC0700,2022-09-19,2022,September,9,Monday,Bihar,Darbhanga,Low,2,Clear,Rural Road,Auto-Rickshaw,Morning (6-10),0
+ACC0701,2020-03-22,2020,March,3,Sunday,Rajasthan,Ajmer,Medium,5,Foggy,Service Road,Truck,Morning (6-10),0
+ACC0702,2021-12-11,2021,December,12,Saturday,Gujarat,Vadodara,Medium,6,Hazy,Urban Road,SUV,Morning (6-10),0
+ACC0703,2023-07-05,2023,July,7,Wednesday,Karnataka,Mangaluru,High,9,Clear,State Highway,Truck,Evening (15-19),1
+ACC0704,2022-03-15,2022,March,3,Tuesday,Tamil Nadu,Chennai,Medium,6,Hazy,Service Road,Tempo,Afternoon (10-15),0
+ACC0705,2022-05-04,2022,May,5,Wednesday,Rajasthan,Ajmer,Medium,4,Rainy,Expressway,Two-Wheeler,Night (19-23),0
+ACC0706,2023-01-15,2023,January,1,Sunday,Tamil Nadu,Coimbatore,Low,2,Hazy,Service Road,SUV,Afternoon (10-15),0
+ACC0707,2020-10-09,2020,October,10,Friday,Karnataka,Belagavi,Medium,3,Rainy,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0708,2021-10-12,2021,October,10,Tuesday,Maharashtra,Aurangabad,High,6,Stormy,State Highway,Two-Wheeler,Afternoon (10-15),1
+ACC0709,2020-03-01,2020,March,3,Sunday,Gujarat,Rajkot,Low,2,Cloudy,Service Road,Tempo,Evening (15-19),0
+ACC0710,2020-11-07,2020,November,11,Saturday,Rajasthan,Jaipur,Low,2,Rainy,Expressway,Two-Wheeler,Late Night (23-6),0
+ACC0711,2023-03-07,2023,March,3,Tuesday,Bihar,Gaya,Medium,2,Stormy,Urban Road,Car,Night (19-23),0
+ACC0712,2020-10-01,2020,October,10,Thursday,Telangana,Khammam,Medium,4,Cloudy,State Highway,SUV,Night (19-23),0
+ACC0713,2022-10-03,2022,October,10,Monday,West Bengal,Howrah,Low,0,Rainy,Rural Road,SUV,Morning (6-10),0
+ACC0714,2021-07-06,2021,July,7,Tuesday,Madhya Pradesh,Indore,Medium,3,Hazy,State Highway,Car,Afternoon (10-15),0
+ACC0715,2022-06-18,2022,June,6,Saturday,Bihar,Muzaffarpur,Medium,5,Hazy,State Highway,Bus,Night (19-23),0
+ACC0716,2020-03-26,2020,March,3,Thursday,Bihar,Muzaffarpur,Medium,6,Hazy,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0717,2023-01-03,2023,January,1,Tuesday,Telangana,Hyderabad,Low,1,Stormy,National Highway,Truck,Late Night (23-6),0
+ACC0718,2023-01-06,2023,January,1,Friday,Madhya Pradesh,Bhopal,Medium,2,Stormy,State Highway,Two-Wheeler,Night (19-23),0
+ACC0719,2022-03-26,2022,March,3,Saturday,Karnataka,Hubli,Low,1,Cloudy,Expressway,Car,Late Night (23-6),0
+ACC0720,2020-10-18,2020,October,10,Sunday,West Bengal,Siliguri,Medium,2,Clear,State Highway,SUV,Late Night (23-6),0
+ACC0721,2023-11-26,2023,November,11,Sunday,Telangana,Warangal,Medium,5,Cloudy,National Highway,Truck,Night (19-23),0
+ACC0722,2023-04-23,2023,April,4,Sunday,Rajasthan,Kota,Low,2,Clear,Service Road,Tempo,Afternoon (10-15),0
+ACC0723,2020-09-10,2020,September,9,Thursday,Maharashtra,Mumbai,Medium,4,Hazy,National Highway,Auto-Rickshaw,Night (19-23),0
+ACC0724,2022-11-13,2022,November,11,Sunday,Bihar,Gaya,Medium,2,Cloudy,State Highway,Two-Wheeler,Late Night (23-6),0
+ACC0725,2023-09-12,2023,September,9,Tuesday,Tamil Nadu,Coimbatore,Low,2,Rainy,National Highway,Bus,Evening (15-19),0
+ACC0726,2021-09-25,2021,September,9,Saturday,West Bengal,Asansol,Low,0,Hazy,State Highway,Car,Late Night (23-6),0
+ACC0727,2021-06-02,2021,June,6,Wednesday,Uttar Pradesh,Varanasi,High,13,Cloudy,National Highway,Auto-Rickshaw,Night (19-23),1
+ACC0728,2021-05-02,2021,May,5,Sunday,Rajasthan,Ajmer,Medium,5,Hazy,Rural Road,Car,Late Night (23-6),0
+ACC0729,2023-05-14,2023,May,5,Sunday,Uttar Pradesh,Kanpur,Medium,6,Stormy,State Highway,Car,Afternoon (10-15),0
+ACC0730,2020-10-30,2020,October,10,Friday,Uttar Pradesh,Agra,Low,0,Clear,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0731,2021-09-03,2021,September,9,Friday,Gujarat,Ahmedabad,Low,0,Clear,State Highway,Tempo,Evening (15-19),0
+ACC0732,2023-06-05,2023,June,6,Monday,Bihar,Darbhanga,Low,1,Stormy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC0733,2020-03-14,2020,March,3,Saturday,Maharashtra,Nagpur,Medium,5,Foggy,National Highway,SUV,Night (19-23),0
+ACC0734,2023-02-01,2023,February,2,Wednesday,Maharashtra,Nagpur,Low,2,Cloudy,Urban Road,Two-Wheeler,Late Night (23-6),0
+ACC0735,2022-04-27,2022,April,4,Wednesday,Telangana,Warangal,Low,0,Hazy,National Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0736,2020-06-28,2020,June,6,Sunday,West Bengal,Durgapur,Medium,6,Hazy,Urban Road,Two-Wheeler,Late Night (23-6),0
+ACC0737,2023-03-23,2023,March,3,Thursday,Bihar,Bhagalpur,Medium,5,Rainy,Expressway,Tempo,Night (19-23),0
+ACC0738,2022-10-05,2022,October,10,Wednesday,Tamil Nadu,Tiruchirappalli,High,8,Rainy,National Highway,Car,Morning (6-10),1
+ACC0739,2022-08-10,2022,August,8,Wednesday,Maharashtra,Pune,High,11,Stormy,National Highway,Two-Wheeler,Evening (15-19),1
+ACC0740,2023-02-21,2023,February,2,Tuesday,Rajasthan,Jaipur,Low,1,Hazy,Urban Road,SUV,Morning (6-10),0
+ACC0741,2021-09-22,2021,September,9,Wednesday,Karnataka,Belagavi,Medium,2,Stormy,National Highway,Tempo,Evening (15-19),0
+ACC0742,2021-11-30,2021,November,11,Tuesday,Madhya Pradesh,Ujjain,High,7,Stormy,State Highway,Two-Wheeler,Evening (15-19),1
+ACC0743,2023-10-09,2023,October,10,Monday,West Bengal,Siliguri,Medium,5,Clear,State Highway,Tempo,Night (19-23),0
+ACC0744,2023-01-04,2023,January,1,Wednesday,Gujarat,Rajkot,High,5,Cloudy,Expressway,Two-Wheeler,Late Night (23-6),1
+ACC0745,2023-10-20,2023,October,10,Friday,Gujarat,Gandhinagar,Low,2,Stormy,Service Road,Two-Wheeler,Evening (15-19),0
+ACC0746,2020-05-15,2020,May,5,Friday,Tamil Nadu,Madurai,Low,1,Clear,Service Road,Auto-Rickshaw,Afternoon (10-15),0
+ACC0747,2023-03-15,2023,March,3,Wednesday,Bihar,Muzaffarpur,Medium,4,Rainy,Service Road,SUV,Evening (15-19),0
+ACC0748,2023-12-24,2023,December,12,Sunday,Uttar Pradesh,Agra,Low,0,Cloudy,Urban Road,Bus,Evening (15-19),0
+ACC0749,2021-03-18,2021,March,3,Thursday,Telangana,Nizamabad,Low,0,Rainy,State Highway,Car,Night (19-23),0
+ACC0750,2022-11-02,2022,November,11,Wednesday,Uttar Pradesh,Varanasi,Low,1,Stormy,Rural Road,Tempo,Late Night (23-6),0
+ACC0751,2021-09-27,2021,September,9,Monday,Gujarat,Surat,High,13,Clear,Service Road,Truck,Afternoon (10-15),1
+ACC0752,2020-03-15,2020,March,3,Sunday,West Bengal,Siliguri,High,6,Hazy,National Highway,Two-Wheeler,Morning (6-10),1
+ACC0753,2023-11-08,2023,November,11,Wednesday,Bihar,Patna,Medium,2,Foggy,National Highway,Auto-Rickshaw,Evening (15-19),0
+ACC0754,2020-02-16,2020,February,2,Sunday,Bihar,Bhagalpur,High,10,Hazy,State Highway,Truck,Evening (15-19),1
+ACC0755,2021-07-20,2021,July,7,Tuesday,Telangana,Nizamabad,Medium,4,Cloudy,State Highway,Truck,Evening (15-19),0
+ACC0756,2020-08-22,2020,August,8,Saturday,Uttar Pradesh,Noida,High,8,Stormy,Expressway,Two-Wheeler,Late Night (23-6),1
+ACC0757,2021-10-14,2021,October,10,Thursday,Karnataka,Mysuru,High,14,Hazy,State Highway,Truck,Morning (6-10),1
+ACC0758,2021-09-29,2021,September,9,Wednesday,Bihar,Bhagalpur,Medium,3,Stormy,National Highway,Bus,Morning (6-10),0
+ACC0759,2020-08-04,2020,August,8,Tuesday,Madhya Pradesh,Bhopal,Low,0,Clear,Service Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0760,2023-07-13,2023,July,7,Thursday,West Bengal,Durgapur,Medium,3,Foggy,Service Road,SUV,Late Night (23-6),0
+ACC0761,2020-06-09,2020,June,6,Tuesday,West Bengal,Durgapur,Low,2,Rainy,Rural Road,Car,Night (19-23),0
+ACC0762,2021-09-27,2021,September,9,Monday,West Bengal,Siliguri,High,7,Rainy,Expressway,Two-Wheeler,Evening (15-19),1
+ACC0763,2022-03-13,2022,March,3,Sunday,Tamil Nadu,Madurai,Medium,2,Foggy,National Highway,Bus,Morning (6-10),0
+ACC0764,2021-12-20,2021,December,12,Monday,West Bengal,Siliguri,Low,1,Rainy,Expressway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0765,2022-11-06,2022,November,11,Sunday,Maharashtra,Nashik,High,10,Hazy,Expressway,Tempo,Morning (6-10),1
+ACC0766,2021-09-10,2021,September,9,Friday,Telangana,Karimnagar,Medium,3,Cloudy,Expressway,Truck,Late Night (23-6),0
+ACC0767,2020-11-21,2020,November,11,Saturday,West Bengal,Siliguri,Low,2,Clear,Expressway,Bus,Night (19-23),0
+ACC0768,2023-03-07,2023,March,3,Tuesday,Gujarat,Gandhinagar,Low,2,Hazy,Service Road,Car,Late Night (23-6),0
+ACC0769,2022-09-23,2022,September,9,Friday,Maharashtra,Aurangabad,Medium,6,Stormy,National Highway,SUV,Night (19-23),0
+ACC0770,2020-12-26,2020,December,12,Saturday,Karnataka,Mangaluru,Medium,6,Clear,Rural Road,Two-Wheeler,Night (19-23),0
+ACC0771,2023-08-13,2023,August,8,Sunday,Uttar Pradesh,Lucknow,High,14,Rainy,Service Road,SUV,Morning (6-10),1
+ACC0772,2020-10-27,2020,October,10,Tuesday,Tamil Nadu,Salem,Medium,6,Stormy,Expressway,Bus,Afternoon (10-15),0
+ACC0773,2021-02-25,2021,February,2,Thursday,Gujarat,Vadodara,High,15,Stormy,Urban Road,Bus,Evening (15-19),1
+ACC0774,2020-07-01,2020,July,7,Wednesday,Bihar,Patna,High,11,Stormy,State Highway,SUV,Evening (15-19),1
+ACC0775,2020-05-07,2020,May,5,Thursday,Gujarat,Gandhinagar,Low,2,Clear,Urban Road,Car,Evening (15-19),0
+ACC0776,2020-03-04,2020,March,3,Wednesday,Rajasthan,Kota,Medium,4,Hazy,Service Road,Bus,Night (19-23),0
+ACC0777,2022-02-20,2022,February,2,Sunday,Madhya Pradesh,Ujjain,Medium,5,Rainy,State Highway,Truck,Late Night (23-6),0
+ACC0778,2022-02-26,2022,February,2,Saturday,Gujarat,Rajkot,Low,2,Rainy,State Highway,Truck,Morning (6-10),0
+ACC0779,2020-05-26,2020,May,5,Tuesday,Uttar Pradesh,Kanpur,High,15,Hazy,Rural Road,Truck,Morning (6-10),1
+ACC0780,2020-10-08,2020,October,10,Thursday,Madhya Pradesh,Jabalpur,Medium,5,Hazy,Expressway,Truck,Night (19-23),0
+ACC0781,2022-11-09,2022,November,11,Wednesday,Madhya Pradesh,Ujjain,Low,0,Cloudy,State Highway,Bus,Late Night (23-6),0
+ACC0782,2020-01-16,2020,January,1,Thursday,Bihar,Muzaffarpur,Low,2,Hazy,Urban Road,Bus,Late Night (23-6),0
+ACC0783,2023-03-26,2023,March,3,Sunday,Gujarat,Ahmedabad,Medium,4,Clear,National Highway,Auto-Rickshaw,Night (19-23),0
+ACC0784,2023-11-15,2023,November,11,Wednesday,Maharashtra,Pune,High,9,Hazy,Rural Road,Auto-Rickshaw,Morning (6-10),1
+ACC0785,2022-12-07,2022,December,12,Wednesday,Bihar,Patna,Medium,2,Rainy,Service Road,Tempo,Late Night (23-6),0
+ACC0786,2023-04-02,2023,April,4,Sunday,Karnataka,Belagavi,High,13,Clear,National Highway,Bus,Night (19-23),1
+ACC0787,2022-11-15,2022,November,11,Tuesday,West Bengal,Durgapur,Medium,4,Hazy,Urban Road,Two-Wheeler,Afternoon (10-15),0
+ACC0788,2020-03-13,2020,March,3,Friday,Bihar,Bhagalpur,High,9,Hazy,National Highway,Tempo,Night (19-23),1
+ACC0789,2023-03-30,2023,March,3,Thursday,Tamil Nadu,Tiruchirappalli,Medium,4,Clear,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC0790,2021-08-10,2021,August,8,Tuesday,West Bengal,Kolkata,Medium,4,Rainy,Urban Road,Truck,Late Night (23-6),0
+ACC0791,2021-07-29,2021,July,7,Thursday,Karnataka,Hubli,Medium,6,Clear,State Highway,Auto-Rickshaw,Afternoon (10-15),0
+ACC0792,2023-09-11,2023,September,9,Monday,West Bengal,Asansol,Low,2,Rainy,State Highway,Bus,Afternoon (10-15),0
+ACC0793,2022-12-16,2022,December,12,Friday,Uttar Pradesh,Agra,High,14,Clear,State Highway,SUV,Night (19-23),1
+ACC0794,2022-04-25,2022,April,4,Monday,Madhya Pradesh,Indore,Medium,3,Hazy,State Highway,Auto-Rickshaw,Evening (15-19),0
+ACC0795,2020-04-21,2020,April,4,Tuesday,Karnataka,Bengaluru,Low,1,Clear,Rural Road,Two-Wheeler,Night (19-23),0
+ACC0796,2022-12-26,2022,December,12,Monday,Rajasthan,Kota,High,12,Hazy,Urban Road,Truck,Late Night (23-6),1
+ACC0797,2022-06-09,2022,June,6,Thursday,Uttar Pradesh,Agra,Low,1,Cloudy,Expressway,Tempo,Morning (6-10),0
+ACC0798,2020-07-18,2020,July,7,Saturday,Telangana,Nizamabad,Medium,4,Cloudy,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC0799,2020-07-20,2020,July,7,Monday,Karnataka,Belagavi,Medium,3,Cloudy,Service Road,Tempo,Late Night (23-6),0
+ACC0800,2021-02-03,2021,February,2,Wednesday,Telangana,Nizamabad,High,7,Hazy,Urban Road,Auto-Rickshaw,Morning (6-10),1
+ACC0801,2023-10-09,2023,October,10,Monday,Uttar Pradesh,Lucknow,Low,2,Clear,National Highway,Tempo,Night (19-23),0
+ACC0802,2021-12-20,2021,December,12,Monday,Rajasthan,Udaipur,Low,0,Foggy,Expressway,Car,Morning (6-10),0
+ACC0803,2023-05-01,2023,May,5,Monday,Rajasthan,Ajmer,Low,0,Hazy,National Highway,SUV,Late Night (23-6),0
+ACC0804,2020-09-23,2020,September,9,Wednesday,Madhya Pradesh,Ujjain,High,7,Rainy,Urban Road,Two-Wheeler,Night (19-23),1
+ACC0805,2023-09-14,2023,September,9,Thursday,Maharashtra,Nashik,High,15,Foggy,Urban Road,Two-Wheeler,Afternoon (10-15),1
+ACC0806,2020-05-31,2020,May,5,Sunday,Karnataka,Bengaluru,Low,0,Cloudy,Urban Road,SUV,Evening (15-19),0
+ACC0807,2020-12-30,2020,December,12,Wednesday,West Bengal,Kolkata,High,8,Cloudy,Expressway,Bus,Afternoon (10-15),1
+ACC0808,2023-08-14,2023,August,8,Monday,West Bengal,Kolkata,Medium,5,Rainy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0809,2022-06-23,2022,June,6,Thursday,Karnataka,Bengaluru,Low,2,Clear,Service Road,Two-Wheeler,Night (19-23),0
+ACC0810,2020-02-08,2020,February,2,Saturday,West Bengal,Howrah,Medium,2,Hazy,Service Road,Bus,Evening (15-19),0
+ACC0811,2020-11-06,2020,November,11,Friday,Gujarat,Rajkot,Low,2,Stormy,Rural Road,Bus,Night (19-23),0
+ACC0812,2022-04-07,2022,April,4,Thursday,Maharashtra,Aurangabad,Low,2,Rainy,Rural Road,Car,Late Night (23-6),0
+ACC0813,2023-01-01,2023,January,1,Sunday,Gujarat,Vadodara,Medium,2,Hazy,Service Road,Tempo,Morning (6-10),0
+ACC0814,2022-01-18,2022,January,1,Tuesday,Telangana,Nizamabad,High,9,Clear,Service Road,Truck,Afternoon (10-15),1
+ACC0815,2023-02-09,2023,February,2,Thursday,Uttar Pradesh,Varanasi,Low,2,Hazy,Rural Road,Car,Evening (15-19),0
+ACC0816,2022-09-23,2022,September,9,Friday,Maharashtra,Nashik,Low,0,Hazy,State Highway,Car,Late Night (23-6),0
+ACC0817,2021-05-03,2021,May,5,Monday,West Bengal,Siliguri,Medium,4,Clear,Rural Road,Auto-Rickshaw,Night (19-23),0
+ACC0818,2020-02-03,2020,February,2,Monday,Uttar Pradesh,Agra,Low,2,Clear,National Highway,Bus,Morning (6-10),0
+ACC0819,2021-03-09,2021,March,3,Tuesday,Telangana,Karimnagar,High,13,Hazy,State Highway,Tempo,Late Night (23-6),1
+ACC0820,2021-04-22,2021,April,4,Thursday,Maharashtra,Mumbai,Low,2,Hazy,National Highway,Bus,Late Night (23-6),0
+ACC0821,2020-04-03,2020,April,4,Friday,Rajasthan,Jodhpur,Low,0,Clear,Urban Road,SUV,Morning (6-10),0
+ACC0822,2022-07-23,2022,July,7,Saturday,Bihar,Gaya,Low,0,Stormy,National Highway,Bus,Late Night (23-6),0
+ACC0823,2023-06-14,2023,June,6,Wednesday,Rajasthan,Jaipur,Medium,5,Rainy,Urban Road,Car,Late Night (23-6),0
+ACC0824,2023-01-22,2023,January,1,Sunday,Tamil Nadu,Madurai,High,14,Rainy,State Highway,Two-Wheeler,Morning (6-10),1
+ACC0825,2020-09-04,2020,September,9,Friday,Karnataka,Mysuru,Low,1,Cloudy,Expressway,Truck,Night (19-23),0
+ACC0826,2021-05-13,2021,May,5,Thursday,Bihar,Patna,Low,2,Rainy,Expressway,Bus,Afternoon (10-15),0
+ACC0827,2020-02-02,2020,February,2,Sunday,West Bengal,Kolkata,Low,0,Clear,Service Road,Tempo,Late Night (23-6),0
+ACC0828,2021-08-04,2021,August,8,Wednesday,Madhya Pradesh,Jabalpur,Low,0,Hazy,Service Road,Two-Wheeler,Late Night (23-6),0
+ACC0829,2022-07-11,2022,July,7,Monday,Madhya Pradesh,Indore,Medium,2,Rainy,Expressway,Truck,Night (19-23),0
+ACC0830,2023-06-07,2023,June,6,Wednesday,Maharashtra,Nagpur,Medium,6,Foggy,State Highway,Truck,Morning (6-10),0
+ACC0831,2022-12-21,2022,December,12,Wednesday,Maharashtra,Aurangabad,High,13,Foggy,Expressway,Truck,Night (19-23),1
+ACC0832,2023-07-06,2023,July,7,Thursday,Rajasthan,Udaipur,Low,0,Clear,Service Road,SUV,Night (19-23),0
+ACC0833,2022-10-15,2022,October,10,Saturday,Tamil Nadu,Coimbatore,High,5,Hazy,Service Road,Two-Wheeler,Evening (15-19),1
+ACC0834,2021-03-05,2021,March,3,Friday,Madhya Pradesh,Gwalior,High,12,Foggy,National Highway,Car,Morning (6-10),1
+ACC0835,2023-01-05,2023,January,1,Thursday,Tamil Nadu,Coimbatore,Medium,2,Clear,National Highway,Truck,Night (19-23),0
+ACC0836,2023-04-28,2023,April,4,Friday,Bihar,Bhagalpur,Low,2,Cloudy,Urban Road,Truck,Morning (6-10),0
+ACC0837,2021-10-29,2021,October,10,Friday,Rajasthan,Jaipur,High,8,Rainy,Rural Road,Truck,Morning (6-10),1
+ACC0838,2022-08-22,2022,August,8,Monday,Bihar,Muzaffarpur,High,7,Clear,State Highway,Auto-Rickshaw,Night (19-23),1
+ACC0839,2020-12-30,2020,December,12,Wednesday,Madhya Pradesh,Gwalior,Medium,3,Rainy,Service Road,Two-Wheeler,Evening (15-19),0
+ACC0840,2021-02-18,2021,February,2,Thursday,Gujarat,Surat,Medium,2,Clear,Urban Road,Truck,Morning (6-10),0
+ACC0841,2022-08-11,2022,August,8,Thursday,West Bengal,Siliguri,High,8,Rainy,Urban Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC0842,2023-07-30,2023,July,7,Sunday,Bihar,Gaya,High,8,Stormy,National Highway,Bus,Late Night (23-6),1
+ACC0843,2022-09-28,2022,September,9,Wednesday,Rajasthan,Ajmer,High,9,Cloudy,National Highway,Tempo,Night (19-23),1
+ACC0844,2021-05-20,2021,May,5,Thursday,Rajasthan,Udaipur,Medium,6,Cloudy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0845,2022-05-05,2022,May,5,Thursday,Uttar Pradesh,Lucknow,Medium,6,Cloudy,National Highway,Bus,Late Night (23-6),0
+ACC0846,2022-03-18,2022,March,3,Friday,West Bengal,Kolkata,Medium,2,Cloudy,Expressway,SUV,Morning (6-10),0
+ACC0847,2023-11-20,2023,November,11,Monday,Madhya Pradesh,Indore,Medium,3,Rainy,Service Road,Car,Morning (6-10),0
+ACC0848,2022-09-09,2022,September,9,Friday,Karnataka,Mysuru,Medium,6,Hazy,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC0849,2022-07-20,2022,July,7,Wednesday,West Bengal,Howrah,Medium,4,Hazy,Service Road,Bus,Morning (6-10),0
+ACC0850,2023-07-08,2023,July,7,Saturday,Maharashtra,Nashik,Medium,2,Hazy,Urban Road,Bus,Evening (15-19),0
+ACC0851,2023-11-30,2023,November,11,Thursday,Bihar,Darbhanga,High,15,Stormy,National Highway,Auto-Rickshaw,Evening (15-19),1
+ACC0852,2020-04-22,2020,April,4,Wednesday,Telangana,Nizamabad,Low,1,Clear,Rural Road,Auto-Rickshaw,Morning (6-10),0
+ACC0853,2022-01-18,2022,January,1,Tuesday,Gujarat,Surat,Medium,2,Hazy,Expressway,Tempo,Afternoon (10-15),0
+ACC0854,2020-10-10,2020,October,10,Saturday,Gujarat,Surat,Low,1,Stormy,Service Road,SUV,Late Night (23-6),0
+ACC0855,2023-12-10,2023,December,12,Sunday,Rajasthan,Jodhpur,Medium,4,Foggy,Expressway,Tempo,Night (19-23),0
+ACC0856,2021-07-21,2021,July,7,Wednesday,Uttar Pradesh,Lucknow,Medium,5,Foggy,Expressway,Auto-Rickshaw,Morning (6-10),0
+ACC0857,2022-08-20,2022,August,8,Saturday,Telangana,Khammam,Medium,4,Foggy,Service Road,Tempo,Morning (6-10),0
+ACC0858,2021-01-20,2021,January,1,Wednesday,West Bengal,Kolkata,Low,0,Clear,Urban Road,Car,Morning (6-10),0
+ACC0859,2020-12-03,2020,December,12,Thursday,Karnataka,Bengaluru,Low,0,Hazy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0860,2021-08-23,2021,August,8,Monday,Madhya Pradesh,Ujjain,Medium,5,Rainy,Rural Road,Tempo,Morning (6-10),0
+ACC0861,2021-08-20,2021,August,8,Friday,Rajasthan,Jaipur,High,8,Clear,Expressway,Tempo,Evening (15-19),1
+ACC0862,2022-04-23,2022,April,4,Saturday,Bihar,Bhagalpur,Medium,4,Hazy,Rural Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0863,2023-01-28,2023,January,1,Saturday,West Bengal,Siliguri,High,9,Foggy,State Highway,SUV,Evening (15-19),1
+ACC0864,2021-04-09,2021,April,4,Friday,West Bengal,Asansol,High,5,Foggy,State Highway,Two-Wheeler,Evening (15-19),1
+ACC0865,2022-07-22,2022,July,7,Friday,Tamil Nadu,Tiruchirappalli,High,9,Rainy,State Highway,Truck,Afternoon (10-15),1
+ACC0866,2020-11-26,2020,November,11,Thursday,Rajasthan,Jaipur,High,14,Clear,State Highway,Bus,Evening (15-19),1
+ACC0867,2022-01-27,2022,January,1,Thursday,Tamil Nadu,Coimbatore,High,15,Stormy,Urban Road,Two-Wheeler,Afternoon (10-15),1
+ACC0868,2022-02-02,2022,February,2,Wednesday,West Bengal,Durgapur,Medium,2,Rainy,National Highway,Bus,Night (19-23),0
+ACC0869,2020-10-24,2020,October,10,Saturday,West Bengal,Asansol,Low,2,Rainy,Expressway,Auto-Rickshaw,Evening (15-19),0
+ACC0870,2023-08-18,2023,August,8,Friday,Karnataka,Mangaluru,High,14,Foggy,Service Road,Truck,Late Night (23-6),1
+ACC0871,2022-06-24,2022,June,6,Friday,Gujarat,Ahmedabad,Medium,2,Hazy,State Highway,Tempo,Late Night (23-6),0
+ACC0872,2020-08-27,2020,August,8,Thursday,Karnataka,Bengaluru,Medium,3,Cloudy,Rural Road,Two-Wheeler,Morning (6-10),0
+ACC0873,2021-10-30,2021,October,10,Saturday,Uttar Pradesh,Noida,Low,2,Hazy,State Highway,SUV,Evening (15-19),0
+ACC0874,2021-02-04,2021,February,2,Thursday,Uttar Pradesh,Lucknow,High,15,Stormy,Service Road,Car,Late Night (23-6),1
+ACC0875,2022-03-18,2022,March,3,Friday,Rajasthan,Kota,High,13,Foggy,National Highway,Tempo,Evening (15-19),1
+ACC0876,2022-03-25,2022,March,3,Friday,Tamil Nadu,Salem,Medium,2,Foggy,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC0877,2021-09-22,2021,September,9,Wednesday,West Bengal,Durgapur,Low,1,Clear,Service Road,Bus,Night (19-23),0
+ACC0878,2021-08-14,2021,August,8,Saturday,Tamil Nadu,Salem,High,7,Hazy,Expressway,Auto-Rickshaw,Morning (6-10),1
+ACC0879,2020-10-21,2020,October,10,Wednesday,Rajasthan,Udaipur,High,13,Cloudy,Urban Road,Car,Late Night (23-6),1
+ACC0880,2022-02-08,2022,February,2,Tuesday,Maharashtra,Mumbai,Medium,4,Cloudy,Rural Road,Truck,Late Night (23-6),0
+ACC0881,2022-08-04,2022,August,8,Thursday,Bihar,Gaya,Low,1,Rainy,Urban Road,Auto-Rickshaw,Night (19-23),0
+ACC0882,2020-03-27,2020,March,3,Friday,Karnataka,Belagavi,Medium,5,Foggy,State Highway,Car,Morning (6-10),0
+ACC0883,2020-11-11,2020,November,11,Wednesday,Karnataka,Hubli,High,12,Hazy,National Highway,Tempo,Evening (15-19),1
+ACC0884,2022-05-04,2022,May,5,Wednesday,Tamil Nadu,Salem,Medium,2,Hazy,National Highway,SUV,Evening (15-19),0
+ACC0885,2022-10-06,2022,October,10,Thursday,Maharashtra,Aurangabad,Medium,5,Hazy,Expressway,Bus,Evening (15-19),0
+ACC0886,2023-07-10,2023,July,7,Monday,West Bengal,Kolkata,Medium,6,Foggy,National Highway,SUV,Evening (15-19),0
+ACC0887,2020-11-29,2020,November,11,Sunday,Bihar,Patna,Medium,3,Rainy,Urban Road,Truck,Morning (6-10),0
+ACC0888,2021-07-12,2021,July,7,Monday,Gujarat,Rajkot,High,10,Hazy,National Highway,Two-Wheeler,Evening (15-19),1
+ACC0889,2022-12-20,2022,December,12,Tuesday,Maharashtra,Aurangabad,High,7,Rainy,National Highway,Auto-Rickshaw,Afternoon (10-15),1
+ACC0890,2023-01-18,2023,January,1,Wednesday,Gujarat,Vadodara,High,9,Hazy,Service Road,Tempo,Evening (15-19),1
+ACC0891,2020-07-15,2020,July,7,Wednesday,Telangana,Khammam,High,5,Foggy,State Highway,Auto-Rickshaw,Evening (15-19),1
+ACC0892,2022-02-02,2022,February,2,Wednesday,West Bengal,Siliguri,High,7,Foggy,National Highway,Truck,Afternoon (10-15),1
+ACC0893,2022-10-27,2022,October,10,Thursday,Rajasthan,Jodhpur,High,13,Stormy,Expressway,Tempo,Late Night (23-6),1
+ACC0894,2023-12-09,2023,December,12,Saturday,Maharashtra,Nashik,High,6,Cloudy,State Highway,Car,Night (19-23),1
+ACC0895,2021-12-14,2021,December,12,Tuesday,Karnataka,Hubli,High,14,Rainy,Expressway,SUV,Evening (15-19),1
+ACC0896,2020-12-18,2020,December,12,Friday,Karnataka,Bengaluru,High,8,Hazy,State Highway,SUV,Afternoon (10-15),1
+ACC0897,2023-11-10,2023,November,11,Friday,Rajasthan,Udaipur,Low,0,Rainy,Rural Road,Tempo,Morning (6-10),0
+ACC0898,2020-06-08,2020,June,6,Monday,Uttar Pradesh,Varanasi,Low,0,Cloudy,National Highway,SUV,Late Night (23-6),0
+ACC0899,2023-04-29,2023,April,4,Saturday,Uttar Pradesh,Varanasi,High,5,Clear,National Highway,Two-Wheeler,Morning (6-10),1
+ACC0900,2020-07-16,2020,July,7,Thursday,Maharashtra,Aurangabad,Medium,3,Rainy,State Highway,Tempo,Evening (15-19),0
+ACC0901,2020-02-29,2020,February,2,Saturday,Maharashtra,Pune,High,14,Hazy,Urban Road,Two-Wheeler,Afternoon (10-15),1
+ACC0902,2022-10-22,2022,October,10,Saturday,Bihar,Gaya,High,6,Stormy,Expressway,SUV,Morning (6-10),1
+ACC0903,2022-12-19,2022,December,12,Monday,Rajasthan,Jodhpur,Low,2,Foggy,National Highway,Tempo,Morning (6-10),0
+ACC0904,2021-03-14,2021,March,3,Sunday,Telangana,Karimnagar,High,7,Foggy,Rural Road,Tempo,Morning (6-10),1
+ACC0905,2021-01-05,2021,January,1,Tuesday,Gujarat,Rajkot,Low,0,Cloudy,Rural Road,Car,Evening (15-19),0
+ACC0906,2020-09-10,2020,September,9,Thursday,West Bengal,Kolkata,Low,1,Stormy,Service Road,Two-Wheeler,Late Night (23-6),0
+ACC0907,2020-03-24,2020,March,3,Tuesday,Maharashtra,Nagpur,Low,1,Cloudy,Rural Road,Auto-Rickshaw,Evening (15-19),0
+ACC0908,2023-11-08,2023,November,11,Wednesday,West Bengal,Howrah,Medium,5,Stormy,State Highway,SUV,Morning (6-10),0
+ACC0909,2022-09-01,2022,September,9,Thursday,Gujarat,Surat,High,12,Clear,Service Road,Car,Night (19-23),1
+ACC0910,2022-06-16,2022,June,6,Thursday,Telangana,Hyderabad,Low,1,Clear,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC0911,2020-12-11,2020,December,12,Friday,Maharashtra,Nagpur,Medium,6,Rainy,Rural Road,Car,Afternoon (10-15),0
+ACC0912,2022-05-19,2022,May,5,Thursday,West Bengal,Asansol,High,14,Hazy,Urban Road,SUV,Night (19-23),1
+ACC0913,2021-12-30,2021,December,12,Thursday,West Bengal,Durgapur,High,13,Cloudy,Urban Road,Truck,Night (19-23),1
+ACC0914,2020-08-09,2020,August,8,Sunday,Maharashtra,Nagpur,Medium,3,Cloudy,National Highway,Car,Morning (6-10),0
+ACC0915,2020-05-19,2020,May,5,Tuesday,West Bengal,Kolkata,Medium,4,Rainy,State Highway,Two-Wheeler,Late Night (23-6),0
+ACC0916,2023-06-30,2023,June,6,Friday,Maharashtra,Mumbai,High,12,Hazy,Rural Road,Truck,Evening (15-19),1
+ACC0917,2023-09-17,2023,September,9,Sunday,West Bengal,Siliguri,Medium,4,Stormy,Expressway,Auto-Rickshaw,Morning (6-10),0
+ACC0918,2020-03-05,2020,March,3,Thursday,Madhya Pradesh,Bhopal,Medium,5,Cloudy,Rural Road,Bus,Morning (6-10),0
+ACC0919,2020-03-08,2020,March,3,Sunday,Tamil Nadu,Tiruchirappalli,High,9,Hazy,Service Road,Truck,Night (19-23),1
+ACC0920,2022-06-01,2022,June,6,Wednesday,Tamil Nadu,Madurai,Medium,2,Hazy,Expressway,Tempo,Night (19-23),0
+ACC0921,2023-09-13,2023,September,9,Wednesday,Telangana,Khammam,Medium,6,Stormy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0922,2022-03-12,2022,March,3,Saturday,Karnataka,Mangaluru,High,14,Stormy,Service Road,Two-Wheeler,Evening (15-19),1
+ACC0923,2021-10-18,2021,October,10,Monday,Uttar Pradesh,Lucknow,Low,1,Stormy,Urban Road,SUV,Late Night (23-6),0
+ACC0924,2020-02-25,2020,February,2,Tuesday,Gujarat,Rajkot,Low,1,Clear,Rural Road,Two-Wheeler,Morning (6-10),0
+ACC0925,2023-09-16,2023,September,9,Saturday,Rajasthan,Jodhpur,Medium,6,Rainy,National Highway,Tempo,Morning (6-10),0
+ACC0926,2021-09-16,2021,September,9,Thursday,Maharashtra,Nagpur,Low,1,Rainy,National Highway,Bus,Night (19-23),0
+ACC0927,2023-03-09,2023,March,3,Thursday,Telangana,Karimnagar,Low,1,Foggy,Expressway,Car,Evening (15-19),0
+ACC0928,2022-02-12,2022,February,2,Saturday,Bihar,Muzaffarpur,High,12,Foggy,National Highway,Tempo,Afternoon (10-15),1
+ACC0929,2021-11-19,2021,November,11,Friday,West Bengal,Durgapur,Medium,6,Hazy,Urban Road,Two-Wheeler,Night (19-23),0
+ACC0930,2021-02-17,2021,February,2,Wednesday,West Bengal,Kolkata,Medium,4,Stormy,National Highway,Two-Wheeler,Late Night (23-6),0
+ACC0931,2022-04-03,2022,April,4,Sunday,Rajasthan,Ajmer,High,14,Hazy,National Highway,Auto-Rickshaw,Evening (15-19),1
+ACC0932,2021-07-13,2021,July,7,Tuesday,Maharashtra,Aurangabad,Medium,3,Stormy,Urban Road,SUV,Morning (6-10),0
+ACC0933,2023-08-27,2023,August,8,Sunday,Karnataka,Belagavi,Medium,6,Foggy,Urban Road,Truck,Night (19-23),0
+ACC0934,2022-04-03,2022,April,4,Sunday,Karnataka,Belagavi,Medium,6,Stormy,State Highway,Car,Late Night (23-6),0
+ACC0935,2021-01-17,2021,January,1,Sunday,Bihar,Muzaffarpur,Medium,5,Rainy,Urban Road,Tempo,Late Night (23-6),0
+ACC0936,2023-06-12,2023,June,6,Monday,Madhya Pradesh,Ujjain,Medium,6,Hazy,State Highway,Two-Wheeler,Night (19-23),0
+ACC0937,2020-10-29,2020,October,10,Thursday,Rajasthan,Jodhpur,High,9,Hazy,Rural Road,Bus,Evening (15-19),1
+ACC0938,2020-05-11,2020,May,5,Monday,Rajasthan,Kota,High,15,Foggy,State Highway,Two-Wheeler,Late Night (23-6),1
+ACC0939,2021-04-28,2021,April,4,Wednesday,Madhya Pradesh,Indore,Low,0,Clear,State Highway,SUV,Evening (15-19),0
+ACC0940,2022-08-08,2022,August,8,Monday,West Bengal,Durgapur,Medium,2,Cloudy,State Highway,Truck,Evening (15-19),0
+ACC0941,2020-10-06,2020,October,10,Tuesday,Uttar Pradesh,Agra,High,7,Foggy,Service Road,SUV,Morning (6-10),1
+ACC0942,2022-09-22,2022,September,9,Thursday,Uttar Pradesh,Lucknow,Low,1,Clear,National Highway,Bus,Evening (15-19),0
+ACC0943,2023-10-07,2023,October,10,Saturday,Maharashtra,Nashik,High,8,Hazy,National Highway,Auto-Rickshaw,Late Night (23-6),1
+ACC0944,2020-09-04,2020,September,9,Friday,Telangana,Khammam,Medium,2,Stormy,State Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0945,2021-10-03,2021,October,10,Sunday,Gujarat,Gandhinagar,Medium,3,Hazy,Rural Road,Truck,Afternoon (10-15),0
+ACC0946,2020-08-06,2020,August,8,Thursday,Tamil Nadu,Coimbatore,Medium,4,Foggy,Expressway,Car,Night (19-23),0
+ACC0947,2022-12-28,2022,December,12,Wednesday,Gujarat,Ahmedabad,Medium,5,Foggy,Service Road,Truck,Evening (15-19),0
+ACC0948,2020-10-23,2020,October,10,Friday,Gujarat,Rajkot,Medium,4,Hazy,National Highway,Tempo,Late Night (23-6),0
+ACC0949,2020-03-12,2020,March,3,Thursday,Uttar Pradesh,Kanpur,High,9,Foggy,Service Road,Tempo,Evening (15-19),1
+ACC0950,2023-11-04,2023,November,11,Saturday,Maharashtra,Aurangabad,High,11,Rainy,National Highway,Bus,Evening (15-19),1
+ACC0951,2021-09-08,2021,September,9,Wednesday,Maharashtra,Pune,Medium,3,Foggy,Rural Road,Tempo,Evening (15-19),0
+ACC0952,2023-08-12,2023,August,8,Saturday,Madhya Pradesh,Bhopal,High,12,Foggy,Rural Road,Tempo,Night (19-23),1
+ACC0953,2021-11-12,2021,November,11,Friday,Madhya Pradesh,Bhopal,High,13,Rainy,National Highway,Two-Wheeler,Night (19-23),1
+ACC0954,2023-05-18,2023,May,5,Thursday,Telangana,Nizamabad,Medium,2,Cloudy,Service Road,Tempo,Afternoon (10-15),0
+ACC0955,2023-07-14,2023,July,7,Friday,West Bengal,Howrah,Low,2,Clear,Urban Road,Two-Wheeler,Late Night (23-6),0
+ACC0956,2020-06-17,2020,June,6,Wednesday,Maharashtra,Pune,Medium,3,Rainy,Expressway,Tempo,Night (19-23),0
+ACC0957,2021-10-16,2021,October,10,Saturday,West Bengal,Siliguri,Low,0,Hazy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC0958,2021-07-31,2021,July,7,Saturday,Rajasthan,Jaipur,Low,1,Cloudy,Rural Road,SUV,Late Night (23-6),0
+ACC0959,2021-04-04,2021,April,4,Sunday,Uttar Pradesh,Lucknow,High,15,Stormy,State Highway,Car,Night (19-23),1
+ACC0960,2021-02-10,2021,February,2,Wednesday,Karnataka,Mysuru,Low,1,Clear,Expressway,Two-Wheeler,Afternoon (10-15),0
+ACC0961,2020-07-01,2020,July,7,Wednesday,Gujarat,Surat,Low,2,Stormy,Expressway,Bus,Night (19-23),0
+ACC0962,2023-10-11,2023,October,10,Wednesday,West Bengal,Kolkata,High,8,Rainy,Urban Road,Two-Wheeler,Night (19-23),1
+ACC0963,2022-02-21,2022,February,2,Monday,Tamil Nadu,Salem,Medium,4,Rainy,Service Road,Tempo,Afternoon (10-15),0
+ACC0964,2022-05-06,2022,May,5,Friday,Tamil Nadu,Salem,Low,1,Rainy,State Highway,Auto-Rickshaw,Night (19-23),0
+ACC0965,2021-05-23,2021,May,5,Sunday,Gujarat,Gandhinagar,Medium,2,Hazy,National Highway,Bus,Afternoon (10-15),0
+ACC0966,2021-10-24,2021,October,10,Sunday,Madhya Pradesh,Indore,Medium,5,Hazy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC0967,2020-05-29,2020,May,5,Friday,Maharashtra,Aurangabad,Low,0,Clear,Rural Road,Two-Wheeler,Late Night (23-6),0
+ACC0968,2023-10-05,2023,October,10,Thursday,Bihar,Patna,Low,2,Clear,Rural Road,Two-Wheeler,Night (19-23),0
+ACC0969,2023-10-06,2023,October,10,Friday,Gujarat,Surat,Low,0,Stormy,Urban Road,Truck,Late Night (23-6),0
+ACC0970,2022-10-06,2022,October,10,Thursday,Gujarat,Rajkot,Low,2,Rainy,Expressway,Bus,Afternoon (10-15),0
+ACC0971,2021-06-17,2021,June,6,Thursday,Maharashtra,Nagpur,High,12,Clear,Urban Road,Tempo,Evening (15-19),1
+ACC0972,2022-05-30,2022,May,5,Monday,Karnataka,Hubli,High,9,Stormy,Expressway,Two-Wheeler,Night (19-23),1
+ACC0973,2020-12-03,2020,December,12,Thursday,Gujarat,Rajkot,Medium,5,Rainy,National Highway,Truck,Afternoon (10-15),0
+ACC0974,2020-04-21,2020,April,4,Tuesday,Rajasthan,Jodhpur,Medium,3,Clear,Service Road,Bus,Night (19-23),0
+ACC0975,2020-08-25,2020,August,8,Tuesday,West Bengal,Kolkata,Low,2,Cloudy,Expressway,Bus,Night (19-23),0
+ACC0976,2022-10-06,2022,October,10,Thursday,Maharashtra,Pune,Low,0,Clear,Urban Road,Truck,Afternoon (10-15),0
+ACC0977,2022-11-07,2022,November,11,Monday,Karnataka,Belagavi,Medium,6,Hazy,National Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC0978,2021-01-04,2021,January,1,Monday,Madhya Pradesh,Bhopal,High,15,Rainy,National Highway,Two-Wheeler,Morning (6-10),1
+ACC0979,2021-08-05,2021,August,8,Thursday,Maharashtra,Nashik,High,6,Foggy,Urban Road,Truck,Morning (6-10),1
+ACC0980,2020-06-15,2020,June,6,Monday,West Bengal,Siliguri,Medium,4,Cloudy,Expressway,Tempo,Morning (6-10),0
+ACC0981,2021-11-05,2021,November,11,Friday,Uttar Pradesh,Noida,Low,2,Cloudy,Service Road,SUV,Late Night (23-6),0
+ACC0982,2020-09-21,2020,September,9,Monday,Rajasthan,Jaipur,Medium,2,Hazy,Service Road,Car,Late Night (23-6),0
+ACC0983,2023-05-18,2023,May,5,Thursday,Madhya Pradesh,Bhopal,Low,0,Cloudy,Rural Road,Car,Morning (6-10),0
+ACC0984,2021-03-02,2021,March,3,Tuesday,Tamil Nadu,Salem,Low,2,Cloudy,State Highway,Car,Evening (15-19),0
+ACC0985,2022-10-02,2022,October,10,Sunday,Madhya Pradesh,Gwalior,Medium,4,Hazy,Service Road,Car,Evening (15-19),0
+ACC0986,2022-11-15,2022,November,11,Tuesday,Rajasthan,Kota,High,12,Cloudy,Urban Road,Auto-Rickshaw,Late Night (23-6),1
+ACC0987,2022-05-16,2022,May,5,Monday,Maharashtra,Nashik,High,11,Foggy,Service Road,Bus,Morning (6-10),1
+ACC0988,2020-03-23,2020,March,3,Monday,Telangana,Nizamabad,Medium,3,Cloudy,Rural Road,Auto-Rickshaw,Late Night (23-6),0
+ACC0989,2020-06-20,2020,June,6,Saturday,Karnataka,Mangaluru,Low,1,Cloudy,Urban Road,Truck,Afternoon (10-15),0
+ACC0990,2023-11-02,2023,November,11,Thursday,Karnataka,Mysuru,Medium,6,Stormy,National Highway,Auto-Rickshaw,Morning (6-10),0
+ACC0991,2020-04-02,2020,April,4,Thursday,Telangana,Hyderabad,Medium,2,Stormy,Rural Road,Tempo,Late Night (23-6),0
+ACC0992,2021-06-02,2021,June,6,Wednesday,Gujarat,Vadodara,Low,2,Stormy,National Highway,Car,Night (19-23),0
+ACC0993,2021-01-02,2021,January,1,Saturday,Tamil Nadu,Salem,Low,2,Clear,Urban Road,Two-Wheeler,Late Night (23-6),0
+ACC0994,2022-07-20,2022,July,7,Wednesday,West Bengal,Durgapur,Medium,3,Foggy,State Highway,Truck,Morning (6-10),0
+ACC0995,2023-05-22,2023,May,5,Monday,Karnataka,Bengaluru,Medium,2,Cloudy,Rural Road,Car,Morning (6-10),0
+ACC0996,2020-12-17,2020,December,12,Thursday,West Bengal,Siliguri,Medium,6,Hazy,Service Road,Bus,Evening (15-19),0
+ACC0997,2023-06-20,2023,June,6,Tuesday,Bihar,Bhagalpur,Medium,5,Hazy,Urban Road,Car,Afternoon (10-15),0
+ACC0998,2020-10-03,2020,October,10,Saturday,Uttar Pradesh,Kanpur,High,8,Clear,National Highway,Truck,Night (19-23),1
+ACC0999,2023-08-21,2023,August,8,Monday,Tamil Nadu,Coimbatore,High,13,Cloudy,State Highway,Car,Evening (15-19),1
+ACC1000,2022-08-07,2022,August,8,Sunday,Tamil Nadu,Salem,Low,0,Cloudy,State Highway,Tempo,Night (19-23),0
+ACC1001,2022-09-20,2022,September,9,Tuesday,West Bengal,Kolkata,Medium,3,Cloudy,Urban Road,Auto-Rickshaw,Night (19-23),0
+ACC1002,2020-04-14,2020,April,4,Tuesday,Gujarat,Ahmedabad,Medium,5,Clear,Rural Road,SUV,Night (19-23),0
+ACC1003,2023-03-31,2023,March,3,Friday,Bihar,Darbhanga,Low,1,Foggy,Rural Road,Auto-Rickshaw,Late Night (23-6),0
+ACC1004,2023-06-06,2023,June,6,Tuesday,West Bengal,Howrah,Low,0,Hazy,Rural Road,Auto-Rickshaw,Evening (15-19),0
+ACC1005,2023-02-07,2023,February,2,Tuesday,Maharashtra,Nagpur,Medium,5,Hazy,National Highway,Bus,Late Night (23-6),0
+ACC1006,2023-08-16,2023,August,8,Wednesday,Gujarat,Rajkot,Medium,3,Hazy,Urban Road,Tempo,Afternoon (10-15),0
+ACC1007,2022-08-19,2022,August,8,Friday,Gujarat,Rajkot,Medium,6,Rainy,Service Road,Two-Wheeler,Late Night (23-6),0
+ACC1008,2023-09-07,2023,September,9,Thursday,West Bengal,Howrah,High,11,Foggy,Rural Road,SUV,Evening (15-19),1
+ACC1009,2022-08-25,2022,August,8,Thursday,Tamil Nadu,Tiruchirappalli,Low,2,Rainy,National Highway,Tempo,Night (19-23),0
+ACC1010,2020-09-21,2020,September,9,Monday,Tamil Nadu,Coimbatore,Medium,2,Rainy,Rural Road,Bus,Evening (15-19),0
+ACC1011,2021-04-25,2021,April,4,Sunday,Rajasthan,Ajmer,High,10,Clear,Urban Road,Two-Wheeler,Afternoon (10-15),1
+ACC1012,2020-12-23,2020,December,12,Wednesday,Telangana,Hyderabad,Low,0,Clear,Expressway,Truck,Morning (6-10),0
+ACC1013,2023-02-24,2023,February,2,Friday,Rajasthan,Kota,High,10,Foggy,National Highway,SUV,Late Night (23-6),1
+ACC1014,2021-07-01,2021,July,7,Thursday,Tamil Nadu,Tiruchirappalli,High,5,Stormy,Rural Road,SUV,Night (19-23),1
+ACC1015,2020-08-15,2020,August,8,Saturday,Maharashtra,Aurangabad,High,6,Stormy,Expressway,Car,Late Night (23-6),1
+ACC1016,2020-08-03,2020,August,8,Monday,Tamil Nadu,Chennai,High,7,Rainy,Service Road,Two-Wheeler,Night (19-23),1
+ACC1017,2022-11-02,2022,November,11,Wednesday,West Bengal,Kolkata,Medium,4,Rainy,State Highway,Car,Afternoon (10-15),0
+ACC1018,2022-06-18,2022,June,6,Saturday,Madhya Pradesh,Bhopal,High,12,Rainy,Urban Road,Two-Wheeler,Late Night (23-6),1
+ACC1019,2020-12-16,2020,December,12,Wednesday,Maharashtra,Nagpur,High,11,Foggy,Urban Road,Tempo,Afternoon (10-15),1
+ACC1020,2020-11-06,2020,November,11,Friday,Telangana,Karimnagar,Low,1,Rainy,Rural Road,Bus,Night (19-23),0
+ACC1021,2022-11-23,2022,November,11,Wednesday,Gujarat,Ahmedabad,Low,0,Cloudy,Service Road,SUV,Late Night (23-6),0
+ACC1022,2020-05-22,2020,May,5,Friday,Maharashtra,Nagpur,Medium,3,Foggy,Rural Road,Car,Night (19-23),0
+ACC1023,2020-03-16,2020,March,3,Monday,Tamil Nadu,Tiruchirappalli,High,15,Clear,Expressway,Two-Wheeler,Night (19-23),1
+ACC1024,2022-04-03,2022,April,4,Sunday,Telangana,Nizamabad,High,10,Hazy,National Highway,SUV,Evening (15-19),1
+ACC1025,2022-12-16,2022,December,12,Friday,Bihar,Gaya,Medium,3,Hazy,Expressway,Auto-Rickshaw,Late Night (23-6),0
+ACC1026,2023-08-28,2023,August,8,Monday,West Bengal,Asansol,Medium,3,Hazy,Urban Road,Car,Morning (6-10),0
+ACC1027,2023-01-05,2023,January,1,Thursday,Gujarat,Rajkot,High,7,Hazy,Expressway,Auto-Rickshaw,Evening (15-19),1
+ACC1028,2021-03-13,2021,March,3,Saturday,Maharashtra,Aurangabad,Medium,4,Stormy,Service Road,Truck,Morning (6-10),0
+ACC1029,2020-02-27,2020,February,2,Thursday,Telangana,Khammam,Medium,4,Foggy,Service Road,Bus,Late Night (23-6),0
+ACC1030,2020-08-14,2020,August,8,Friday,Uttar Pradesh,Agra,High,10,Foggy,National Highway,Car,Morning (6-10),1
+ACC1031,2022-07-08,2022,July,7,Friday,Karnataka,Belagavi,Low,1,Hazy,State Highway,SUV,Late Night (23-6),0
+ACC1032,2023-03-04,2023,March,3,Saturday,Telangana,Khammam,Medium,4,Rainy,Service Road,SUV,Late Night (23-6),0
+ACC1033,2023-10-09,2023,October,10,Monday,Tamil Nadu,Salem,High,6,Stormy,Urban Road,Auto-Rickshaw,Late Night (23-6),1
+ACC1034,2021-01-29,2021,January,1,Friday,Gujarat,Rajkot,Low,1,Clear,Rural Road,Car,Morning (6-10),0
+ACC1035,2020-05-07,2020,May,5,Thursday,Madhya Pradesh,Indore,Low,0,Cloudy,Urban Road,Tempo,Late Night (23-6),0
+ACC1036,2022-04-04,2022,April,4,Monday,Bihar,Darbhanga,High,9,Stormy,Expressway,Bus,Night (19-23),1
+ACC1037,2022-06-20,2022,June,6,Monday,West Bengal,Siliguri,Low,0,Rainy,Rural Road,Tempo,Night (19-23),0
+ACC1038,2020-09-21,2020,September,9,Monday,Telangana,Khammam,Medium,5,Clear,Rural Road,Car,Afternoon (10-15),0
+ACC1039,2023-02-18,2023,February,2,Saturday,Gujarat,Ahmedabad,High,6,Stormy,National Highway,Two-Wheeler,Late Night (23-6),1
+ACC1040,2021-08-16,2021,August,8,Monday,Uttar Pradesh,Noida,Low,1,Rainy,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC1041,2022-09-22,2022,September,9,Thursday,Uttar Pradesh,Kanpur,High,11,Rainy,National Highway,Two-Wheeler,Evening (15-19),1
+ACC1042,2021-03-17,2021,March,3,Wednesday,Tamil Nadu,Salem,Low,1,Clear,National Highway,SUV,Morning (6-10),0
+ACC1043,2022-05-05,2022,May,5,Thursday,West Bengal,Durgapur,High,10,Foggy,Rural Road,Bus,Late Night (23-6),1
+ACC1044,2020-09-28,2020,September,9,Monday,Tamil Nadu,Tiruchirappalli,Medium,5,Hazy,Service Road,Bus,Afternoon (10-15),0
+ACC1045,2021-10-28,2021,October,10,Thursday,Maharashtra,Aurangabad,Medium,5,Hazy,State Highway,Bus,Evening (15-19),0
+ACC1046,2023-01-12,2023,January,1,Thursday,Uttar Pradesh,Varanasi,Low,0,Hazy,State Highway,Tempo,Morning (6-10),0
+ACC1047,2023-03-17,2023,March,3,Friday,Karnataka,Belagavi,Low,2,Hazy,National Highway,Truck,Late Night (23-6),0
+ACC1048,2023-01-14,2023,January,1,Saturday,Bihar,Patna,High,12,Stormy,Expressway,Car,Morning (6-10),1
+ACC1049,2023-09-10,2023,September,9,Sunday,Telangana,Warangal,Low,0,Clear,State Highway,SUV,Late Night (23-6),0
+ACC1050,2022-06-28,2022,June,6,Tuesday,Maharashtra,Aurangabad,Medium,6,Stormy,National Highway,Bus,Morning (6-10),0
+ACC1051,2021-11-27,2021,November,11,Saturday,Madhya Pradesh,Indore,Low,2,Cloudy,Urban Road,Bus,Evening (15-19),0
+ACC1052,2020-07-05,2020,July,7,Sunday,Maharashtra,Mumbai,Low,0,Stormy,State Highway,Two-Wheeler,Morning (6-10),0
+ACC1053,2020-11-11,2020,November,11,Wednesday,Karnataka,Mangaluru,Low,2,Hazy,Urban Road,Truck,Morning (6-10),0
+ACC1054,2023-12-31,2023,December,12,Sunday,Uttar Pradesh,Agra,Low,0,Cloudy,Rural Road,Two-Wheeler,Evening (15-19),0
+ACC1055,2022-02-08,2022,February,2,Tuesday,Maharashtra,Mumbai,Low,2,Rainy,Expressway,Truck,Night (19-23),0
+ACC1056,2022-11-07,2022,November,11,Monday,Telangana,Karimnagar,Low,1,Clear,Rural Road,Auto-Rickshaw,Night (19-23),0
+ACC1057,2020-05-14,2020,May,5,Thursday,West Bengal,Kolkata,Medium,2,Cloudy,Urban Road,Auto-Rickshaw,Late Night (23-6),0
+ACC1058,2023-10-14,2023,October,10,Saturday,Maharashtra,Pune,High,7,Stormy,Urban Road,Auto-Rickshaw,Night (19-23),1
+ACC1059,2022-07-02,2022,July,7,Saturday,Maharashtra,Aurangabad,High,7,Rainy,Urban Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC1060,2021-05-17,2021,May,5,Monday,Telangana,Karimnagar,Medium,2,Stormy,Rural Road,SUV,Late Night (23-6),0
+ACC1061,2021-08-15,2021,August,8,Sunday,Tamil Nadu,Chennai,High,12,Clear,Urban Road,Auto-Rickshaw,Evening (15-19),1
+ACC1062,2023-10-24,2023,October,10,Tuesday,Madhya Pradesh,Gwalior,Low,2,Hazy,Urban Road,Car,Afternoon (10-15),0
+ACC1063,2022-12-29,2022,December,12,Thursday,Bihar,Patna,Low,2,Foggy,National Highway,SUV,Afternoon (10-15),0
+ACC1064,2023-02-13,2023,February,2,Monday,Karnataka,Mangaluru,Medium,4,Rainy,Service Road,Two-Wheeler,Evening (15-19),0
+ACC1065,2023-12-20,2023,December,12,Wednesday,West Bengal,Asansol,Medium,4,Rainy,Urban Road,Truck,Night (19-23),0
+ACC1066,2023-05-12,2023,May,5,Friday,Gujarat,Ahmedabad,Low,0,Hazy,Expressway,Bus,Morning (6-10),0
+ACC1067,2020-01-20,2020,January,1,Monday,Tamil Nadu,Salem,High,12,Stormy,Rural Road,Auto-Rickshaw,Morning (6-10),1
+ACC1068,2023-08-22,2023,August,8,Tuesday,Maharashtra,Aurangabad,High,15,Clear,Rural Road,Tempo,Morning (6-10),1
+ACC1069,2021-12-23,2021,December,12,Thursday,Madhya Pradesh,Ujjain,Medium,2,Foggy,National Highway,Bus,Evening (15-19),0
+ACC1070,2021-01-30,2021,January,1,Saturday,West Bengal,Kolkata,High,9,Rainy,Service Road,Tempo,Evening (15-19),1
+ACC1071,2021-01-27,2021,January,1,Wednesday,Maharashtra,Aurangabad,Medium,3,Hazy,State Highway,Bus,Evening (15-19),0
+ACC1072,2020-03-16,2020,March,3,Monday,Karnataka,Mangaluru,High,8,Hazy,National Highway,Truck,Night (19-23),1
+ACC1073,2020-08-15,2020,August,8,Saturday,Karnataka,Belagavi,Medium,6,Stormy,State Highway,Tempo,Late Night (23-6),0
+ACC1074,2023-10-08,2023,October,10,Sunday,Bihar,Darbhanga,Low,0,Rainy,Service Road,Car,Afternoon (10-15),0
+ACC1075,2021-06-15,2021,June,6,Tuesday,Bihar,Gaya,High,9,Stormy,State Highway,SUV,Morning (6-10),1
+ACC1076,2023-11-20,2023,November,11,Monday,Telangana,Khammam,High,12,Foggy,National Highway,Bus,Morning (6-10),1
+ACC1077,2021-10-23,2021,October,10,Saturday,Madhya Pradesh,Jabalpur,Low,2,Foggy,Rural Road,Bus,Evening (15-19),0
+ACC1078,2022-11-25,2022,November,11,Friday,Uttar Pradesh,Kanpur,Low,1,Clear,Expressway,Bus,Evening (15-19),0
+ACC1079,2020-01-11,2020,January,1,Saturday,Madhya Pradesh,Indore,Low,2,Foggy,National Highway,Tempo,Afternoon (10-15),0
+ACC1080,2023-11-13,2023,November,11,Monday,Madhya Pradesh,Bhopal,Low,1,Rainy,Urban Road,Car,Morning (6-10),0
+ACC1081,2020-02-27,2020,February,2,Thursday,West Bengal,Siliguri,Medium,4,Clear,Urban Road,Truck,Morning (6-10),0
+ACC1082,2022-08-27,2022,August,8,Saturday,Rajasthan,Udaipur,High,13,Clear,State Highway,Car,Late Night (23-6),1
+ACC1083,2023-06-22,2023,June,6,Thursday,West Bengal,Kolkata,Medium,2,Hazy,National Highway,Car,Morning (6-10),0
+ACC1084,2022-02-11,2022,February,2,Friday,Gujarat,Ahmedabad,Low,1,Rainy,National Highway,Two-Wheeler,Late Night (23-6),0
+ACC1085,2023-07-06,2023,July,7,Thursday,Madhya Pradesh,Bhopal,Medium,6,Clear,National Highway,Two-Wheeler,Night (19-23),0
+ACC1086,2022-04-02,2022,April,4,Saturday,Maharashtra,Aurangabad,Low,2,Cloudy,Service Road,Auto-Rickshaw,Morning (6-10),0
+ACC1087,2022-07-17,2022,July,7,Sunday,Madhya Pradesh,Jabalpur,High,14,Cloudy,National Highway,Two-Wheeler,Morning (6-10),1
+ACC1088,2022-07-18,2022,July,7,Monday,Telangana,Nizamabad,Medium,2,Stormy,National Highway,Auto-Rickshaw,Morning (6-10),0
+ACC1089,2023-04-29,2023,April,4,Saturday,Rajasthan,Ajmer,Medium,4,Rainy,Urban Road,Bus,Night (19-23),0
+ACC1090,2023-06-25,2023,June,6,Sunday,West Bengal,Howrah,Low,0,Rainy,National Highway,Truck,Evening (15-19),0
+ACC1091,2023-04-12,2023,April,4,Wednesday,Madhya Pradesh,Ujjain,High,9,Hazy,Expressway,Auto-Rickshaw,Afternoon (10-15),1
+ACC1092,2020-10-28,2020,October,10,Wednesday,West Bengal,Asansol,Medium,4,Stormy,National Highway,Auto-Rickshaw,Late Night (23-6),0
+ACC1093,2023-09-08,2023,September,9,Friday,Tamil Nadu,Chennai,Medium,6,Rainy,National Highway,Bus,Evening (15-19),0
+ACC1094,2021-02-04,2021,February,2,Thursday,Rajasthan,Jodhpur,Low,2,Clear,Rural Road,Tempo,Night (19-23),0
+ACC1095,2023-05-13,2023,May,5,Saturday,Gujarat,Gandhinagar,High,14,Stormy,Urban Road,Bus,Evening (15-19),1
+ACC1096,2020-11-28,2020,November,11,Saturday,Maharashtra,Nashik,Medium,2,Clear,Service Road,Truck,Afternoon (10-15),0
+ACC1097,2022-08-13,2022,August,8,Saturday,Bihar,Gaya,Medium,4,Rainy,Service Road,Bus,Afternoon (10-15),0
+ACC1098,2022-03-30,2022,March,3,Wednesday,Tamil Nadu,Chennai,Low,1,Foggy,National Highway,Auto-Rickshaw,Morning (6-10),0
+ACC1099,2020-10-18,2020,October,10,Sunday,Karnataka,Mangaluru,Medium,4,Rainy,National Highway,Car,Afternoon (10-15),0
+ACC1100,2021-02-09,2021,February,2,Tuesday,Karnataka,Mysuru,High,7,Rainy,Urban Road,SUV,Late Night (23-6),1
+ACC1101,2021-05-18,2021,May,5,Tuesday,Tamil Nadu,Coimbatore,Low,1,Clear,National Highway,Car,Afternoon (10-15),0
+ACC1102,2022-02-15,2022,February,2,Tuesday,Maharashtra,Nagpur,Medium,3,Rainy,Urban Road,SUV,Evening (15-19),0
+ACC1103,2023-09-15,2023,September,9,Friday,Tamil Nadu,Tiruchirappalli,High,6,Stormy,National Highway,Truck,Afternoon (10-15),1
+ACC1104,2021-01-23,2021,January,1,Saturday,Rajasthan,Ajmer,Medium,4,Cloudy,Expressway,Bus,Afternoon (10-15),0
+ACC1105,2020-04-04,2020,April,4,Saturday,Bihar,Darbhanga,High,9,Rainy,State Highway,Two-Wheeler,Afternoon (10-15),1
+ACC1106,2020-04-19,2020,April,4,Sunday,Karnataka,Mysuru,High,12,Stormy,State Highway,Tempo,Morning (6-10),1
+ACC1107,2022-08-21,2022,August,8,Sunday,Bihar,Patna,Medium,6,Rainy,Urban Road,Bus,Late Night (23-6),0
+ACC1108,2022-08-08,2022,August,8,Monday,Tamil Nadu,Madurai,Medium,5,Hazy,Service Road,Bus,Night (19-23),0
+ACC1109,2021-07-03,2021,July,7,Saturday,Bihar,Muzaffarpur,High,14,Hazy,Service Road,Car,Afternoon (10-15),1
+ACC1110,2021-03-25,2021,March,3,Thursday,Rajasthan,Kota,Medium,4,Rainy,Rural Road,Bus,Late Night (23-6),0
+ACC1111,2020-11-17,2020,November,11,Tuesday,Gujarat,Vadodara,Low,0,Stormy,Urban Road,Bus,Late Night (23-6),0
+ACC1112,2021-12-21,2021,December,12,Tuesday,Rajasthan,Ajmer,Medium,6,Clear,Urban Road,Bus,Night (19-23),0
+ACC1113,2022-08-15,2022,August,8,Monday,Madhya Pradesh,Jabalpur,High,10,Foggy,Urban Road,Bus,Morning (6-10),1
+ACC1114,2021-01-02,2021,January,1,Saturday,West Bengal,Howrah,High,10,Foggy,National Highway,Two-Wheeler,Late Night (23-6),1
+ACC1115,2022-11-16,2022,November,11,Wednesday,Telangana,Hyderabad,High,6,Foggy,National Highway,Car,Evening (15-19),1
+ACC1116,2020-03-19,2020,March,3,Thursday,Telangana,Warangal,Low,1,Foggy,Urban Road,Two-Wheeler,Evening (15-19),0
+ACC1117,2021-01-25,2021,January,1,Monday,Bihar,Gaya,High,9,Hazy,National Highway,SUV,Evening (15-19),1
+ACC1118,2021-07-31,2021,July,7,Saturday,Gujarat,Rajkot,High,15,Cloudy,National Highway,Bus,Late Night (23-6),1
+ACC1119,2020-11-01,2020,November,11,Sunday,Madhya Pradesh,Indore,High,8,Rainy,Rural Road,Truck,Late Night (23-6),1
+ACC1120,2023-04-17,2023,April,4,Monday,Telangana,Karimnagar,High,10,Hazy,National Highway,Two-Wheeler,Afternoon (10-15),1
+ACC1121,2022-05-28,2022,May,5,Saturday,Madhya Pradesh,Indore,Medium,6,Cloudy,National Highway,Two-Wheeler,Afternoon (10-15),0
+ACC1122,2023-03-28,2023,March,3,Tuesday,Tamil Nadu,Madurai,Low,2,Hazy,Urban Road,Two-Wheeler,Afternoon (10-15),0
+ACC1123,2022-05-08,2022,May,5,Sunday,Madhya Pradesh,Jabalpur,Medium,4,Hazy,Expressway,Car,Late Night (23-6),0
+ACC1124,2020-03-06,2020,March,3,Friday,Tamil Nadu,Coimbatore,High,14,Foggy,Expressway,Auto-Rickshaw,Night (19-23),1
+ACC1125,2022-02-19,2022,February,2,Saturday,Rajasthan,Kota,Medium,3,Clear,Rural Road,Car,Evening (15-19),0
+ACC1126,2023-03-12,2023,March,3,Sunday,West Bengal,Asansol,Low,2,Clear,Expressway,Truck,Morning (6-10),0
+ACC1127,2023-11-12,2023,November,11,Sunday,Bihar,Muzaffarpur,Low,0,Clear,Rural Road,Two-Wheeler,Afternoon (10-15),0
+ACC1128,2021-04-22,2021,April,4,Thursday,Karnataka,Belagavi,Medium,4,Clear,Expressway,Car,Afternoon (10-15),0
+ACC1129,2021-10-31,2021,October,10,Sunday,Madhya Pradesh,Jabalpur,High,7,Rainy,Expressway,Bus,Night (19-23),1
+ACC1130,2020-05-20,2020,May,5,Wednesday,Madhya Pradesh,Indore,High,9,Rainy,Rural Road,SUV,Night (19-23),1
+ACC1131,2020-11-21,2020,November,11,Saturday,Bihar,Darbhanga,High,13,Foggy,Service Road,Tempo,Night (19-23),1
+ACC1132,2021-07-18,2021,July,7,Sunday,Rajasthan,Jaipur,Medium,5,Rainy,Expressway,SUV,Afternoon (10-15),0
+ACC1133,2022-12-12,2022,December,12,Monday,Gujarat,Gandhinagar,Medium,6,Cloudy,National Highway,Tempo,Morning (6-10),0
+ACC1134,2021-08-12,2021,August,8,Thursday,West Bengal,Asansol,High,9,Hazy,Rural Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC1135,2022-04-30,2022,April,4,Saturday,Rajasthan,Jodhpur,High,12,Stormy,Rural Road,Tempo,Afternoon (10-15),1
+ACC1136,2023-12-01,2023,December,12,Friday,Bihar,Patna,Medium,2,Cloudy,State Highway,SUV,Afternoon (10-15),0
+ACC1137,2021-07-14,2021,July,7,Wednesday,Telangana,Nizamabad,High,8,Hazy,Rural Road,Bus,Late Night (23-6),1
+ACC1138,2020-09-05,2020,September,9,Saturday,Gujarat,Ahmedabad,Medium,4,Clear,Rural Road,Bus,Afternoon (10-15),0
+ACC1139,2021-06-01,2021,June,6,Tuesday,Rajasthan,Ajmer,Medium,2,Clear,Service Road,Tempo,Night (19-23),0
+ACC1140,2022-02-19,2022,February,2,Saturday,Gujarat,Rajkot,Medium,2,Rainy,Urban Road,Car,Afternoon (10-15),0
+ACC1141,2021-10-31,2021,October,10,Sunday,West Bengal,Siliguri,Low,2,Cloudy,Service Road,Truck,Night (19-23),0
+ACC1142,2020-10-14,2020,October,10,Wednesday,West Bengal,Asansol,Low,0,Rainy,Expressway,Car,Afternoon (10-15),0
+ACC1143,2021-08-25,2021,August,8,Wednesday,Maharashtra,Aurangabad,Medium,2,Hazy,Service Road,SUV,Morning (6-10),0
+ACC1144,2023-10-19,2023,October,10,Thursday,Karnataka,Mysuru,Low,0,Cloudy,Service Road,Car,Late Night (23-6),0
+ACC1145,2021-03-18,2021,March,3,Thursday,West Bengal,Kolkata,High,15,Hazy,Service Road,Tempo,Morning (6-10),1
+ACC1146,2022-03-10,2022,March,3,Thursday,Karnataka,Mangaluru,Medium,2,Clear,Rural Road,SUV,Afternoon (10-15),0
+ACC1147,2021-05-26,2021,May,5,Wednesday,Gujarat,Surat,Low,1,Rainy,National Highway,Car,Evening (15-19),0
+ACC1148,2021-01-28,2021,January,1,Thursday,Maharashtra,Pune,Medium,3,Clear,Service Road,Truck,Morning (6-10),0
+ACC1149,2022-05-01,2022,May,5,Sunday,Telangana,Hyderabad,Medium,3,Foggy,Expressway,Truck,Late Night (23-6),0
+ACC1150,2022-03-20,2022,March,3,Sunday,Madhya Pradesh,Bhopal,Low,1,Rainy,Urban Road,Truck,Morning (6-10),0
+ACC1151,2022-04-03,2022,April,4,Sunday,Gujarat,Ahmedabad,Low,0,Cloudy,National Highway,Tempo,Evening (15-19),0
+ACC1152,2023-08-24,2023,August,8,Thursday,Bihar,Bhagalpur,Low,0,Clear,Rural Road,Two-Wheeler,Late Night (23-6),0
+ACC1153,2022-10-20,2022,October,10,Thursday,Maharashtra,Aurangabad,Low,0,Stormy,Expressway,Two-Wheeler,Night (19-23),0
+ACC1154,2023-10-20,2023,October,10,Friday,Tamil Nadu,Madurai,Medium,4,Rainy,Service Road,Bus,Morning (6-10),0
+ACC1155,2021-11-17,2021,November,11,Wednesday,Uttar Pradesh,Noida,Medium,6,Stormy,Service Road,Tempo,Afternoon (10-15),0
+ACC1156,2022-10-28,2022,October,10,Friday,Bihar,Patna,Low,0,Rainy,Urban Road,Truck,Night (19-23),0
+ACC1157,2021-05-13,2021,May,5,Thursday,Bihar,Patna,Low,1,Clear,Urban Road,Truck,Afternoon (10-15),0
+ACC1158,2022-02-08,2022,February,2,Tuesday,Rajasthan,Jaipur,High,14,Rainy,Rural Road,Tempo,Evening (15-19),1
+ACC1159,2020-10-01,2020,October,10,Thursday,Karnataka,Hubli,High,5,Hazy,Expressway,SUV,Night (19-23),1
+ACC1160,2023-08-20,2023,August,8,Sunday,Karnataka,Bengaluru,High,10,Rainy,Urban Road,Truck,Afternoon (10-15),1
+ACC1161,2023-01-09,2023,January,1,Monday,Uttar Pradesh,Kanpur,High,8,Hazy,Expressway,SUV,Night (19-23),1
+ACC1162,2022-12-03,2022,December,12,Saturday,Gujarat,Surat,Medium,2,Cloudy,Rural Road,Car,Afternoon (10-15),0
+ACC1163,2020-04-16,2020,April,4,Thursday,Tamil Nadu,Coimbatore,Low,2,Rainy,Expressway,SUV,Afternoon (10-15),0
+ACC1164,2021-04-28,2021,April,4,Wednesday,Telangana,Hyderabad,Medium,4,Cloudy,State Highway,Tempo,Afternoon (10-15),0
+ACC1165,2021-05-16,2021,May,5,Sunday,Madhya Pradesh,Indore,Medium,4,Stormy,Expressway,Bus,Afternoon (10-15),0
+ACC1166,2021-07-10,2021,July,7,Saturday,West Bengal,Kolkata,Medium,3,Foggy,Rural Road,Bus,Night (19-23),0
+ACC1167,2022-10-31,2022,October,10,Monday,Bihar,Muzaffarpur,High,12,Rainy,National Highway,SUV,Night (19-23),1
+ACC1168,2022-05-25,2022,May,5,Wednesday,Maharashtra,Nagpur,High,13,Stormy,Service Road,Truck,Evening (15-19),1
+ACC1169,2022-02-18,2022,February,2,Friday,West Bengal,Asansol,Low,2,Cloudy,Expressway,Bus,Morning (6-10),0
+ACC1170,2021-11-13,2021,November,11,Saturday,Tamil Nadu,Salem,Low,0,Rainy,National Highway,Car,Late Night (23-6),0
+ACC1171,2022-02-05,2022,February,2,Saturday,West Bengal,Siliguri,High,10,Cloudy,Rural Road,Bus,Evening (15-19),1
+ACC1172,2023-08-05,2023,August,8,Saturday,Bihar,Patna,High,6,Cloudy,Rural Road,Auto-Rickshaw,Afternoon (10-15),1
+ACC1173,2021-02-01,2021,February,2,Monday,Madhya Pradesh,Gwalior,Medium,5,Hazy,Service Road,Tempo,Evening (15-19),0
+ACC1174,2023-11-27,2023,November,11,Monday,Uttar Pradesh,Varanasi,Medium,3,Cloudy,Rural Road,Car,Evening (15-19),0
+ACC1175,2023-07-16,2023,July,7,Sunday,Uttar Pradesh,Kanpur,High,15,Foggy,State Highway,Two-Wheeler,Afternoon (10-15),1
+ACC1176,2023-05-18,2023,May,5,Thursday,Bihar,Gaya,Low,0,Clear,Service Road,Tempo,Night (19-23),0
+ACC1177,2022-03-25,2022,March,3,Friday,Bihar,Patna,High,11,Stormy,State Highway,SUV,Night (19-23),1
+ACC1178,2021-06-01,2021,June,6,Tuesday,Karnataka,Belagavi,High,11,Stormy,Expressway,Two-Wheeler,Night (19-23),1
+ACC1179,2020-07-01,2020,July,7,Wednesday,Maharashtra,Aurangabad,High,9,Foggy,Service Road,Truck,Night (19-23),1
+ACC1180,2023-12-02,2023,December,12,Saturday,Karnataka,Bengaluru,High,5,Rainy,National Highway,Car,Night (19-23),1
+ACC1181,2022-12-11,2022,December,12,Sunday,Madhya Pradesh,Gwalior,Medium,3,Hazy,Urban Road,Truck,Afternoon (10-15),0
+ACC1182,2021-02-09,2021,February,2,Tuesday,West Bengal,Howrah,High,12,Stormy,Expressway,SUV,Afternoon (10-15),1
+ACC1183,2021-01-15,2021,January,1,Friday,Rajasthan,Jaipur,Low,0,Hazy,Urban Road,SUV,Night (19-23),0
+ACC1184,2022-06-21,2022,June,6,Tuesday,Bihar,Patna,Low,1,Hazy,National Highway,Bus,Morning (6-10),0
+ACC1185,2021-07-20,2021,July,7,Tuesday,Maharashtra,Nagpur,Medium,5,Clear,Rural Road,Tempo,Morning (6-10),0
+ACC1186,2020-01-20,2020,January,1,Monday,Uttar Pradesh,Agra,Medium,2,Clear,National Highway,Truck,Late Night (23-6),0
+ACC1187,2020-01-15,2020,January,1,Wednesday,Madhya Pradesh,Ujjain,High,9,Stormy,Rural Road,Bus,Evening (15-19),1
+ACC1188,2023-05-22,2023,May,5,Monday,Madhya Pradesh,Gwalior,High,10,Foggy,Urban Road,SUV,Afternoon (10-15),1
+ACC1189,2022-01-09,2022,January,1,Sunday,Madhya Pradesh,Jabalpur,Low,1,Stormy,Urban Road,SUV,Morning (6-10),0
+ACC1190,2020-01-07,2020,January,1,Tuesday,West Bengal,Siliguri,High,7,Hazy,National Highway,Auto-Rickshaw,Morning (6-10),1
+ACC1191,2022-12-22,2022,December,12,Thursday,Karnataka,Mysuru,Medium,5,Foggy,Expressway,Bus,Afternoon (10-15),0
+ACC1192,2020-01-07,2020,January,1,Tuesday,Gujarat,Ahmedabad,Medium,2,Hazy,Service Road,Two-Wheeler,Night (19-23),0
+ACC1193,2021-04-23,2021,April,4,Friday,Bihar,Muzaffarpur,Medium,2,Cloudy,Urban Road,Bus,Night (19-23),0
+ACC1194,2023-09-10,2023,September,9,Sunday,Maharashtra,Nashik,High,7,Foggy,Expressway,Auto-Rickshaw,Late Night (23-6),1
+ACC1195,2020-03-06,2020,March,3,Friday,Tamil Nadu,Salem,Low,2,Clear,Expressway,SUV,Night (19-23),0
+ACC1196,2020-12-10,2020,December,12,Thursday,West Bengal,Kolkata,Medium,3,Cloudy,State Highway,Truck,Afternoon (10-15),0
+ACC1197,2023-09-13,2023,September,9,Wednesday,Maharashtra,Mumbai,High,5,Cloudy,State Highway,Two-Wheeler,Night (19-23),1
+ACC1198,2021-07-28,2021,July,7,Wednesday,Rajasthan,Udaipur,Medium,2,Hazy,Service Road,Truck,Late Night (23-6),0
+ACC1199,2023-07-21,2023,July,7,Friday,West Bengal,Kolkata,Medium,3,Hazy,Expressway,SUV,Late Night (23-6),0
+ACC1200,2020-05-12,2020,May,5,Tuesday,Gujarat,Rajkot,High,11,Hazy,Service Road,Tempo,Late Night (23-6),1
+ACC1201,2022-06-13,2022,June,6,Monday,Rajasthan,Jodhpur,Low,0,Foggy,National Highway,Car,Evening (15-19),0
+ACC1202,2023-04-27,2023,April,4,Thursday,Rajasthan,Jaipur,Medium,4,Stormy,Rural Road,Auto-Rickshaw,Morning (6-10),0
+ACC1203,2021-09-28,2021,September,9,Tuesday,Uttar Pradesh,Noida,Medium,5,Stormy,Rural Road,Two-Wheeler,Evening (15-19),0
+ACC1204,2023-10-23,2023,October,10,Monday,Tamil Nadu,Tiruchirappalli,Medium,3,Hazy,National Highway,Bus,Morning (6-10),0
+ACC1205,2023-01-07,2023,January,1,Saturday,West Bengal,Asansol,High,9,Rainy,State Highway,Bus,Night (19-23),1
+ACC1206,2020-10-28,2020,October,10,Wednesday,Bihar,Bhagalpur,High,5,Rainy,Expressway,Two-Wheeler,Evening (15-19),1
+ACC1207,2022-10-25,2022,October,10,Tuesday,Maharashtra,Nagpur,Medium,3,Hazy,Rural Road,Two-Wheeler,Night (19-23),0
+ACC1208,2020-04-30,2020,April,4,Thursday,Gujarat,Surat,Low,2,Hazy,State Highway,Tempo,Morning (6-10),0
+ACC1209,2021-01-01,2021,January,1,Friday,West Bengal,Siliguri,High,15,Foggy,State Highway,Car,Late Night (23-6),1
+ACC1210,2022-03-14,2022,March,3,Monday,Gujarat,Rajkot,Medium,4,Hazy,Rural Road,Bus,Morning (6-10),0
+ACC1211,2022-12-17,2022,December,12,Saturday,Karnataka,Hubli,High,13,Hazy,Rural Road,Car,Afternoon (10-15),1
+ACC1212,2021-10-24,2021,October,10,Sunday,Bihar,Patna,Medium,3,Hazy,Expressway,Truck,Night (19-23),0
+ACC1213,2023-11-26,2023,November,11,Sunday,West Bengal,Asansol,Low,2,Rainy,State Highway,Tempo,Morning (6-10),0
+ACC1214,2022-01-11,2022,January,1,Tuesday,Bihar,Patna,High,7,Hazy,Rural Road,Bus,Afternoon (10-15),1
+ACC1215,2020-04-25,2020,April,4,Saturday,Maharashtra,Nagpur,Low,0,Cloudy,National Highway,Auto-Rickshaw,Evening (15-19),0
+ACC1216,2023-04-30,2023,April,4,Sunday,Madhya Pradesh,Indore,High,8,Hazy,National Highway,Car,Afternoon (10-15),1
+ACC1217,2022-03-23,2022,March,3,Wednesday,West Bengal,Asansol,Medium,3,Hazy,Service Road,Tempo,Night (19-23),0
+ACC1218,2023-11-17,2023,November,11,Friday,Maharashtra,Nashik,Medium,5,Hazy,Urban Road,Car,Morning (6-10),0
+ACC1219,2020-08-26,2020,August,8,Wednesday,Maharashtra,Mumbai,Medium,6,Cloudy,State Highway,Car,Late Night (23-6),0
+ACC1220,2023-03-19,2023,March,3,Sunday,Bihar,Muzaffarpur,High,6,Foggy,Expressway,Truck,Night (19-23),1
+ACC1221,2022-09-18,2022,September,9,Sunday,Madhya Pradesh,Gwalior,Low,1,Stormy,National Highway,Tempo,Late Night (23-6),0
+ACC1222,2021-01-13,2021,January,1,Wednesday,Madhya Pradesh,Bhopal,Medium,6,Cloudy,Expressway,Bus,Morning (6-10),0
+ACC1223,2022-11-28,2022,November,11,Monday,Bihar,Darbhanga,High,15,Hazy,National Highway,SUV,Afternoon (10-15),1
+ACC1224,2023-09-10,2023,September,9,Sunday,Maharashtra,Pune,High,5,Stormy,Expressway,Bus,Evening (15-19),1
+ACC1225,2020-09-08,2020,September,9,Tuesday,Uttar Pradesh,Kanpur,Medium,3,Stormy,National Highway,Auto-Rickshaw,Evening (15-19),0
+ACC1226,2020-03-12,2020,March,3,Thursday,Maharashtra,Mumbai,Medium,6,Stormy,State Highway,Bus,Morning (6-10),0
+ACC1227,2021-05-23,2021,May,5,Sunday,Karnataka,Bengaluru,High,9,Stormy,Service Road,Auto-Rickshaw,Night (19-23),1
+ACC1228,2020-10-13,2020,October,10,Tuesday,Bihar,Muzaffarpur,Medium,4,Hazy,Expressway,Auto-Rickshaw,Late Night (23-6),0
+ACC1229,2021-03-05,2021,March,3,Friday,Maharashtra,Mumbai,Low,0,Rainy,Urban Road,SUV,Afternoon (10-15),0
+ACC1230,2020-10-01,2020,October,10,Thursday,Bihar,Darbhanga,Medium,4,Rainy,State Highway,Tempo,Late Night (23-6),0
+ACC1231,2022-05-14,2022,May,5,Saturday,Maharashtra,Aurangabad,Medium,3,Foggy,Rural Road,Bus,Morning (6-10),0
+ACC1232,2021-06-04,2021,June,6,Friday,Madhya Pradesh,Indore,Medium,4,Stormy,Service Road,Tempo,Afternoon (10-15),0
+ACC1233,2022-02-01,2022,February,2,Tuesday,Bihar,Darbhanga,Low,0,Stormy,Urban Road,SUV,Night (19-23),0
+ACC1234,2022-02-15,2022,February,2,Tuesday,Uttar Pradesh,Noida,Low,0,Rainy,Expressway,Car,Late Night (23-6),0
+ACC1235,2022-04-13,2022,April,4,Wednesday,Maharashtra,Nagpur,Low,1,Hazy,Urban Road,Truck,Afternoon (10-15),0
+ACC1236,2021-07-14,2021,July,7,Wednesday,Uttar Pradesh,Lucknow,High,8,Cloudy,Rural Road,Car,Morning (6-10),1
+ACC1237,2020-12-25,2020,December,12,Friday,Telangana,Nizamabad,High,12,Stormy,National Highway,Auto-Rickshaw,Evening (15-19),1
+ACC1238,2023-12-05,2023,December,12,Tuesday,Bihar,Bhagalpur,Medium,2,Stormy,National Highway,Truck,Evening (15-19),0
+ACC1239,2022-03-08,2022,March,3,Tuesday,Tamil Nadu,Madurai,Medium,6,Hazy,Expressway,Auto-Rickshaw,Night (19-23),0
+ACC1240,2022-09-03,2022,September,9,Saturday,Bihar,Gaya,Low,2,Foggy,Service Road,Truck,Afternoon (10-15),0
+ACC1241,2020-10-19,2020,October,10,Monday,Madhya Pradesh,Ujjain,Low,2,Hazy,Service Road,Two-Wheeler,Afternoon (10-15),0
+ACC1242,2023-10-20,2023,October,10,Friday,Bihar,Muzaffarpur,Medium,5,Hazy,Urban Road,SUV,Night (19-23),0
+ACC1243,2022-10-25,2022,October,10,Tuesday,Karnataka,Hubli,Medium,3,Cloudy,Urban Road,Tempo,Morning (6-10),0
+ACC1244,2021-09-17,2021,September,9,Friday,Madhya Pradesh,Gwalior,Medium,2,Clear,Service Road,Truck,Morning (6-10),0
+ACC1245,2020-12-04,2020,December,12,Friday,Bihar,Patna,Medium,6,Clear,Rural Road,SUV,Morning (6-10),0
+ACC1246,2022-05-18,2022,May,5,Wednesday,Telangana,Warangal,Medium,6,Cloudy,Service Road,Car,Night (19-23),0
+ACC1247,2020-01-29,2020,January,1,Wednesday,Bihar,Gaya,Low,1,Hazy,Service Road,Auto-Rickshaw,Evening (15-19),0
+ACC1248,2021-05-15,2021,May,5,Saturday,Telangana,Khammam,Medium,3,Clear,Service Road,SUV,Late Night (23-6),0
+ACC1249,2021-04-05,2021,April,4,Monday,Tamil Nadu,Chennai,High,13,Foggy,Urban Road,Car,Night (19-23),1
+ACC1250,2022-10-11,2022,October,10,Tuesday,Madhya Pradesh,Indore,High,10,Foggy,Service Road,Truck,Late Night (23-6),1
